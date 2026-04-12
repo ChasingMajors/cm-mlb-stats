@@ -2,6 +2,7 @@ import fs from "fs/promises";
 import { fetchAllActivePlayersWithStats } from "./fetch.js";
 import { addLeaderRanks, safeNum } from "./rank.js";
 import { buildPlayerSummaryRecord } from "./summary.js";
+import { fetchChecklistMetaIndex } from "./checklistMeta.js";
 
 function getCurrentSeasonYear() {
   return new Date().getFullYear();
@@ -63,13 +64,66 @@ function playerFromMlbPerson(row, season) {
   };
 }
 
+function normalizePlayerKey(name) {
+  return String(name || "")
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/[^\w\s'-]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function mergeChecklistMetaIntoSummary(summary, metaMap) {
+  const key = normalizePlayerKey(summary.player_name);
+  const meta = metaMap.get(key);
+
+  if (!meta) {
+    return {
+      ...summary,
+      checklist_years: [],
+      rc_year: null
+    };
+  }
+
+  const years = Array.isArray(meta.checklist_years) ? meta.checklist_years : [];
+  const rcYear = meta.rc_year || null;
+
+  const enrichedYears = years
+    .map(year => ({
+      year,
+      label: rcYear === year ? `${year} (RC)` : String(year),
+      is_rc_year: rcYear === year
+    }))
+    .sort((a, b) => {
+      if (a.is_rc_year && !b.is_rc_year) return -1;
+      if (!a.is_rc_year && b.is_rc_year) return 1;
+      return b.year - a.year;
+    });
+
+  return {
+    ...summary,
+    checklist_years: enrichedYears,
+    rc_year: rcYear
+  };
+}
+
 async function main() {
   const season = getCurrentSeasonYear();
-  const rawPlayers = await fetchAllActivePlayersWithStats(season);
+
+  const [rawPlayers, checklistMeta] = await Promise.all([
+    fetchAllActivePlayersWithStats(season),
+    fetchChecklistMetaIndex("baseball")
+  ]);
+
+  const metaMap = new Map(
+    checklistMeta.map(p => [normalizePlayerKey(p.player_name), p])
+  );
 
   const normalized = rawPlayers.map(row => playerFromMlbPerson(row, season));
   const ranked = addLeaderRanks(normalized);
-  const summaries = ranked.map(buildPlayerSummaryRecord);
+  const summaries = ranked
+    .map(buildPlayerSummaryRecord)
+    .map(summary => mergeChecklistMetaIntoSummary(summary, metaMap));
 
   await fs.mkdir("data/public", { recursive: true });
   await fs.writeFile(
