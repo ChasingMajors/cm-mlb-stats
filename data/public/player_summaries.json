@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T12:18:11.618Z",
+  "updated_at": "2026-07-14T10:58:05.337Z",
   "season": 2026,
   "players": [
     {
@@ -18751,6 +18751,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -27058,26 +27063,6 @@
       "rc_year": 2021
     },
     {
-      "player_id": "675919",
-      "player_name": "Nick Raquet",
-      "team": "BAL",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2017,
-          "label": "2017",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
-    {
       "player_id": "624413",
       "player_name": "Pete Alonso",
       "team": "BAL",
@@ -28816,6 +28801,11 @@
           "year": 2025,
           "label": "2025 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2020,
@@ -36252,21 +36242,6 @@
         }
       ],
       "rc_year": 2025
-    },
-    {
-      "player_id": "695001",
-      "player_name": "Alimber Santa",
-      "team": "HOU",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "694728",
