@@ -1,72 +1,7 @@
 {
-  "updated_at": "2026-07-15T11:04:10.231Z",
+  "updated_at": "2026-07-16T11:14:54.259Z",
   "season": 2026,
   "players": [
-    {
-      "player_id": "650644",
-      "player_name": "Aaron Civale",
-      "team": "ATH",
-      "current_season": null,
-      "career": {
-        "summary": "Aaron Civale has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..250",
-          "SLG": "..000",
-          "OPS": "..250",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
     {
       "player_id": "675961",
       "player_name": "Alika Williams",
@@ -130,56 +65,19 @@
       "rc_year": 2024
     },
     {
-      "player_id": "661531",
-      "player_name": "Brian Serven",
+      "player_id": "669620",
+      "player_name": "Brady Basso",
       "team": "ATH",
-      "current_season": {
-        "season": 2026,
-        "summary": "Brian Serven is having a season highlighted by 0 home runs, ..250 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "4",
-          "H": "1",
-          "HR": "0",
-          "BA": "..250",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..250",
-          "SLG": "..250",
-          "OPS": "..500",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Brian Serven has produced  career WAR with 6 home runs, 52 hits, and a ..188 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "52",
-          "HR": "6",
-          "BA": "..188",
-          "R": "25",
-          "RBI": "20",
-          "SB": "0",
-          "OBP": "..247",
-          "SLG": "..292",
-          "OPS": "..539",
-          "OPS+": ""
-        }
-      },
+      "current_season": null,
+      "career": null,
       "checklist_years": [
         {
-          "year": 2023,
-          "label": "2023 (RC)",
+          "year": 2025,
+          "label": "2025 (RC)",
           "is_rc_year": true
-        },
-        {
-          "year": 2016,
-          "label": "2016",
-          "is_rc_year": false
         }
       ],
-      "rc_year": 2023
+      "rc_year": 2025
     },
     {
       "player_id": "666126",
@@ -309,6 +207,53 @@
         }
       ],
       "rc_year": 2026
+    },
+    {
+      "player_id": "622268",
+      "player_name": "Donovan Walton",
+      "team": "ATH",
+      "current_season": {
+        "season": 2026,
+        "summary": "Donovan Walton is currently 13th in batting average this season.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "91",
+          "H": "29",
+          "HR": "3",
+          "BA": "..319",
+          "R": "14",
+          "RBI": "12",
+          "SB": "0",
+          "OBP": "..354",
+          "SLG": "..505",
+          "OPS": "..859",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Donovan Walton has produced  career WAR with 7 home runs, 63 hits, and a ..218 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "63",
+          "HR": "7",
+          "BA": "..218",
+          "R": "35",
+          "RBI": "35",
+          "SB": "1",
+          "OBP": "..264",
+          "SLG": "..363",
+          "OPS": "..627",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
     },
     {
       "player_id": "665660",
@@ -766,63 +711,6 @@
       "rc_year": null
     },
     {
-      "player_id": "608841",
-      "player_name": "Joey Meneses",
-      "team": "ATH",
-      "current_season": {
-        "season": 2026,
-        "summary": "Joey Meneses is having a season highlighted by 0 home runs, ..150 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "20",
-          "H": "3",
-          "HR": "0",
-          "BA": "..150",
-          "R": "1",
-          "RBI": "2",
-          "SB": "0",
-          "OBP": "..280",
-          "SLG": "..150",
-          "OPS": "..430",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Joey Meneses has produced  career WAR with 29 home runs, 308 hits, and a ..272 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "308",
-          "HR": "29",
-          "BA": "..272",
-          "R": "124",
-          "RBI": "167",
-          "SB": "3",
-          "OBP": "..321",
-          "SLG": "..404",
-          "OPS": "..725",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2023,
-          "label": "2023 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2023
-    },
-    {
       "player_id": "641680",
       "player_name": "Jonah Heim",
       "team": "ATH",
@@ -1129,36 +1017,6 @@
       "rc_year": null
     },
     {
-      "player_id": "686930",
-      "player_name": "Mason Barnett",
-      "team": "ATH",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2026
-    },
-    {
       "player_id": "669127",
       "player_name": "Shea Langeliers",
       "team": "ATH",
@@ -1326,6 +1184,15 @@
         }
       ],
       "rc_year": 2024
+    },
+    {
+      "player_id": "814305",
+      "player_name": "Yunior Tur",
+      "team": "ATH",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
     },
     {
       "player_id": "699008",
@@ -1755,7 +1622,7 @@
       "team": "PIT",
       "current_season": {
         "season": 2026,
-        "summary": "Esmerlyn Valdez is currently 18th in batting average and 7th in OPS this season.",
+        "summary": "Esmerlyn Valdez is currently 19th in batting average and 7th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "94",
@@ -2020,7 +1887,7 @@
       "team": "PIT",
       "current_season": {
         "season": 2026,
-        "summary": "Jake Mangum is currently 16th in batting average and 12th in stolen bases this season.",
+        "summary": "Jake Mangum is currently 17th in batting average and 12th in stolen bases this season.",
         "stat_card": {
           "WAR": "",
           "AB": "229",
@@ -2396,7 +2263,7 @@
       "team": "PIT",
       "current_season": {
         "season": 2026,
-        "summary": "Nick Gonzales is currently 8th in hits and 19th in batting average this season.",
+        "summary": "Nick Gonzales is currently 8th in hits and 20th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "338",
@@ -3283,6 +3150,36 @@
       "rc_year": null
     },
     {
+      "player_id": "666745",
+      "player_name": "Jhony Brito",
+      "team": "SD",
+      "current_season": null,
+      "career": {
+        "summary": "Jhony Brito has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023 (RC)",
+          "is_rc_year": true
+        }
+      ],
+      "rc_year": 2023
+    },
+    {
       "player_id": "606996",
       "player_name": "Kyle Hart",
       "team": "SD",
@@ -4019,46 +3916,6 @@
         }
       ],
       "rc_year": 2018
-    },
-    {
-      "player_id": "593974",
-      "player_name": "Wandy Peralta",
-      "team": "SD",
-      "current_season": null,
-      "career": {
-        "summary": "Wandy Peralta has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..000",
-          "SLG": "..000",
-          "OPS": "..000",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2017,
-          "label": "2017",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "593428",
@@ -11205,7 +11062,7 @@
       "team": "TEX",
       "current_season": {
         "season": 2026,
-        "summary": "Nicky Lopez is currently 16th in batting average this season.",
+        "summary": "Nicky Lopez is currently 17th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "116",
@@ -21903,7 +21760,7 @@
       "team": "MIL",
       "current_season": {
         "season": 2026,
-        "summary": "Andrew Vaughn is currently 15th in batting average this season.",
+        "summary": "Andrew Vaughn is currently 16th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "148",
@@ -24464,7 +24321,7 @@
       "team": "LAA",
       "current_season": {
         "season": 2026,
-        "summary": "Wade Meckler is currently 20th in batting average this season.",
+        "summary": "Wade Meckler is having a season highlighted by 2 home runs, ..307 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
           "AB": "127",
@@ -26083,73 +25940,6 @@
       "rc_year": 2025
     },
     {
-      "player_id": "694371",
-      "player_name": "Tommy Troy",
-      "team": "AZ",
-      "current_season": {
-        "season": 2026,
-        "summary": "Tommy Troy is having a season highlighted by 4 home runs, ..223 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "121",
-          "H": "27",
-          "HR": "4",
-          "BA": "..223",
-          "R": "22",
-          "RBI": "9",
-          "SB": "1",
-          "OBP": "..299",
-          "SLG": "..364",
-          "OPS": "..663",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Tommy Troy has produced  career WAR with 4 home runs, 27 hits, and a ..223 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "27",
-          "HR": "4",
-          "BA": "..223",
-          "R": "22",
-          "RBI": "9",
-          "SB": "1",
-          "OBP": "..299",
-          "SLG": "..364",
-          "OPS": "..663",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2017,
-          "label": "2017",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
-    {
       "player_id": "668939",
       "player_name": "Adley Rutschman",
       "team": "BAL",
@@ -26305,7 +26095,7 @@
       "team": "BAL",
       "current_season": {
         "season": 2026,
-        "summary": "Blaze Alexander is currently 14th in batting average this season.",
+        "summary": "Blaze Alexander is currently 15th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "221",
@@ -37600,7 +37390,7 @@
       "team": "HOU",
       "current_season": {
         "season": 2026,
-        "summary": "Yordan Alvarez is currently 2nd in home runs, 3rd in hits, and 13th in batting average this season.",
+        "summary": "Yordan Alvarez is currently 2nd in home runs, 3rd in hits, and 14th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "349",
@@ -41341,58 +41131,6 @@
       "rc_year": 2025
     },
     {
-      "player_id": "686452",
-      "player_name": "Drew Millas",
-      "team": "WSH",
-      "current_season": {
-        "season": 2026,
-        "summary": "Drew Millas is having a season highlighted by 2 home runs, ..185 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "130",
-          "H": "24",
-          "HR": "2",
-          "BA": "..185",
-          "R": "18",
-          "RBI": "11",
-          "SB": "0",
-          "OBP": "..277",
-          "SLG": "..262",
-          "OPS": "..539",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Drew Millas has produced  career WAR with 4 home runs, 61 hits, and a ..231 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "61",
-          "HR": "4",
-          "BA": "..231",
-          "R": "32",
-          "RBI": "25",
-          "SB": "6",
-          "OBP": "..308",
-          "SLG": "..330",
-          "OPS": "..638",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2024,
-          "label": "2024 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2024
-    },
-    {
       "player_id": "686611",
       "player_name": "Dylan Crews",
       "team": "WSH",
@@ -41915,6 +41653,36 @@
         }
       ],
       "rc_year": null
+    },
+    {
+      "player_id": "668820",
+      "player_name": "Max Kranick",
+      "team": "WSH",
+      "current_season": null,
+      "career": {
+        "summary": "Max Kranick has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2022,
+          "label": "2022 (RC)",
+          "is_rc_year": true
+        }
+      ],
+      "rc_year": 2022
     },
     {
       "player_id": "683083",
