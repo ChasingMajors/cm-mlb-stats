@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T11:14:54.259Z",
+  "updated_at": "2026-07-17T10:59:05.131Z",
   "season": 2026,
   "players": [
     {
@@ -818,7 +818,7 @@
       "team": "ATH",
       "current_season": {
         "season": 2026,
-        "summary": "Joshua Kuroda-Grauer is currently 4th in batting average and 11th in OPS this season.",
+        "summary": "Joshua Kuroda-Grauer is currently 4th in batting average and 12th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "45",
@@ -1622,7 +1622,7 @@
       "team": "PIT",
       "current_season": {
         "season": 2026,
-        "summary": "Esmerlyn Valdez is currently 19th in batting average and 7th in OPS this season.",
+        "summary": "Esmerlyn Valdez is currently 18th in batting average and 7th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "94",
@@ -1887,7 +1887,7 @@
       "team": "PIT",
       "current_season": {
         "season": 2026,
-        "summary": "Jake Mangum is currently 17th in batting average and 12th in stolen bases this season.",
+        "summary": "Jake Mangum is currently 16th in batting average and 12th in stolen bases this season.",
         "stat_card": {
           "WAR": "",
           "AB": "229",
@@ -2263,7 +2263,7 @@
       "team": "PIT",
       "current_season": {
         "season": 2026,
-        "summary": "Nick Gonzales is currently 8th in hits and 20th in batting average this season.",
+        "summary": "Nick Gonzales is currently 8th in hits and 19th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "338",
@@ -11062,7 +11062,7 @@
       "team": "TEX",
       "current_season": {
         "season": 2026,
-        "summary": "Nicky Lopez is currently 17th in batting average this season.",
+        "summary": "Nicky Lopez is currently 16th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "116",
@@ -14213,29 +14213,29 @@
       "team": "PHI",
       "current_season": {
         "season": 2026,
-        "summary": "Alec Bohm is having a season highlighted by 11 home runs, ..215 batting average, and  WAR.",
+        "summary": "Alec Bohm is having a season highlighted by 11 home runs, ..213 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "339",
+          "AB": "343",
           "H": "73",
           "HR": "11",
-          "BA": "..215",
+          "BA": "..213",
           "R": "31",
           "RBI": "47",
           "SB": "1",
-          "OBP": "..278",
-          "SLG": "..354",
-          "OPS": "..632",
+          "OBP": "..275",
+          "SLG": "..350",
+          "OPS": "..625",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Alec Bohm has produced  career WAR with 81 home runs, 826 hits, and a ..272 batting average.",
+        "summary": "Alec Bohm has produced  career WAR with 81 home runs, 826 hits, and a ..271 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "826",
           "HR": "81",
-          "BA": "..272",
+          "BA": "..271",
           "R": "369",
           "RBI": "442",
           "SB": "19",
@@ -14295,66 +14295,6 @@
       "rc_year": 2018
     },
     {
-      "player_id": "641745",
-      "player_name": "Brad Keller",
-      "team": "PHI",
-      "current_season": null,
-      "career": {
-        "summary": "Brad Keller has produced  career WAR with 0 home runs, 2 hits, and a ..125 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "2",
-          "HR": "0",
-          "BA": "..125",
-          "R": "1",
-          "RBI": "1",
-          "SB": "0",
-          "OBP": "..176",
-          "SLG": "..125",
-          "OPS": "..301",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2019,
-          "label": "2019 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2019
-    },
-    {
       "player_id": "669016",
       "player_name": "Brandon Marsh",
       "team": "PHI",
@@ -14363,16 +14303,16 @@
         "summary": "Brandon Marsh is currently 14th in hits this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "339",
+          "AB": "343",
           "H": "102",
           "HR": "15",
-          "BA": "..301",
+          "BA": "..297",
           "R": "52",
           "RBI": "46",
           "SB": "8",
-          "OBP": "..339",
-          "SLG": "..490",
-          "OPS": "..829",
+          "OBP": "..335",
+          "SLG": "..484",
+          "OPS": "..819",
           "OPS+": ""
         }
       },
@@ -14387,8 +14327,8 @@
           "RBI": "280",
           "SB": "60",
           "OBP": "..333",
-          "SLG": "..428",
-          "OPS": "..761",
+          "SLG": "..427",
+          "OPS": "..760",
           "OPS+": ""
         }
       },
@@ -14455,32 +14395,32 @@
         "summary": "Bryce Harper is currently 18th in home runs and 17th in runs this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "342",
-          "H": "89",
+          "AB": "345",
+          "H": "90",
           "HR": "20",
-          "BA": "..260",
+          "BA": "..261",
           "R": "59",
           "RBI": "57",
           "SB": "5",
-          "OBP": "..365",
-          "SLG": "..497",
-          "OPS": "..862",
+          "OBP": "..367",
+          "SLG": "..499",
+          "OPS": "..866",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Bryce Harper has produced  career WAR with 383 home runs, 1890 hits, and a ..279 batting average.",
+        "summary": "Bryce Harper has produced  career WAR with 383 home runs, 1891 hits, and a ..279 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "1890",
+          "H": "1891",
           "HR": "383",
           "BA": "..279",
           "R": "1213",
           "RBI": "1108",
           "SB": "157",
-          "OBP": "..385",
+          "OBP": "..386",
           "SLG": "..518",
-          "OPS": "..903",
+          "OPS": "..904",
           "OPS+": ""
         }
       },
@@ -14552,16 +14492,16 @@
         "summary": "Bryson Stott is currently 14th in stolen bases this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "321",
+          "AB": "324",
           "H": "80",
           "HR": "7",
-          "BA": "..249",
+          "BA": "..247",
           "R": "37",
           "RBI": "42",
           "SB": "17",
-          "OBP": "..308",
-          "SLG": "..393",
-          "OPS": "..701",
+          "OBP": "..305",
+          "SLG": "..389",
+          "OPS": "..694",
           "OPS+": ""
         }
       },
@@ -14575,9 +14515,9 @@
           "R": "304",
           "RBI": "276",
           "SB": "116",
-          "OBP": "..317",
-          "SLG": "..385",
-          "OPS": "..702",
+          "OBP": "..316",
+          "SLG": "..384",
+          "OPS": "..700",
           "OPS+": ""
         }
       },
@@ -14862,35 +14802,35 @@
       "team": "PHI",
       "current_season": {
         "season": 2026,
-        "summary": "Gabriel Rincones Jr. is having a season highlighted by 2 home runs, ..179 batting average, and  WAR.",
+        "summary": "Gabriel Rincones Jr. is having a season highlighted by 2 home runs, ..171 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "67",
+          "AB": "70",
           "H": "12",
           "HR": "2",
-          "BA": "..179",
+          "BA": "..171",
           "R": "6",
           "RBI": "6",
           "SB": "0",
-          "OBP": "..211",
-          "SLG": "..313",
-          "OPS": "..524",
+          "OBP": "..203",
+          "SLG": "..300",
+          "OPS": "..503",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Gabriel Rincones Jr. has produced  career WAR with 2 home runs, 12 hits, and a ..179 batting average.",
+        "summary": "Gabriel Rincones Jr. has produced  career WAR with 2 home runs, 12 hits, and a ..171 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "12",
           "HR": "2",
-          "BA": "..179",
+          "BA": "..171",
           "R": "6",
           "RBI": "6",
           "SB": "0",
-          "OBP": "..211",
-          "SLG": "..313",
-          "OPS": "..524",
+          "OBP": "..203",
+          "SLG": "..300",
+          "OPS": "..503",
           "OPS+": ""
         }
       },
@@ -14986,13 +14926,13 @@
       "team": "PHI",
       "current_season": {
         "season": 2026,
-        "summary": "J.T. Realmuto is having a season highlighted by 7 home runs, ..206 batting average, and  WAR.",
+        "summary": "J.T. Realmuto is having a season highlighted by 7 home runs, ..208 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "228",
-          "H": "47",
+          "AB": "231",
+          "H": "48",
           "HR": "7",
-          "BA": "..206",
+          "BA": "..208",
           "R": "27",
           "RBI": "33",
           "SB": "3",
@@ -15003,10 +14943,10 @@
         }
       },
       "career": {
-        "summary": "J.T. Realmuto has produced  career WAR with 187 home runs, 1413 hits, and a ..268 batting average.",
+        "summary": "J.T. Realmuto has produced  career WAR with 187 home runs, 1414 hits, and a ..268 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "1413",
+          "H": "1414",
           "HR": "187",
           "BA": "..268",
           "R": "723",
@@ -15270,35 +15210,35 @@
       "team": "PHI",
       "current_season": {
         "season": 2026,
-        "summary": "Justin Crawford is having a season highlighted by 2 home runs, ..263 batting average, and  WAR.",
+        "summary": "Justin Crawford is having a season highlighted by 2 home runs, ..260 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "266",
+          "AB": "269",
           "H": "70",
           "HR": "2",
-          "BA": "..263",
+          "BA": "..260",
           "R": "28",
           "RBI": "21",
           "SB": "12",
-          "OBP": "..312",
-          "SLG": "..353",
-          "OPS": "..665",
+          "OBP": "..309",
+          "SLG": "..349",
+          "OPS": "..658",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Justin Crawford has produced  career WAR with 2 home runs, 70 hits, and a ..263 batting average.",
+        "summary": "Justin Crawford has produced  career WAR with 2 home runs, 70 hits, and a ..260 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "70",
           "HR": "2",
-          "BA": "..263",
+          "BA": "..260",
           "R": "28",
           "RBI": "21",
           "SB": "12",
-          "OBP": "..312",
-          "SLG": "..353",
-          "OPS": "..665",
+          "OBP": "..309",
+          "SLG": "..349",
+          "OPS": "..658",
           "OPS+": ""
         }
       },
@@ -15342,27 +15282,27 @@
       "team": "PHI",
       "current_season": {
         "season": 2026,
-        "summary": "Kyle Schwarber is currently 1st in home runs, 17th in OPS, and 18th in RBI this season.",
+        "summary": "Kyle Schwarber is currently 1st in home runs, 18th in OPS, and 18th in RBI this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "350",
-          "H": "89",
+          "AB": "354",
+          "H": "90",
           "HR": "32",
           "BA": "..254",
           "R": "57",
           "RBI": "59",
           "SB": "2",
-          "OBP": "..367",
-          "SLG": "..560",
-          "OPS": "..927",
+          "OBP": "..366",
+          "SLG": "..559",
+          "OPS": "..925",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Kyle Schwarber has produced  career WAR with 372 home runs, 1139 hits, and a ..233 batting average.",
+        "summary": "Kyle Schwarber has produced  career WAR with 372 home runs, 1140 hits, and a ..233 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "1139",
+          "H": "1140",
           "HR": "372",
           "BA": "..233",
           "R": "857",
@@ -15558,6 +15498,36 @@
       "rc_year": null
     },
     {
+      "player_id": "686751",
+      "player_name": "Seth Johnson",
+      "team": "PHI",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2025
+    },
+    {
       "player_id": "641835",
       "player_name": "Tim Mayza",
       "team": "PHI",
@@ -15598,35 +15568,35 @@
       "team": "PHI",
       "current_season": {
         "season": 2026,
-        "summary": "Trea Turner is currently 16th in stolen bases and 11th in runs this season.",
+        "summary": "Trea Turner is currently 16th in stolen bases and 10th in runs this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "386",
-          "H": "91",
-          "HR": "10",
+          "AB": "390",
+          "H": "92",
+          "HR": "11",
           "BA": "..236",
-          "R": "62",
-          "RBI": "33",
+          "R": "63",
+          "RBI": "34",
           "SB": "16",
           "OBP": "..284",
-          "SLG": "..355",
-          "OPS": "..639",
+          "SLG": "..362",
+          "OPS": "..646",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Trea Turner has produced  career WAR with 196 home runs, 1622 hits, and a ..293 batting average.",
+        "summary": "Trea Turner has produced  career WAR with 197 home runs, 1623 hits, and a ..293 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "1622",
-          "HR": "196",
+          "H": "1623",
+          "HR": "197",
           "BA": "..293",
-          "R": "932",
-          "RBI": "674",
+          "R": "933",
+          "RBI": "675",
           "SB": "331",
-          "OBP": "..345",
+          "OBP": "..344",
           "SLG": "..470",
-          "OPS": "..815",
+          "OPS": "..814",
           "OPS+": ""
         }
       },
@@ -18226,7 +18196,7 @@
       "team": "CWS",
       "current_season": {
         "season": 2026,
-        "summary": "Luisangel Acuña is currently 17th in stolen bases this season.",
+        "summary": "Luisangel Acuña is currently 18th in stolen bases this season.",
         "stat_card": {
           "WAR": "",
           "AB": "149",
@@ -20401,7 +20371,7 @@
       "team": "NYY",
       "current_season": {
         "season": 2026,
-        "summary": "Ben Rice is currently 3rd in home runs, 10th in OPS, and 3rd in RBI this season.",
+        "summary": "Ben Rice is currently 3rd in home runs, 11th in OPS, and 3rd in RBI this season.",
         "stat_card": {
           "WAR": "",
           "AB": "337",
@@ -21760,7 +21730,7 @@
       "team": "MIL",
       "current_season": {
         "season": 2026,
-        "summary": "Andrew Vaughn is currently 16th in batting average this season.",
+        "summary": "Andrew Vaughn is currently 15th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "148",
@@ -21964,7 +21934,7 @@
       "team": "MIL",
       "current_season": {
         "season": 2026,
-        "summary": "Brice Turang is currently 15th in RBI, 17th in stolen bases, and 4th in runs this season.",
+        "summary": "Brice Turang is currently 15th in RBI, 18th in stolen bases, and 4th in runs this season.",
         "stat_card": {
           "WAR": "",
           "AB": "357",
@@ -24321,7 +24291,7 @@
       "team": "LAA",
       "current_season": {
         "season": 2026,
-        "summary": "Wade Meckler is having a season highlighted by 2 home runs, ..307 batting average, and  WAR.",
+        "summary": "Wade Meckler is currently 20th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "127",
@@ -24808,7 +24778,7 @@
       "team": "AZ",
       "current_season": {
         "season": 2026,
-        "summary": "Geraldo Perdomo is currently 17th in stolen bases this season.",
+        "summary": "Geraldo Perdomo is currently 18th in stolen bases this season.",
         "stat_card": {
           "WAR": "",
           "AB": "323",
@@ -26090,40 +26060,38 @@
       "rc_year": null
     },
     {
-      "player_id": "677942",
-      "player_name": "Blaze Alexander",
+      "player_id": "687064",
+      "player_name": "Brandon Young",
       "team": "BAL",
-      "current_season": {
-        "season": 2026,
-        "summary": "Blaze Alexander is currently 15th in batting average this season.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "221",
-          "H": "69",
-          "HR": "4",
-          "BA": "..312",
-          "R": "31",
-          "RBI": "29",
-          "SB": "9",
-          "OBP": "..368",
-          "SLG": "..439",
-          "OPS": "..807",
-          "OPS+": ""
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025 (RC)",
+          "is_rc_year": true
         }
-      },
+      ],
+      "rc_year": 2025
+    },
+    {
+      "player_id": "687952",
+      "player_name": "Christian Encarnacion-Strand",
+      "team": "BAL",
+      "current_season": null,
       "career": {
-        "summary": "Blaze Alexander has produced  career WAR with 14 home runs, 163 hits, and a ..264 batting average.",
+        "summary": "Christian Encarnacion-Strand has produced  career WAR with 21 home runs, 109 hits, and a ..233 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "163",
-          "HR": "14",
-          "BA": "..264",
-          "R": "81",
-          "RBI": "78",
-          "SB": "16",
-          "OBP": "..338",
-          "SLG": "..392",
-          "OPS": "..730",
+          "H": "109",
+          "HR": "21",
+          "BA": "..233",
+          "R": "55",
+          "RBI": "72",
+          "SB": "2",
+          "OBP": "..275",
+          "SLG": "..404",
+          "OPS": "..679",
           "OPS+": ""
         }
       },
@@ -26144,37 +26112,17 @@
           "is_rc_year": false
         },
         {
-          "year": 2020,
-          "label": "2020",
+          "year": 2022,
+          "label": "2022",
           "is_rc_year": false
         },
         {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
+          "year": 2021,
+          "label": "2021",
           "is_rc_year": false
         }
       ],
       "rc_year": 2024
-    },
-    {
-      "player_id": "687064",
-      "player_name": "Brandon Young",
-      "team": "BAL",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025 (RC)",
-          "is_rc_year": true
-        }
-      ],
-      "rc_year": 2025
     },
     {
       "player_id": "691723",
@@ -28046,83 +27994,6 @@
         }
       ],
       "rc_year": null
-    },
-    {
-      "player_id": "663330",
-      "player_name": "Jahmai Jones",
-      "team": "BOS",
-      "current_season": {
-        "season": 2026,
-        "summary": "Jahmai Jones is having a season highlighted by 2 home runs, ..137 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "95",
-          "H": "13",
-          "HR": "2",
-          "BA": "..137",
-          "R": "7",
-          "RBI": "7",
-          "SB": "0",
-          "OBP": "..219",
-          "SLG": "..221",
-          "OPS": "..440",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Jahmai Jones has produced  career WAR with 10 home runs, 75 hits, and a ..214 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "75",
-          "HR": "10",
-          "BA": "..214",
-          "R": "45",
-          "RBI": "41",
-          "SB": "5",
-          "OBP": "..297",
-          "SLG": "..363",
-          "OPS": "..660",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2021,
-          "label": "2021 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
-        },
-        {
-          "year": 2017,
-          "label": "2017",
-          "is_rc_year": false
-        },
-        {
-          "year": 2016,
-          "label": "2016",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2021
     },
     {
       "player_id": "687562",
@@ -31854,7 +31725,7 @@
       "team": "CLE",
       "current_season": {
         "season": 2026,
-        "summary": "Brayan Rocchio is currently 17th in stolen bases this season.",
+        "summary": "Brayan Rocchio is currently 18th in stolen bases this season.",
         "stat_card": {
           "WAR": "",
           "AB": "319",
@@ -33638,7 +33509,7 @@
       "team": "COL",
       "current_season": {
         "season": 2026,
-        "summary": "Jake McCarthy is currently 17th in stolen bases this season.",
+        "summary": "Jake McCarthy is currently 18th in stolen bases this season.",
         "stat_card": {
           "WAR": "",
           "AB": "279",
@@ -40773,7 +40644,7 @@
       "team": "WSH",
       "current_season": {
         "season": 2026,
-        "summary": "CJ Abrams is currently 18th in home runs, 5th in RBI, and 17th in stolen bases this season.",
+        "summary": "CJ Abrams is currently 18th in home runs, 5th in RBI, and 18th in stolen bases this season.",
         "stat_card": {
           "WAR": "",
           "AB": "345",
@@ -41919,35 +41790,35 @@
       "team": "NYM",
       "current_season": {
         "season": 2026,
-        "summary": "A.J. Ewing is having a season highlighted by 7 home runs, ..276 batting average, and  WAR.",
+        "summary": "A.J. Ewing is having a season highlighted by 7 home runs, ..274 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "196",
-          "H": "54",
+          "AB": "201",
+          "H": "55",
           "HR": "7",
-          "BA": "..276",
+          "BA": "..274",
           "R": "27",
-          "RBI": "24",
+          "RBI": "25",
           "SB": "9",
-          "OBP": "..350",
-          "SLG": "..439",
-          "OPS": "..789",
+          "OBP": "..347",
+          "SLG": "..438",
+          "OPS": "..785",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "A.J. Ewing has produced  career WAR with 7 home runs, 54 hits, and a ..276 batting average.",
+        "summary": "A.J. Ewing has produced  career WAR with 7 home runs, 55 hits, and a ..274 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "54",
+          "H": "55",
           "HR": "7",
-          "BA": "..276",
+          "BA": "..274",
           "R": "27",
-          "RBI": "24",
+          "RBI": "25",
           "SB": "9",
-          "OBP": "..350",
-          "SLG": "..439",
-          "OPS": "..789",
+          "OBP": "..347",
+          "SLG": "..438",
+          "OPS": "..785",
           "OPS+": ""
         }
       },
@@ -42036,35 +41907,35 @@
       "team": "NYM",
       "current_season": {
         "season": 2026,
-        "summary": "Bo Bichette is having a season highlighted by 10 home runs, ..255 batting average, and  WAR.",
+        "summary": "Bo Bichette is having a season highlighted by 10 home runs, ..253 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "380",
+          "AB": "384",
           "H": "97",
           "HR": "10",
-          "BA": "..255",
+          "BA": "..253",
           "R": "48",
           "RBI": "51",
           "SB": "1",
-          "OBP": "..300",
-          "SLG": "..376",
-          "OPS": "..676",
+          "OBP": "..297",
+          "SLG": "..372",
+          "OPS": "..669",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Bo Bichette has produced  career WAR with 121 home runs, 1001 hits, and a ..290 batting average.",
+        "summary": "Bo Bichette has produced  career WAR with 121 home runs, 1001 hits, and a ..289 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "1001",
           "HR": "121",
-          "BA": "..290",
+          "BA": "..289",
           "R": "486",
           "RBI": "488",
           "SB": "61",
-          "OBP": "..333",
+          "OBP": "..332",
           "SLG": "..459",
-          "OPS": "..792",
+          "OPS": "..791",
           "OPS+": ""
         }
       },
@@ -42133,35 +42004,35 @@
       "team": "NYM",
       "current_season": {
         "season": 2026,
-        "summary": "Brett Baty is having a season highlighted by 4 home runs, ..221 batting average, and  WAR.",
+        "summary": "Brett Baty is having a season highlighted by 5 home runs, ..224 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "290",
-          "H": "64",
-          "HR": "4",
-          "BA": "..221",
-          "R": "35",
-          "RBI": "31",
+          "AB": "294",
+          "H": "66",
+          "HR": "5",
+          "BA": "..224",
+          "R": "36",
+          "RBI": "32",
           "SB": "5",
-          "OBP": "..297",
-          "SLG": "..314",
-          "OPS": "..611",
+          "OBP": "..299",
+          "SLG": "..327",
+          "OPS": "..626",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Brett Baty has produced  career WAR with 37 home runs, 281 hits, and a ..229 batting average.",
+        "summary": "Brett Baty has produced  career WAR with 38 home runs, 283 hits, and a ..230 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "281",
-          "HR": "37",
-          "BA": "..229",
-          "R": "148",
-          "RBI": "136",
+          "H": "283",
+          "HR": "38",
+          "BA": "..230",
+          "R": "149",
+          "RBI": "137",
           "SB": "15",
-          "OBP": "..295",
-          "SLG": "..358",
-          "OPS": "..653",
+          "OBP": "..296",
+          "SLG": "..361",
+          "OPS": "..657",
           "OPS+": ""
         }
       },
@@ -42245,35 +42116,35 @@
       "team": "NYM",
       "current_season": {
         "season": 2026,
-        "summary": "Carson Benge is currently 17th in stolen bases this season.",
+        "summary": "Carson Benge is currently 16th in stolen bases this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "353",
-          "H": "93",
+          "AB": "357",
+          "H": "94",
           "HR": "11",
           "BA": "..263",
           "R": "52",
           "RBI": "37",
-          "SB": "15",
+          "SB": "16",
           "OBP": "..326",
-          "SLG": "..402",
-          "OPS": "..728",
+          "SLG": "..401",
+          "OPS": "..727",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Carson Benge has produced  career WAR with 11 home runs, 93 hits, and a ..263 batting average.",
+        "summary": "Carson Benge has produced  career WAR with 11 home runs, 94 hits, and a ..263 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "93",
+          "H": "94",
           "HR": "11",
           "BA": "..263",
           "R": "52",
           "RBI": "37",
-          "SB": "15",
+          "SB": "16",
           "OBP": "..326",
-          "SLG": "..402",
-          "OPS": "..728",
+          "SLG": "..401",
+          "OPS": "..727",
           "OPS+": ""
         }
       },
@@ -42501,35 +42372,35 @@
       "team": "NYM",
       "current_season": {
         "season": 2026,
-        "summary": "Francisco Alvarez is having a season highlighted by 9 home runs, ..254 batting average, and  WAR.",
+        "summary": "Francisco Alvarez is having a season highlighted by 11 home runs, ..259 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "209",
-          "H": "53",
-          "HR": "9",
-          "BA": "..254",
-          "R": "19",
-          "RBI": "22",
+          "AB": "212",
+          "H": "55",
+          "HR": "11",
+          "BA": "..259",
+          "R": "21",
+          "RBI": "24",
           "SB": "0",
-          "OBP": "..317",
-          "SLG": "..416",
-          "OPS": "..733",
+          "OBP": "..325",
+          "SLG": "..448",
+          "OPS": "..773",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Francisco Alvarez has produced  career WAR with 57 home runs, 271 hits, and a ..234 batting average.",
+        "summary": "Francisco Alvarez has produced  career WAR with 59 home runs, 273 hits, and a ..235 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "271",
-          "HR": "57",
-          "BA": "..234",
-          "R": "144",
-          "RBI": "165",
+          "H": "273",
+          "HR": "59",
+          "BA": "..235",
+          "R": "146",
+          "RBI": "167",
           "SB": "3",
-          "OBP": "..308",
-          "SLG": "..427",
-          "OPS": "..735",
+          "OBP": "..309",
+          "SLG": "..433",
+          "OPS": "..742",
           "OPS+": ""
         }
       },
@@ -42583,19 +42454,19 @@
       "team": "NYM",
       "current_season": {
         "season": 2026,
-        "summary": "Francisco Lindor is having a season highlighted by 5 home runs, ..216 batting average, and  WAR.",
+        "summary": "Francisco Lindor is having a season highlighted by 5 home runs, ..210 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "153",
+          "AB": "157",
           "H": "33",
           "HR": "5",
-          "BA": "..216",
+          "BA": "..210",
           "R": "22",
           "RBI": "12",
           "SB": "2",
-          "OBP": "..298",
-          "SLG": "..373",
-          "OPS": "..671",
+          "OBP": "..291",
+          "SLG": "..363",
+          "OPS": "..654",
           "OPS+": ""
         }
       },
@@ -42610,8 +42481,8 @@
           "RBI": "868",
           "SB": "218",
           "OBP": "..341",
-          "SLG": "..473",
-          "OPS": "..814",
+          "SLG": "..472",
+          "OPS": "..813",
           "OPS+": ""
         }
       },
@@ -42764,35 +42635,35 @@
       "team": "NYM",
       "current_season": {
         "season": 2026,
-        "summary": "Jared Young is having a season highlighted by 6 home runs, ..248 batting average, and  WAR.",
+        "summary": "Jared Young is having a season highlighted by 6 home runs, ..245 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "141",
+          "AB": "143",
           "H": "35",
           "HR": "6",
-          "BA": "..248",
-          "R": "16",
+          "BA": "..245",
+          "R": "17",
           "RBI": "18",
           "SB": "0",
-          "OBP": "..318",
-          "SLG": "..426",
-          "OPS": "..744",
+          "OBP": "..323",
+          "SLG": "..420",
+          "OPS": "..743",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Jared Young has produced  career WAR with 12 home runs, 56 hits, and a ..228 batting average.",
+        "summary": "Jared Young has produced  career WAR with 12 home runs, 56 hits, and a ..226 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "56",
           "HR": "12",
-          "BA": "..228",
-          "R": "31",
+          "BA": "..226",
+          "R": "32",
           "RBI": "32",
           "SB": "3",
-          "OBP": "..297",
-          "SLG": "..439",
-          "OPS": "..736",
+          "OBP": "..300",
+          "SLG": "..435",
+          "OPS": "..735",
           "OPS+": ""
         }
       },
@@ -42816,19 +42687,19 @@
       "team": "NYM",
       "current_season": {
         "season": 2026,
-        "summary": "Jorge Polanco is having a season highlighted by 1 home runs, ..178 batting average, and  WAR.",
+        "summary": "Jorge Polanco is having a season highlighted by 1 home runs, ..169 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "73",
+          "AB": "77",
           "H": "13",
           "HR": "1",
-          "BA": "..178",
+          "BA": "..169",
           "R": "4",
           "RBI": "3",
           "SB": "0",
-          "OBP": "..241",
-          "SLG": "..274",
-          "OPS": "..515",
+          "OBP": "..229",
+          "SLG": "..260",
+          "OPS": "..489",
           "OPS+": ""
         }
       },
@@ -42843,8 +42714,8 @@
           "RBI": "573",
           "SB": "61",
           "OBP": "..328",
-          "SLG": "..439",
-          "OPS": "..767",
+          "SLG": "..438",
+          "OPS": "..766",
           "OPS+": ""
         }
       },
@@ -42908,35 +42779,35 @@
       "team": "NYM",
       "current_season": {
         "season": 2026,
-        "summary": "Juan Soto is currently 12th in home runs and 12th in OPS this season.",
+        "summary": "Juan Soto is currently 12th in home runs and 10th in OPS this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "276",
-          "H": "80",
+          "AB": "277",
+          "H": "81",
           "HR": "21",
-          "BA": "..290",
+          "BA": "..292",
           "R": "44",
           "RBI": "51",
           "SB": "7",
-          "OBP": "..405",
-          "SLG": "..562",
-          "OPS": "..967",
+          "OBP": "..412",
+          "SLG": "..563",
+          "OPS": "..975",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Juan Soto has produced  career WAR with 265 home runs, 1166 hits, and a ..282 batting average.",
+        "summary": "Juan Soto has produced  career WAR with 265 home runs, 1167 hits, and a ..282 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "1166",
+          "H": "1167",
           "HR": "265",
           "BA": "..282",
           "R": "819",
           "RBI": "748",
           "SB": "102",
-          "OBP": "..416",
+          "OBP": "..417",
           "SLG": "..533",
-          "OPS": "..949",
+          "OPS": "..950",
           "OPS+": ""
         }
       },
@@ -43204,6 +43075,103 @@
       "rc_year": 2018
     },
     {
+      "player_id": "543760",
+      "player_name": "Marcus Semien",
+      "team": "NYM",
+      "current_season": {
+        "season": 2026,
+        "summary": "Marcus Semien is having a season highlighted by 9 home runs, ..214 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "290",
+          "H": "62",
+          "HR": "9",
+          "BA": "..214",
+          "R": "30",
+          "RBI": "29",
+          "SB": "6",
+          "OBP": "..271",
+          "SLG": "..341",
+          "OPS": "..612",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Marcus Semien has produced  career WAR with 262 home runs, 1675 hits, and a ..252 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "1675",
+          "HR": "262",
+          "BA": "..252",
+          "R": "998",
+          "RBI": "830",
+          "SB": "145",
+          "OBP": "..319",
+          "SLG": "..431",
+          "OPS": "..750",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        },
+        {
+          "year": 2016,
+          "label": "2016",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "690997",
       "player_name": "Nolan McLean",
       "team": "NYM",
@@ -43329,19 +43297,19 @@
       "team": "NYM",
       "current_season": {
         "season": 2026,
-        "summary": "Tyrone Taylor is having a season highlighted by 6 home runs, ..217 batting average, and  WAR.",
+        "summary": "Tyrone Taylor is having a season highlighted by 6 home runs, ..215 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "120",
+          "AB": "121",
           "H": "26",
           "HR": "6",
-          "BA": "..217",
+          "BA": "..215",
           "R": "14",
           "RBI": "17",
           "SB": "0",
-          "OBP": "..248",
-          "SLG": "..417",
-          "OPS": "..665",
+          "OBP": "..246",
+          "SLG": "..413",
+          "OPS": "..659",
           "OPS+": ""
         }
       },
@@ -43434,63 +43402,6 @@
         }
       ],
       "rc_year": null
-    },
-    {
-      "player_id": "670097",
-      "player_name": "Zack Short",
-      "team": "NYM",
-      "current_season": {
-        "season": 2026,
-        "summary": "Zack Short is having a season highlighted by 0 home runs, ..140 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "50",
-          "H": "7",
-          "HR": "0",
-          "BA": "..140",
-          "R": "4",
-          "RBI": "2",
-          "SB": "0",
-          "OBP": "..262",
-          "SLG": "..180",
-          "OPS": "..442",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Zack Short has produced  career WAR with 15 home runs, 94 hits, and a ..169 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "94",
-          "HR": "15",
-          "BA": "..169",
-          "R": "64",
-          "RBI": "69",
-          "SB": "10",
-          "OBP": "..270",
-          "SLG": "..286",
-          "OPS": "..556",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2022,
-          "label": "2022 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2022
     }
   ]
 }
