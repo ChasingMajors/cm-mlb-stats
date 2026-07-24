@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T11:22:18.452Z",
+  "updated_at": "2026-07-24T11:14:29.807Z",
   "season": 2026,
   "players": [
     {
@@ -1106,7 +1106,7 @@
       "team": "ATH",
       "current_season": {
         "season": 2026,
-        "summary": "Tommy White is currently 5th in batting average this season.",
+        "summary": "Tommy White is currently 6th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "19",
@@ -1240,15 +1240,6 @@
       "rc_year": 2024
     },
     {
-      "player_id": "814305",
-      "player_name": "Yunior Tur",
-      "team": "ATH",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [],
-      "rc_year": null
-    },
-    {
       "player_id": "695257",
       "player_name": "Billy Cook",
       "team": "PIT",
@@ -1348,7 +1339,7 @@
       "team": "PIT",
       "current_season": {
         "season": 2026,
-        "summary": "Brandon Lowe is currently 18th in home runs and 12th in RBI this season.",
+        "summary": "Brandon Lowe is currently 18th in home runs and 13th in RBI this season.",
         "stat_card": {
           "WAR": "",
           "AB": "375",
@@ -1617,57 +1608,12 @@
       "rc_year": 2024
     },
     {
-      "player_id": "642701",
-      "player_name": "Dennis Santana",
-      "team": "PIT",
-      "current_season": null,
-      "career": {
-        "summary": "Dennis Santana has produced  career WAR with 0 home runs, 2 hits, and a ..333 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "2",
-          "HR": "0",
-          "BA": "..333",
-          "R": "0",
-          "RBI": "2",
-          "SB": "0",
-          "OBP": "..333",
-          "SLG": "..500",
-          "OPS": "..833",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
-    {
       "player_id": "699013",
       "player_name": "Esmerlyn Valdez",
       "team": "PIT",
       "current_season": {
         "season": 2026,
-        "summary": "Esmerlyn Valdez is currently 5th in OPS this season.",
+        "summary": "Esmerlyn Valdez is currently 6th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "113",
@@ -2380,21 +2326,6 @@
       "rc_year": 2024
     },
     {
-      "player_id": "668716",
-      "player_name": "Noah Murdock",
-      "team": "PIT",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025 (RC)",
-          "is_rc_year": true
-        }
-      ],
-      "rc_year": 2025
-    },
-    {
       "player_id": "694973",
       "player_name": "Paul Skenes",
       "team": "PIT",
@@ -2430,7 +2361,7 @@
       "team": "PIT",
       "current_season": {
         "season": 2026,
-        "summary": "Rafael Flores Jr. is currently 11th in OPS this season.",
+        "summary": "Rafael Flores Jr. is currently 12th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "15",
@@ -2719,31 +2650,31 @@
       "team": "SD",
       "current_season": {
         "season": 2026,
-        "summary": "Fernando Tatis Jr. is currently 6th in hits and 4th in stolen bases this season.",
+        "summary": "Fernando Tatis Jr. is currently 5th in hits and 4th in stolen bases this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "395",
-          "H": "113",
+          "AB": "399",
+          "H": "114",
           "HR": "8",
           "BA": "..286",
           "R": "52",
-          "RBI": "46",
+          "RBI": "47",
           "SB": "25",
-          "OBP": "..352",
-          "SLG": "..408",
-          "OPS": "..760",
+          "OBP": "..353",
+          "SLG": "..406",
+          "OPS": "..759",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Fernando Tatis Jr. has produced  career WAR with 160 home runs, 833 hits, and a ..278 batting average.",
+        "summary": "Fernando Tatis Jr. has produced  career WAR with 160 home runs, 834 hits, and a ..278 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "833",
+          "H": "834",
           "HR": "160",
           "BA": "..278",
           "R": "528",
-          "RBI": "439",
+          "RBI": "440",
           "SB": "149",
           "OBP": "..354",
           "SLG": "..499",
@@ -2816,30 +2747,30 @@
       "team": "SD",
       "current_season": {
         "season": 2026,
-        "summary": "Freddy Fermin is having a season highlighted by 3 home runs, ..159 batting average, and  WAR.",
+        "summary": "Freddy Fermin is having a season highlighted by 3 home runs, ..162 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "145",
-          "H": "23",
+          "AB": "148",
+          "H": "24",
           "HR": "3",
-          "BA": "..159",
-          "R": "15",
+          "BA": "..162",
+          "R": "16",
           "RBI": "11",
           "SB": "0",
-          "OBP": "..253",
-          "SLG": "..276",
-          "OPS": "..529",
+          "OBP": "..254",
+          "SLG": "..277",
+          "OPS": "..531",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Freddy Fermin has produced  career WAR with 23 home runs, 256 hits, and a ..249 batting average.",
+        "summary": "Freddy Fermin has produced  career WAR with 23 home runs, 257 hits, and a ..250 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "256",
+          "H": "257",
           "HR": "23",
-          "BA": "..249",
-          "R": "114",
+          "BA": "..250",
+          "R": "115",
           "RBI": "105",
           "SB": "3",
           "OBP": "..301",
@@ -2876,27 +2807,27 @@
         "summary": "Gavin Sheets is having a season highlighted by 14 home runs, ..217 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "295",
-          "H": "64",
+          "AB": "299",
+          "H": "65",
           "HR": "14",
           "BA": "..217",
-          "R": "38",
+          "R": "39",
           "RBI": "41",
           "SB": "4",
-          "OBP": "..319",
-          "SLG": "..410",
-          "OPS": "..729",
+          "OBP": "..318",
+          "SLG": "..408",
+          "OPS": "..726",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Gavin Sheets has produced  career WAR with 79 home runs, 487 hits, and a ..233 batting average.",
+        "summary": "Gavin Sheets has produced  career WAR with 79 home runs, 488 hits, and a ..233 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "487",
+          "H": "488",
           "HR": "79",
           "BA": "..233",
-          "R": "211",
+          "R": "212",
           "RBI": "287",
           "SB": "9",
           "OBP": "..304",
@@ -3088,16 +3019,16 @@
         "summary": "Jackson Merrill is currently 10th in stolen bases this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "387",
+          "AB": "388",
           "H": "87",
           "HR": "14",
-          "BA": "..225",
+          "BA": "..224",
           "R": "47",
           "RBI": "44",
           "SB": "20",
-          "OBP": "..281",
-          "SLG": "..377",
-          "OPS": "..658",
+          "OBP": "..280",
+          "SLG": "..376",
+          "OPS": "..656",
           "OPS+": ""
         }
       },
@@ -3157,30 +3088,30 @@
       "team": "SD",
       "current_season": {
         "season": 2026,
-        "summary": "Jake Cronenworth is having a season highlighted by 3 home runs, ..204 batting average, and  WAR.",
+        "summary": "Jake Cronenworth is having a season highlighted by 3 home runs, ..206 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "162",
-          "H": "33",
+          "AB": "165",
+          "H": "34",
           "HR": "3",
-          "BA": "..204",
-          "R": "19",
+          "BA": "..206",
+          "R": "20",
           "RBI": "12",
           "SB": "4",
-          "OBP": "..291",
-          "SLG": "..290",
-          "OPS": "..581",
+          "OBP": "..296",
+          "SLG": "..291",
+          "OPS": "..587",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Jake Cronenworth has produced  career WAR with 83 home runs, 720 hits, and a ..245 batting average.",
+        "summary": "Jake Cronenworth has produced  career WAR with 83 home runs, 721 hits, and a ..245 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "720",
+          "H": "721",
           "HR": "83",
           "BA": "..245",
-          "R": "414",
+          "R": "415",
           "RBI": "381",
           "SB": "28",
           "OBP": "..333",
@@ -3229,35 +3160,35 @@
       "team": "SD",
       "current_season": {
         "season": 2026,
-        "summary": "Jase Bowen is having a season highlighted by 0 home runs, ..143 batting average, and  WAR.",
+        "summary": "Jase Bowen is having a season highlighted by 0 home runs, ..135 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "49",
+          "AB": "52",
           "H": "7",
           "HR": "0",
-          "BA": "..143",
+          "BA": "..135",
           "R": "7",
           "RBI": "3",
           "SB": "4",
-          "OBP": "..192",
-          "SLG": "..184",
-          "OPS": "..376",
+          "OBP": "..182",
+          "SLG": "..173",
+          "OPS": "..355",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Jase Bowen has produced  career WAR with 0 home runs, 7 hits, and a ..143 batting average.",
+        "summary": "Jase Bowen has produced  career WAR with 0 home runs, 7 hits, and a ..135 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "7",
           "HR": "0",
-          "BA": "..143",
+          "BA": "..135",
           "R": "7",
           "RBI": "3",
           "SB": "4",
-          "OBP": "..192",
-          "SLG": "..184",
-          "OPS": "..376",
+          "OBP": "..182",
+          "SLG": "..173",
+          "OPS": "..355",
           "OPS+": ""
         }
       },
@@ -3311,7 +3242,7 @@
       "team": "SD",
       "current_season": {
         "season": 2026,
-        "summary": "Luis Campusano is currently 18th in OPS this season.",
+        "summary": "Luis Campusano is currently 19th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "81",
@@ -3388,35 +3319,35 @@
       "team": "SD",
       "current_season": {
         "season": 2026,
-        "summary": "Luis Rengifo is having a season highlighted by 1 home runs, ..223 batting average, and  WAR.",
+        "summary": "Luis Rengifo is having a season highlighted by 1 home runs, ..227 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "202",
-          "H": "45",
+          "AB": "207",
+          "H": "47",
           "HR": "1",
-          "BA": "..223",
+          "BA": "..227",
           "R": "24",
-          "RBI": "22",
+          "RBI": "24",
           "SB": "3",
-          "OBP": "..296",
-          "SLG": "..282",
-          "OPS": "..578",
+          "OBP": "..299",
+          "SLG": "..285",
+          "OPS": "..584",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Luis Rengifo has produced  career WAR with 63 home runs, 616 hits, and a ..247 batting average.",
+        "summary": "Luis Rengifo has produced  career WAR with 63 home runs, 618 hits, and a ..248 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "616",
+          "H": "618",
           "HR": "63",
-          "BA": "..247",
+          "BA": "..248",
           "R": "298",
-          "RBI": "252",
+          "RBI": "254",
           "SB": "55",
           "OBP": "..306",
-          "SLG": "..373",
-          "OPS": "..679",
+          "SLG": "..374",
+          "OPS": "..680",
           "OPS+": ""
         }
       },
@@ -3463,32 +3394,32 @@
         "summary": "Manny Machado is currently 12th in home runs this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "362",
-          "H": "73",
+          "AB": "366",
+          "H": "75",
           "HR": "22",
-          "BA": "..202",
-          "R": "50",
+          "BA": "..205",
+          "R": "51",
           "RBI": "59",
           "SB": "2",
-          "OBP": "..293",
-          "SLG": "..428",
-          "OPS": "..721",
+          "OBP": "..295",
+          "SLG": "..429",
+          "OPS": "..724",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Manny Machado has produced  career WAR with 391 home runs, 2142 hits, and a ..275 batting average.",
+        "summary": "Manny Machado has produced  career WAR with 391 home runs, 2144 hits, and a ..275 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "2142",
+          "H": "2144",
           "HR": "391",
           "BA": "..275",
-          "R": "1132",
+          "R": "1133",
           "RBI": "1203",
           "SB": "115",
-          "OBP": "..335",
+          "OBP": "..336",
           "SLG": "..483",
-          "OPS": "..818",
+          "OPS": "..819",
           "OPS+": ""
         }
       },
@@ -3775,35 +3706,35 @@
       "team": "SD",
       "current_season": {
         "season": 2026,
-        "summary": "Sung-Mun Song is having a season highlighted by 1 home runs, ..228 batting average, and  WAR.",
+        "summary": "Sung-Mun Song is having a season highlighted by 1 home runs, ..226 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "92",
+          "AB": "93",
           "H": "21",
           "HR": "1",
-          "BA": "..228",
+          "BA": "..226",
           "R": "16",
           "RBI": "15",
           "SB": "11",
-          "OBP": "..324",
-          "SLG": "..304",
-          "OPS": "..628",
+          "OBP": "..321",
+          "SLG": "..301",
+          "OPS": "..622",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Sung-Mun Song has produced  career WAR with 1 home runs, 21 hits, and a ..228 batting average.",
+        "summary": "Sung-Mun Song has produced  career WAR with 1 home runs, 21 hits, and a ..226 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "21",
           "HR": "1",
-          "BA": "..228",
+          "BA": "..226",
           "R": "16",
           "RBI": "15",
           "SB": "11",
-          "OBP": "..324",
-          "SLG": "..304",
-          "OPS": "..628",
+          "OBP": "..321",
+          "SLG": "..301",
+          "OPS": "..622",
           "OPS+": ""
         }
       },
@@ -3822,35 +3753,35 @@
       "team": "SD",
       "current_season": {
         "season": 2026,
-        "summary": "Ty France is having a season highlighted by 15 home runs, ..276 batting average, and  WAR.",
+        "summary": "Ty France is having a season highlighted by 16 home runs, ..275 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "232",
-          "H": "64",
-          "HR": "15",
-          "BA": "..276",
-          "R": "29",
-          "RBI": "41",
+          "AB": "236",
+          "H": "65",
+          "HR": "16",
+          "BA": "..275",
+          "R": "30",
+          "RBI": "43",
           "SB": "1",
-          "OBP": "..332",
-          "SLG": "..539",
-          "OPS": "..871",
+          "OBP": "..331",
+          "SLG": "..547",
+          "OPS": "..878",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Ty France has produced  career WAR with 96 home runs, 840 hits, and a ..263 batting average.",
+        "summary": "Ty France has produced  career WAR with 97 home runs, 841 hits, and a ..263 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "840",
-          "HR": "96",
+          "H": "841",
+          "HR": "97",
           "BA": "..263",
-          "R": "393",
-          "RBI": "405",
+          "R": "394",
+          "RBI": "407",
           "SB": "4",
           "OBP": "..334",
-          "SLG": "..410",
-          "OPS": "..744",
+          "SLG": "..411",
+          "OPS": "..745",
           "OPS+": ""
         }
       },
@@ -4036,19 +3967,19 @@
       "team": "SD",
       "current_season": {
         "season": 2026,
-        "summary": "Xander Bogaerts is having a season highlighted by 9 home runs, ..222 batting average, and  WAR.",
+        "summary": "Xander Bogaerts is having a season highlighted by 9 home runs, ..219 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "338",
+          "AB": "342",
           "H": "75",
           "HR": "9",
-          "BA": "..222",
+          "BA": "..219",
           "R": "41",
           "RBI": "38",
           "SB": "13",
-          "OBP": "..316",
-          "SLG": "..328",
-          "OPS": "..644",
+          "OBP": "..313",
+          "SLG": "..325",
+          "OPS": "..638",
           "OPS+": ""
         }
       },
@@ -5448,7 +5379,7 @@
       "team": "SEA",
       "current_season": {
         "season": 2026,
-        "summary": "Randy Arozarena is currently 11th in stolen bases and 16th in runs this season.",
+        "summary": "Randy Arozarena is currently 11th in stolen bases and 17th in runs this season.",
         "stat_card": {
           "WAR": "",
           "AB": "345",
@@ -6508,7 +6439,7 @@
       "team": "SF",
       "current_season": {
         "season": 2026,
-        "summary": "Jung Hoo Lee is currently 12th in hits this season.",
+        "summary": "Jung Hoo Lee is currently 14th in hits this season.",
         "stat_card": {
           "WAR": "",
           "AB": "354",
@@ -7220,35 +7151,35 @@
       "team": "STL",
       "current_season": {
         "season": 2026,
-        "summary": "Alec Burleson is currently 12th in hits and 7th in RBI this season.",
+        "summary": "Alec Burleson is currently 10th in hits and 7th in RBI this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "383",
-          "H": "107",
+          "AB": "388",
+          "H": "110",
           "HR": "15",
-          "BA": "..279",
-          "R": "53",
+          "BA": "..284",
+          "R": "54",
           "RBI": "69",
           "SB": "3",
-          "OBP": "..342",
-          "SLG": "..462",
-          "OPS": "..804",
+          "OBP": "..345",
+          "SLG": "..469",
+          "OPS": "..814",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Alec Burleson has produced  career WAR with 63 home runs, 484 hits, and a ..270 batting average.",
+        "summary": "Alec Burleson has produced  career WAR with 63 home runs, 487 hits, and a ..271 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "484",
+          "H": "487",
           "HR": "63",
-          "BA": "..270",
-          "R": "216",
+          "BA": "..271",
+          "R": "217",
           "RBI": "255",
           "SB": "21",
-          "OBP": "..324",
-          "SLG": "..431",
-          "OPS": "..755",
+          "OBP": "..325",
+          "SLG": "..432",
+          "OPS": "..757",
           "OPS+": ""
         }
       },
@@ -7347,35 +7278,35 @@
       "team": "STL",
       "current_season": {
         "season": 2026,
-        "summary": "Blaze Jordan is having a season highlighted by 1 home runs, ..253 batting average, and  WAR.",
+        "summary": "Blaze Jordan is having a season highlighted by 1 home runs, ..242 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "91",
+          "AB": "95",
           "H": "23",
           "HR": "1",
-          "BA": "..253",
+          "BA": "..242",
           "R": "10",
           "RBI": "18",
           "SB": "0",
-          "OBP": "..265",
-          "SLG": "..374",
-          "OPS": "..639",
+          "OBP": "..255",
+          "SLG": "..358",
+          "OPS": "..613",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Blaze Jordan has produced  career WAR with 1 home runs, 23 hits, and a ..253 batting average.",
+        "summary": "Blaze Jordan has produced  career WAR with 1 home runs, 23 hits, and a ..242 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "23",
           "HR": "1",
-          "BA": "..253",
+          "BA": "..242",
           "R": "10",
           "RBI": "18",
           "SB": "0",
-          "OBP": "..265",
-          "SLG": "..374",
-          "OPS": "..639",
+          "OBP": "..255",
+          "SLG": "..358",
+          "OPS": "..613",
           "OPS+": ""
         }
       },
@@ -7409,35 +7340,35 @@
       "team": "STL",
       "current_season": {
         "season": 2026,
-        "summary": "Bryan Torres is having a season highlighted by 4 home runs, ..203 batting average, and  WAR.",
+        "summary": "Bryan Torres is having a season highlighted by 4 home runs, ..214 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "69",
-          "H": "14",
+          "AB": "70",
+          "H": "15",
           "HR": "4",
-          "BA": "..203",
-          "R": "9",
-          "RBI": "8",
+          "BA": "..214",
+          "R": "10",
+          "RBI": "10",
           "SB": "1",
-          "OBP": "..267",
-          "SLG": "..435",
-          "OPS": "..702",
+          "OBP": "..276",
+          "SLG": "..443",
+          "OPS": "..719",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Bryan Torres has produced  career WAR with 4 home runs, 14 hits, and a ..203 batting average.",
+        "summary": "Bryan Torres has produced  career WAR with 4 home runs, 15 hits, and a ..214 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "14",
+          "H": "15",
           "HR": "4",
-          "BA": "..203",
-          "R": "9",
-          "RBI": "8",
+          "BA": "..214",
+          "R": "10",
+          "RBI": "10",
           "SB": "1",
-          "OBP": "..267",
-          "SLG": "..435",
-          "OPS": "..702",
+          "OBP": "..276",
+          "SLG": "..443",
+          "OPS": "..719",
           "OPS+": ""
         }
       },
@@ -7622,7 +7553,7 @@
       "team": "STL",
       "current_season": {
         "season": 2026,
-        "summary": "Iván Herrera is currently 20th in runs this season.",
+        "summary": "Iván Herrera is having a season highlighted by 11 home runs, ..241 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
           "AB": "373",
@@ -7661,6 +7592,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -7679,14 +7615,14 @@
       "team": "STL",
       "current_season": {
         "season": 2026,
-        "summary": "JJ Wetherholt is currently 20th in runs this season.",
+        "summary": "JJ Wetherholt is currently 15th in runs this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "377",
-          "H": "97",
+          "AB": "382",
+          "H": "99",
           "HR": "15",
-          "BA": "..257",
-          "R": "62",
+          "BA": "..259",
+          "R": "64",
           "RBI": "40",
           "SB": "10",
           "OBP": "..352",
@@ -7696,13 +7632,13 @@
         }
       },
       "career": {
-        "summary": "JJ Wetherholt has produced  career WAR with 15 home runs, 97 hits, and a ..257 batting average.",
+        "summary": "JJ Wetherholt has produced  career WAR with 15 home runs, 99 hits, and a ..259 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "97",
+          "H": "99",
           "HR": "15",
-          "BA": "..257",
-          "R": "62",
+          "BA": "..259",
+          "R": "64",
           "RBI": "40",
           "SB": "10",
           "OBP": "..352",
@@ -7736,35 +7672,35 @@
       "team": "STL",
       "current_season": {
         "season": 2026,
-        "summary": "Jimmy Crooks is having a season highlighted by 3 home runs, ..169 batting average, and  WAR.",
+        "summary": "Jimmy Crooks is having a season highlighted by 3 home runs, ..178 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "71",
-          "H": "12",
+          "AB": "73",
+          "H": "13",
           "HR": "3",
-          "BA": "..169",
+          "BA": "..178",
           "R": "4",
           "RBI": "9",
           "SB": "0",
-          "OBP": "..272",
-          "SLG": "..324",
-          "OPS": "..596",
+          "OBP": "..277",
+          "SLG": "..329",
+          "OPS": "..606",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Jimmy Crooks has produced  career WAR with 4 home runs, 18 hits, and a ..155 batting average.",
+        "summary": "Jimmy Crooks has produced  career WAR with 4 home runs, 19 hits, and a ..161 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "18",
+          "H": "19",
           "HR": "4",
-          "BA": "..155",
+          "BA": "..161",
           "R": "7",
           "RBI": "10",
           "SB": "0",
-          "OBP": "..228",
-          "SLG": "..293",
-          "OPS": "..521",
+          "OBP": "..233",
+          "SLG": "..297",
+          "OPS": "..530",
           "OPS+": ""
         }
       },
@@ -7793,35 +7729,35 @@
       "team": "STL",
       "current_season": {
         "season": 2026,
-        "summary": "Jordan Walker is currently 12th in home runs, 9th in hits, and 2nd in RBI this season.",
+        "summary": "Jordan Walker is currently 12th in home runs, 8th in hits, and 1st in RBI this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "381",
-          "H": "110",
+          "AB": "385",
+          "H": "112",
           "HR": "22",
-          "BA": "..289",
-          "R": "64",
-          "RBI": "76",
+          "BA": "..291",
+          "R": "65",
+          "RBI": "77",
           "SB": "14",
-          "OBP": "..351",
-          "SLG": "..517",
-          "OPS": "..868",
+          "OBP": "..352",
+          "SLG": "..519",
+          "OPS": "..871",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Jordan Walker has produced  career WAR with 49 home runs, 337 hits, and a ..254 batting average.",
+        "summary": "Jordan Walker has produced  career WAR with 49 home runs, 339 hits, and a ..255 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "337",
+          "H": "339",
           "HR": "49",
-          "BA": "..254",
-          "R": "171",
-          "RBI": "188",
+          "BA": "..255",
+          "R": "172",
+          "RBI": "189",
           "SB": "32",
-          "OBP": "..316",
-          "SLG": "..418",
-          "OPS": "..734",
+          "OBP": "..317",
+          "SLG": "..419",
+          "OPS": "..736",
           "OPS+": ""
         }
       },
@@ -7870,35 +7806,35 @@
       "team": "STL",
       "current_season": {
         "season": 2026,
-        "summary": "José Fermín is having a season highlighted by 4 home runs, ..256 batting average, and  WAR.",
+        "summary": "José Fermín is having a season highlighted by 4 home runs, ..257 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "172",
-          "H": "44",
+          "AB": "175",
+          "H": "45",
           "HR": "4",
-          "BA": "..256",
+          "BA": "..257",
           "R": "18",
           "RBI": "20",
           "SB": "3",
-          "OBP": "..317",
-          "SLG": "..378",
-          "OPS": "..695",
+          "OBP": "..321",
+          "SLG": "..377",
+          "OPS": "..698",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "José Fermín has produced  career WAR with 5 home runs, 84 hits, and a ..237 batting average.",
+        "summary": "José Fermín has produced  career WAR with 5 home runs, 85 hits, and a ..238 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "84",
+          "H": "85",
           "HR": "5",
-          "BA": "..237",
+          "BA": "..238",
           "R": "32",
           "RBI": "37",
           "SB": "7",
-          "OBP": "..316",
+          "OBP": "..318",
           "SLG": "..331",
-          "OPS": "..647",
+          "OPS": "..649",
           "OPS+": ""
         }
       },
@@ -7992,31 +7928,31 @@
       "team": "STL",
       "current_season": {
         "season": 2026,
-        "summary": "Lars Nootbaar is having a season highlighted by 3 home runs, ..248 batting average, and  WAR.",
+        "summary": "Lars Nootbaar is having a season highlighted by 3 home runs, ..254 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "121",
-          "H": "30",
+          "AB": "126",
+          "H": "32",
           "HR": "3",
-          "BA": "..248",
+          "BA": "..254",
           "R": "18",
-          "RBI": "12",
+          "RBI": "15",
           "SB": "1",
-          "OBP": "..352",
-          "SLG": "..388",
-          "OPS": "..740",
+          "OBP": "..354",
+          "SLG": "..389",
+          "OPS": "..743",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Lars Nootbaar has produced  career WAR with 61 home runs, 437 hits, and a ..242 batting average.",
+        "summary": "Lars Nootbaar has produced  career WAR with 61 home runs, 439 hits, and a ..243 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "437",
+          "H": "439",
           "HR": "61",
-          "BA": "..242",
+          "BA": "..243",
           "R": "267",
-          "RBI": "206",
+          "RBI": "209",
           "SB": "29",
           "OBP": "..342",
           "SLG": "..405",
@@ -8068,35 +8004,35 @@
       "team": "STL",
       "current_season": {
         "season": 2026,
-        "summary": "Masyn Winn is having a season highlighted by 4 home runs, ..240 batting average, and  WAR.",
+        "summary": "Masyn Winn is having a season highlighted by 4 home runs, ..237 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "334",
+          "AB": "338",
           "H": "80",
           "HR": "4",
-          "BA": "..240",
+          "BA": "..237",
           "R": "39",
           "RBI": "42",
           "SB": "8",
-          "OBP": "..316",
-          "SLG": "..323",
-          "OPS": "..639",
+          "OBP": "..314",
+          "SLG": "..320",
+          "OPS": "..634",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Masyn Winn has produced  career WAR with 30 home runs, 382 hits, and a ..249 batting average.",
+        "summary": "Masyn Winn has produced  career WAR with 30 home runs, 382 hits, and a ..248 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "382",
           "HR": "30",
-          "BA": "..249",
+          "BA": "..248",
           "R": "204",
           "RBI": "162",
           "SB": "30",
           "OBP": "..306",
-          "SLG": "..364",
-          "OPS": "..670",
+          "SLG": "..363",
+          "OPS": "..669",
           "OPS+": ""
         }
       },
@@ -8280,35 +8216,35 @@
       "team": "STL",
       "current_season": {
         "season": 2026,
-        "summary": "Nathan Church is having a season highlighted by 8 home runs, ..228 batting average, and  WAR.",
+        "summary": "Nathan Church is having a season highlighted by 8 home runs, ..229 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "254",
-          "H": "58",
+          "AB": "258",
+          "H": "59",
           "HR": "8",
-          "BA": "..228",
-          "R": "30",
+          "BA": "..229",
+          "R": "31",
           "RBI": "29",
           "SB": "5",
           "OBP": "..269",
-          "SLG": "..366",
-          "OPS": "..635",
+          "SLG": "..364",
+          "OPS": "..633",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Nathan Church has produced  career WAR with 9 home runs, 68 hits, and a ..219 batting average.",
+        "summary": "Nathan Church has produced  career WAR with 9 home runs, 69 hits, and a ..220 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "68",
+          "H": "69",
           "HR": "9",
-          "BA": "..219",
-          "R": "39",
+          "BA": "..220",
+          "R": "40",
           "RBI": "37",
           "SB": "6",
           "OBP": "..266",
-          "SLG": "..345",
-          "OPS": "..611",
+          "SLG": "..344",
+          "OPS": "..610",
           "OPS+": ""
         }
       },
@@ -8332,19 +8268,19 @@
       "team": "STL",
       "current_season": {
         "season": 2026,
-        "summary": "Nelson Velázquez is having a season highlighted by 4 home runs, ..222 batting average, and  WAR.",
+        "summary": "Nelson Velázquez is having a season highlighted by 4 home runs, ..219 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "63",
+          "AB": "64",
           "H": "14",
           "HR": "4",
-          "BA": "..222",
+          "BA": "..219",
           "R": "10",
           "RBI": "12",
           "SB": "0",
-          "OBP": "..306",
-          "SLG": "..460",
-          "OPS": "..766",
+          "OBP": "..301",
+          "SLG": "..453",
+          "OPS": "..754",
           "OPS+": ""
         }
       },
@@ -8359,8 +8295,8 @@
           "RBI": "99",
           "SB": "7",
           "OBP": "..288",
-          "SLG": "..436",
-          "OPS": "..724",
+          "SLG": "..435",
+          "OPS": "..723",
           "OPS+": ""
         }
       },
@@ -8384,19 +8320,19 @@
       "team": "STL",
       "current_season": {
         "season": 2026,
-        "summary": "Pedro Pagés is having a season highlighted by 4 home runs, ..209 batting average, and  WAR.",
+        "summary": "Pedro Pagés is having a season highlighted by 4 home runs, ..208 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "148",
+          "AB": "149",
           "H": "31",
           "HR": "4",
-          "BA": "..209",
+          "BA": "..208",
           "R": "13",
           "RBI": "11",
           "SB": "2",
-          "OBP": "..247",
-          "SLG": "..331",
-          "OPS": "..578",
+          "OBP": "..245",
+          "SLG": "..329",
+          "OPS": "..574",
           "OPS+": ""
         }
       },
@@ -8495,35 +8431,35 @@
       "team": "TB",
       "current_season": {
         "season": 2026,
-        "summary": "Ben Williamson is having a season highlighted by 2 home runs, ..256 batting average, and  WAR.",
+        "summary": "Ben Williamson is having a season highlighted by 2 home runs, ..252 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "215",
+          "AB": "218",
           "H": "55",
           "HR": "2",
-          "BA": "..256",
+          "BA": "..252",
           "R": "28",
           "RBI": "24",
           "SB": "8",
-          "OBP": "..322",
-          "SLG": "..335",
-          "OPS": "..657",
+          "OBP": "..318",
+          "SLG": "..330",
+          "OPS": "..648",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Ben Williamson has produced  career WAR with 3 home runs, 125 hits, and a ..254 batting average.",
+        "summary": "Ben Williamson has produced  career WAR with 3 home runs, 125 hits, and a ..253 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "125",
           "HR": "3",
-          "BA": "..254",
+          "BA": "..253",
           "R": "64",
           "RBI": "45",
           "SB": "13",
-          "OBP": "..306",
-          "SLG": "..321",
-          "OPS": "..627",
+          "OBP": "..305",
+          "SLG": "..319",
+          "OPS": "..624",
           "OPS+": ""
         }
       },
@@ -8716,32 +8652,32 @@
         "summary": "Chandler Simpson is currently 3rd in stolen bases this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "351",
+          "AB": "354",
           "H": "102",
           "HR": "0",
-          "BA": "..291",
+          "BA": "..288",
           "R": "43",
           "RBI": "19",
           "SB": "26",
-          "OBP": "..326",
-          "SLG": "..353",
-          "OPS": "..679",
+          "OBP": "..324",
+          "SLG": "..350",
+          "OPS": "..674",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Chandler Simpson has produced  career WAR with 0 home runs, 224 hits, and a ..293 batting average.",
+        "summary": "Chandler Simpson has produced  career WAR with 0 home runs, 224 hits, and a ..292 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "224",
           "HR": "0",
-          "BA": "..293",
+          "BA": "..292",
           "R": "96",
           "RBI": "45",
           "SB": "70",
-          "OBP": "..326",
-          "SLG": "..349",
-          "OPS": "..675",
+          "OBP": "..325",
+          "SLG": "..348",
+          "OPS": "..673",
           "OPS+": ""
         }
       },
@@ -9035,35 +8971,35 @@
       "team": "TB",
       "current_season": {
         "season": 2026,
-        "summary": "Hunter Feduccia is having a season highlighted by 2 home runs, ..227 batting average, and  WAR.",
+        "summary": "Hunter Feduccia is having a season highlighted by 2 home runs, ..229 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "128",
-          "H": "29",
+          "AB": "131",
+          "H": "30",
           "HR": "2",
-          "BA": "..227",
-          "R": "13",
+          "BA": "..229",
+          "R": "14",
           "RBI": "11",
           "SB": "0",
           "OBP": "..306",
-          "SLG": "..328",
-          "OPS": "..634",
+          "SLG": "..336",
+          "OPS": "..642",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Hunter Feduccia has produced  career WAR with 2 home runs, 46 hits, and a ..202 batting average.",
+        "summary": "Hunter Feduccia has produced  career WAR with 2 home runs, 47 hits, and a ..203 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "46",
+          "H": "47",
           "HR": "2",
-          "BA": "..202",
-          "R": "20",
+          "BA": "..203",
+          "R": "21",
           "RBI": "20",
           "SB": "1",
           "OBP": "..297",
-          "SLG": "..281",
-          "OPS": "..578",
+          "SLG": "..286",
+          "OPS": "..583",
           "OPS+": ""
         }
       },
@@ -9107,35 +9043,35 @@
       "team": "TB",
       "current_season": {
         "season": 2026,
-        "summary": "Jonathan Aranda is currently 20th in hits and 12th in RBI this season.",
+        "summary": "Jonathan Aranda is currently 13th in RBI this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "367",
+          "AB": "371",
           "H": "105",
           "HR": "14",
-          "BA": "..286",
+          "BA": "..283",
           "R": "48",
           "RBI": "65",
           "SB": "0",
-          "OBP": "..382",
-          "SLG": "..447",
-          "OPS": "..829",
+          "OBP": "..378",
+          "SLG": "..442",
+          "OPS": "..820",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Jonathan Aranda has produced  career WAR with 38 home runs, 287 hits, and a ..279 batting average.",
+        "summary": "Jonathan Aranda has produced  career WAR with 38 home runs, 287 hits, and a ..278 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "287",
           "HR": "38",
-          "BA": "..279",
+          "BA": "..278",
           "R": "149",
           "RBI": "157",
           "SB": "0",
-          "OBP": "..366",
-          "SLG": "..444",
-          "OPS": "..810",
+          "OBP": "..364",
+          "SLG": "..442",
+          "OPS": "..806",
           "OPS+": ""
         }
       },
@@ -9169,35 +9105,35 @@
       "team": "TB",
       "current_season": {
         "season": 2026,
-        "summary": "Jonny DeLuca is having a season highlighted by 6 home runs, ..261 batting average, and  WAR.",
+        "summary": "Jonny DeLuca is having a season highlighted by 6 home runs, ..262 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "184",
-          "H": "48",
+          "AB": "187",
+          "H": "49",
           "HR": "6",
-          "BA": "..261",
+          "BA": "..262",
           "R": "24",
           "RBI": "31",
           "SB": "10",
-          "OBP": "..295",
-          "SLG": "..435",
-          "OPS": "..730",
+          "OBP": "..296",
+          "SLG": "..439",
+          "OPS": "..735",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Jonny DeLuca has produced  career WAR with 14 home runs, 150 hits, and a ..244 batting average.",
+        "summary": "Jonny DeLuca has produced  career WAR with 14 home runs, 151 hits, and a ..244 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "150",
+          "H": "151",
           "HR": "14",
           "BA": "..244",
           "R": "63",
           "RBI": "72",
           "SB": "33",
           "OBP": "..292",
-          "SLG": "..380",
-          "OPS": "..672",
+          "SLG": "..382",
+          "OPS": "..674",
           "OPS+": ""
         }
       },
@@ -9226,19 +9162,19 @@
       "team": "TB",
       "current_season": {
         "season": 2026,
-        "summary": "Junior Caminero is currently 5th in home runs, 8th in hits, and 16th in OPS this season.",
+        "summary": "Junior Caminero is currently 5th in home runs, 9th in hits, and 17th in OPS this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "383",
+          "AB": "387",
           "H": "111",
           "HR": "29",
-          "BA": "..290",
+          "BA": "..287",
           "R": "65",
           "RBI": "62",
           "SB": "2",
-          "OBP": "..381",
-          "SLG": "..559",
-          "OPS": "..940",
+          "OBP": "..378",
+          "SLG": "..553",
+          "OPS": "..931",
           "OPS+": ""
         }
       },
@@ -9252,9 +9188,9 @@
           "R": "177",
           "RBI": "197",
           "SB": "11",
-          "OBP": "..332",
-          "SLG": "..522",
-          "OPS": "..854",
+          "OBP": "..331",
+          "SLG": "..520",
+          "OPS": "..851",
           "OPS+": ""
         }
       },
@@ -9440,35 +9376,35 @@
       "team": "TB",
       "current_season": {
         "season": 2026,
-        "summary": "Richie Palacios is having a season highlighted by 3 home runs, ..233 batting average, and  WAR.",
+        "summary": "Richie Palacios is having a season highlighted by 3 home runs, ..230 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "210",
+          "AB": "213",
           "H": "49",
           "HR": "3",
-          "BA": "..233",
+          "BA": "..230",
           "R": "29",
           "RBI": "27",
           "SB": "9",
-          "OBP": "..331",
-          "SLG": "..333",
-          "OPS": "..664",
+          "OBP": "..327",
+          "SLG": "..329",
+          "OPS": "..656",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Richie Palacios has produced  career WAR with 15 home runs, 172 hits, and a ..239 batting average.",
+        "summary": "Richie Palacios has produced  career WAR with 15 home runs, 172 hits, and a ..238 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "172",
           "HR": "15",
-          "BA": "..239",
+          "BA": "..238",
           "R": "101",
           "RBI": "77",
           "SB": "36",
-          "OBP": "..332",
-          "SLG": "..351",
-          "OPS": "..683",
+          "OBP": "..331",
+          "SLG": "..349",
+          "OPS": "..680",
           "OPS+": ""
         }
       },
@@ -9726,35 +9662,35 @@
       "team": "TB",
       "current_season": {
         "season": 2026,
-        "summary": "Victor Mesa Jr. is having a season highlighted by 8 home runs, ..231 batting average, and  WAR.",
+        "summary": "Victor Mesa Jr. is having a season highlighted by 8 home runs, ..224 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "104",
+          "AB": "107",
           "H": "24",
           "HR": "8",
-          "BA": "..231",
+          "BA": "..224",
           "R": "16",
           "RBI": "17",
           "SB": "4",
-          "OBP": "..319",
-          "SLG": "..481",
-          "OPS": "..800",
+          "OBP": "..311",
+          "SLG": "..467",
+          "OPS": "..778",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Victor Mesa Jr. has produced  career WAR with 9 home runs, 30 hits, and a ..221 batting average.",
+        "summary": "Victor Mesa Jr. has produced  career WAR with 9 home runs, 30 hits, and a ..216 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "30",
           "HR": "9",
-          "BA": "..221",
+          "BA": "..216",
           "R": "23",
           "RBI": "23",
           "SB": "4",
-          "OBP": "..314",
-          "SLG": "..449",
-          "OPS": "..763",
+          "OBP": "..308",
+          "SLG": "..439",
+          "OPS": "..747",
           "OPS+": ""
         }
       },
@@ -9798,31 +9734,31 @@
       "team": "TB",
       "current_season": {
         "season": 2026,
-        "summary": "Yandy Díaz is currently 4th in hits and 17th in batting average this season.",
+        "summary": "Yandy Díaz is currently 4th in hits, 18th in batting average, and 19th in RBI this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "377",
-          "H": "116",
+          "AB": "381",
+          "H": "117",
           "HR": "14",
-          "BA": "..308",
+          "BA": "..307",
           "R": "56",
-          "RBI": "60",
+          "RBI": "61",
           "SB": "2",
-          "OBP": "..383",
-          "SLG": "..469",
-          "OPS": "..852",
+          "OBP": "..382",
+          "SLG": "..467",
+          "OPS": "..849",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Yandy Díaz has produced  career WAR with 114 home runs, 1073 hits, and a ..292 batting average.",
+        "summary": "Yandy Díaz has produced  career WAR with 114 home runs, 1074 hits, and a ..292 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "1073",
+          "H": "1074",
           "HR": "114",
           "BA": "..292",
           "R": "527",
-          "RBI": "484",
+          "RBI": "485",
           "SB": "13",
           "OBP": "..373",
           "SLG": "..444",
@@ -11423,40 +11359,55 @@
       "rc_year": 2024
     },
     {
+      "player_id": "671936",
+      "player_name": "Adam Macko",
+      "team": "TOR",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "672386",
       "player_name": "Alejandro Kirk",
       "team": "TOR",
       "current_season": {
         "season": 2026,
-        "summary": "Alejandro Kirk is having a season highlighted by 3 home runs, ..218 batting average, and  WAR.",
+        "summary": "Alejandro Kirk is having a season highlighted by 3 home runs, ..219 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "101",
-          "H": "22",
+          "AB": "105",
+          "H": "23",
           "HR": "3",
-          "BA": "..218",
+          "BA": "..219",
           "R": "9",
-          "RBI": "11",
+          "RBI": "12",
           "SB": "0",
-          "OBP": "..298",
-          "SLG": "..347",
-          "OPS": "..645",
+          "OBP": "..297",
+          "SLG": "..343",
+          "OPS": "..640",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Alejandro Kirk has produced  career WAR with 54 home runs, 511 hits, and a ..266 batting average.",
+        "summary": "Alejandro Kirk has produced  career WAR with 54 home runs, 512 hits, and a ..266 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "511",
+          "H": "512",
           "HR": "54",
           "BA": "..266",
           "R": "193",
-          "RBI": "274",
+          "RBI": "275",
           "SB": "1",
           "OBP": "..342",
-          "SLG": "..396",
-          "OPS": "..738",
+          "SLG": "..395",
+          "OPS": "..737",
           "OPS+": ""
         }
       },
@@ -11771,6 +11722,68 @@
       "rc_year": 2021
     },
     {
+      "player_id": "676914",
+      "player_name": "Davis Schneider",
+      "team": "TOR",
+      "current_season": {
+        "season": 2026,
+        "summary": "Davis Schneider is having a season highlighted by 3 home runs, ..150 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "100",
+          "H": "15",
+          "HR": "3",
+          "BA": "..150",
+          "R": "16",
+          "RBI": "12",
+          "SB": "1",
+          "OBP": "..283",
+          "SLG": "..290",
+          "OPS": "..573",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Davis Schneider has produced  career WAR with 35 home runs, 167 hits, and a ..208 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "167",
+          "HR": "35",
+          "BA": "..208",
+          "R": "120",
+          "RBI": "109",
+          "SB": "11",
+          "OBP": "..320",
+          "SLG": "..396",
+          "OPS": "..716",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2024,
+          "label": "2024 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2024
+    },
+    {
       "player_id": "656302",
       "player_name": "Dylan Cease",
       "team": "TOR",
@@ -11856,30 +11869,30 @@
       "team": "TOR",
       "current_season": {
         "season": 2026,
-        "summary": "Ernie Clement is currently 6th in hits this season.",
+        "summary": "Ernie Clement is currently 5th in hits this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "381",
-          "H": "113",
+          "AB": "385",
+          "H": "114",
           "HR": "8",
-          "BA": "..297",
-          "R": "44",
+          "BA": "..296",
+          "R": "45",
           "RBI": "32",
           "SB": "3",
-          "OBP": "..321",
-          "SLG": "..425",
-          "OPS": "..746",
+          "OBP": "..320",
+          "SLG": "..423",
+          "OPS": "..743",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Ernie Clement has produced  career WAR with 33 home runs, 455 hits, and a ..269 batting average.",
+        "summary": "Ernie Clement has produced  career WAR with 33 home runs, 456 hits, and a ..269 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "455",
+          "H": "456",
           "HR": "33",
           "BA": "..269",
-          "R": "217",
+          "R": "218",
           "RBI": "158",
           "SB": "22",
           "OBP": "..301",
@@ -11923,35 +11936,35 @@
       "team": "TOR",
       "current_season": {
         "season": 2026,
-        "summary": "George Springer is having a season highlighted by 10 home runs, ..225 batting average, and  WAR.",
+        "summary": "George Springer is having a season highlighted by 10 home runs, ..229 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "276",
-          "H": "62",
+          "AB": "279",
+          "H": "64",
           "HR": "10",
-          "BA": "..225",
+          "BA": "..229",
           "R": "34",
-          "RBI": "26",
+          "RBI": "27",
           "SB": "7",
-          "OBP": "..306",
-          "SLG": "..384",
-          "OPS": "..690",
+          "OBP": "..312",
+          "SLG": "..391",
+          "OPS": "..703",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "George Springer has produced  career WAR with 303 home runs, 1542 hits, and a ..264 batting average.",
+        "summary": "George Springer has produced  career WAR with 303 home runs, 1544 hits, and a ..265 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "1542",
+          "H": "1544",
           "HR": "303",
-          "BA": "..264",
+          "BA": "..265",
           "R": "1016",
-          "RBI": "822",
+          "RBI": "823",
           "SB": "127",
           "OBP": "..351",
-          "SLG": "..473",
-          "OPS": "..824",
+          "SLG": "..474",
+          "OPS": "..825",
           "OPS+": ""
         }
       },
@@ -12088,32 +12101,32 @@
         "summary": "Kazuma Okamoto is currently 12th in home runs and 16th in RBI this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "358",
+          "AB": "361",
           "H": "81",
           "HR": "22",
-          "BA": "..226",
+          "BA": "..224",
           "R": "50",
           "RBI": "62",
           "SB": "0",
-          "OBP": "..309",
-          "SLG": "..444",
-          "OPS": "..753",
+          "OBP": "..307",
+          "SLG": "..440",
+          "OPS": "..747",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Kazuma Okamoto has produced  career WAR with 22 home runs, 81 hits, and a ..226 batting average.",
+        "summary": "Kazuma Okamoto has produced  career WAR with 22 home runs, 81 hits, and a ..224 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "81",
           "HR": "22",
-          "BA": "..226",
+          "BA": "..224",
           "R": "50",
           "RBI": "62",
           "SB": "0",
-          "OBP": "..309",
-          "SLG": "..444",
-          "OPS": "..753",
+          "OBP": "..307",
+          "SLG": "..440",
+          "OPS": "..747",
           "OPS+": ""
         }
       },
@@ -12236,19 +12249,19 @@
       "team": "TOR",
       "current_season": {
         "season": 2026,
-        "summary": "Luis Urías is having a season highlighted by 2 home runs, ..267 batting average, and  WAR.",
+        "summary": "Luis Urías is having a season highlighted by 2 home runs, ..242 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "30",
+          "AB": "33",
           "H": "8",
           "HR": "2",
-          "BA": "..267",
+          "BA": "..242",
           "R": "3",
           "RBI": "3",
           "SB": "0",
-          "OBP": "..333",
-          "SLG": "..500",
-          "OPS": "..833",
+          "OBP": "..306",
+          "SLG": "..455",
+          "OPS": "..761",
           "OPS+": ""
         }
       },
@@ -12262,9 +12275,9 @@
           "R": "233",
           "RBI": "224",
           "SB": "11",
-          "OBP": "..329",
+          "OBP": "..328",
           "SLG": "..380",
-          "OPS": "..709",
+          "OPS": "..708",
           "OPS+": ""
         }
       },
@@ -12323,19 +12336,19 @@
       "team": "TOR",
       "current_season": {
         "season": 2026,
-        "summary": "Myles Straw is having a season highlighted by 3 home runs, ..222 batting average, and  WAR.",
+        "summary": "Myles Straw is having a season highlighted by 3 home runs, ..219 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "158",
+          "AB": "160",
           "H": "35",
           "HR": "3",
-          "BA": "..222",
-          "R": "26",
+          "BA": "..219",
+          "R": "27",
           "RBI": "16",
-          "SB": "3",
-          "OBP": "..276",
-          "SLG": "..316",
-          "OPS": "..592",
+          "SB": "4",
+          "OBP": "..277",
+          "SLG": "..313",
+          "OPS": "..590",
           "OPS+": ""
         }
       },
@@ -12346,9 +12359,9 @@
           "H": "536",
           "HR": "13",
           "BA": "..245",
-          "R": "328",
+          "R": "329",
           "RBI": "173",
-          "SB": "104",
+          "SB": "105",
           "OBP": "..313",
           "SLG": "..316",
           "OPS": "..629",
@@ -12465,133 +12478,6 @@
         }
       ],
       "rc_year": 2023
-    },
-    {
-      "player_id": "571578",
-      "player_name": "Patrick Corbin",
-      "team": "TOR",
-      "current_season": null,
-      "career": {
-        "summary": "Patrick Corbin has produced  career WAR with 0 home runs, 62 hits, and a ..151 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "62",
-          "HR": "0",
-          "BA": "..151",
-          "R": "30",
-          "RBI": "23",
-          "SB": "0",
-          "OBP": "..194",
-          "SLG": "..188",
-          "OPS": "..382",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
-        },
-        {
-          "year": 2017,
-          "label": "2017",
-          "is_rc_year": false
-        },
-        {
-          "year": 2016,
-          "label": "2016",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
-    {
-      "player_id": "815873",
-      "player_name": "Sean Keys",
-      "team": "TOR",
-      "current_season": {
-        "season": 2026,
-        "summary": "Sean Keys is having a season highlighted by 1 home runs, ..167 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "36",
-          "H": "6",
-          "HR": "1",
-          "BA": "..167",
-          "R": "5",
-          "RBI": "5",
-          "SB": "0",
-          "OBP": "..189",
-          "SLG": "..278",
-          "OPS": "..467",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Sean Keys has produced  career WAR with 1 home runs, 6 hits, and a ..167 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "6",
-          "HR": "1",
-          "BA": "..167",
-          "R": "5",
-          "RBI": "5",
-          "SB": "0",
-          "OBP": "..189",
-          "SLG": "..278",
-          "OPS": "..467",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "669456",
@@ -12764,31 +12650,31 @@
       "team": "TOR",
       "current_season": {
         "season": 2026,
-        "summary": "Vladimir Guerrero Jr. is having a season highlighted by 6 home runs, ..256 batting average, and  WAR.",
+        "summary": "Vladimir Guerrero Jr. is having a season highlighted by 6 home runs, ..259 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "359",
-          "H": "92",
+          "AB": "363",
+          "H": "94",
           "HR": "6",
-          "BA": "..256",
+          "BA": "..259",
           "R": "52",
-          "RBI": "41",
+          "RBI": "42",
           "SB": "7",
-          "OBP": "..338",
-          "SLG": "..351",
-          "OPS": "..689",
+          "OBP": "..340",
+          "SLG": "..353",
+          "OPS": "..693",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Vladimir Guerrero Jr. has produced  career WAR with 189 home runs, 1169 hits, and a ..286 batting average.",
+        "summary": "Vladimir Guerrero Jr. has produced  career WAR with 189 home runs, 1171 hits, and a ..286 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "1169",
+          "H": "1171",
           "HR": "189",
           "BA": "..286",
           "R": "623",
-          "RBI": "632",
+          "RBI": "633",
           "SB": "33",
           "OBP": "..363",
           "SLG": "..483",
@@ -12861,35 +12747,35 @@
       "team": "TOR",
       "current_season": {
         "season": 2026,
-        "summary": "Yohendrick Piñango is having a season highlighted by 5 home runs, ..270 batting average, and  WAR.",
+        "summary": "Yohendrick Piñango is having a season highlighted by 5 home runs, ..269 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "152",
-          "H": "41",
+          "AB": "156",
+          "H": "42",
           "HR": "5",
-          "BA": "..270",
-          "R": "11",
+          "BA": "..269",
+          "R": "12",
           "RBI": "20",
           "SB": "0",
-          "OBP": "..315",
-          "SLG": "..414",
-          "OPS": "..729",
+          "OBP": "..313",
+          "SLG": "..417",
+          "OPS": "..730",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Yohendrick Piñango has produced  career WAR with 5 home runs, 41 hits, and a ..270 batting average.",
+        "summary": "Yohendrick Piñango has produced  career WAR with 5 home runs, 42 hits, and a ..269 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "41",
+          "H": "42",
           "HR": "5",
-          "BA": "..270",
-          "R": "11",
+          "BA": "..269",
+          "R": "12",
           "RBI": "20",
           "SB": "0",
-          "OBP": "..315",
-          "SLG": "..414",
-          "OPS": "..729",
+          "OBP": "..313",
+          "SLG": "..417",
+          "OPS": "..730",
           "OPS+": ""
         }
       },
@@ -12902,35 +12788,35 @@
       "team": "MIN",
       "current_season": {
         "season": 2026,
-        "summary": "Alan Roden is having a season highlighted by 0 home runs, ..200 batting average, and  WAR.",
+        "summary": "Alan Roden is having a season highlighted by 0 home runs, ..214 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "25",
-          "H": "5",
+          "AB": "28",
+          "H": "6",
           "HR": "0",
-          "BA": "..200",
+          "BA": "..214",
           "R": "3",
-          "RBI": "4",
+          "RBI": "5",
           "SB": "0",
-          "OBP": "..300",
-          "SLG": "..200",
-          "OPS": "..500",
+          "OBP": "..303",
+          "SLG": "..214",
+          "OPS": "..517",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Alan Roden has produced  career WAR with 2 home runs, 31 hits, and a ..193 batting average.",
+        "summary": "Alan Roden has produced  career WAR with 2 home runs, 32 hits, and a ..195 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "31",
+          "H": "32",
           "HR": "2",
-          "BA": "..193",
+          "BA": "..195",
           "R": "20",
-          "RBI": "13",
+          "RBI": "14",
           "SB": "1",
-          "OBP": "..268",
+          "OBP": "..269",
           "SLG": "..280",
-          "OPS": "..548",
+          "OPS": "..549",
           "OPS+": ""
         }
       },
@@ -13023,6 +12909,11 @@
       "career": null,
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026 (RC)",
+          "is_rc_year": true
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -13033,7 +12924,7 @@
           "is_rc_year": false
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "668885",
@@ -13041,35 +12932,35 @@
       "team": "MIN",
       "current_season": {
         "season": 2026,
-        "summary": "Austin Martin is having a season highlighted by 2 home runs, ..241 batting average, and  WAR.",
+        "summary": "Austin Martin is having a season highlighted by 2 home runs, ..239 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "241",
+          "AB": "243",
           "H": "58",
           "HR": "2",
-          "BA": "..241",
+          "BA": "..239",
           "R": "35",
           "RBI": "20",
           "SB": "10",
-          "OBP": "..353",
-          "SLG": "..315",
-          "OPS": "..668",
+          "OBP": "..351",
+          "SLG": "..313",
+          "OPS": "..664",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Austin Martin has produced  career WAR with 4 home runs, 161 hits, and a ..256 batting average.",
+        "summary": "Austin Martin has produced  career WAR with 4 home runs, 161 hits, and a ..255 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "161",
           "HR": "4",
-          "BA": "..256",
+          "BA": "..255",
           "R": "98",
           "RBI": "43",
           "SB": "28",
-          "OBP": "..346",
-          "SLG": "..341",
-          "OPS": "..687",
+          "OBP": "..345",
+          "SLG": "..340",
+          "OPS": "..685",
           "OPS+": ""
         }
       },
@@ -13178,35 +13069,35 @@
       "team": "MIN",
       "current_season": {
         "season": 2026,
-        "summary": "Brooks Lee is having a season highlighted by 15 home runs, ..254 batting average, and  WAR.",
+        "summary": "Brooks Lee is having a season highlighted by 15 home runs, ..251 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "362",
+          "AB": "367",
           "H": "92",
           "HR": "15",
-          "BA": "..254",
+          "BA": "..251",
           "R": "46",
           "RBI": "56",
-          "SB": "6",
-          "OBP": "..310",
-          "SLG": "..436",
-          "OPS": "..746",
+          "SB": "7",
+          "OBP": "..307",
+          "SLG": "..431",
+          "OPS": "..738",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Brooks Lee has produced  career WAR with 34 home runs, 245 hits, and a ..240 batting average.",
+        "summary": "Brooks Lee has produced  career WAR with 34 home runs, 245 hits, and a ..239 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "245",
           "HR": "34",
-          "BA": "..240",
+          "BA": "..239",
           "R": "105",
           "RBI": "147",
-          "SB": "12",
-          "OBP": "..290",
-          "SLG": "..385",
-          "OPS": "..675",
+          "SB": "13",
+          "OBP": "..289",
+          "SLG": "..383",
+          "OPS": "..672",
           "OPS+": ""
         }
       },
@@ -13253,24 +13144,24 @@
         "summary": "Byron Buxton is currently 8th in home runs this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "313",
-          "H": "86",
+          "AB": "317",
+          "H": "87",
           "HR": "25",
-          "BA": "..275",
+          "BA": "..274",
           "R": "57",
           "RBI": "45",
           "SB": "7",
-          "OBP": "..330",
-          "SLG": "..572",
-          "OPS": "..902",
+          "OBP": "..331",
+          "SLG": "..568",
+          "OPS": "..899",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Byron Buxton has produced  career WAR with 193 home runs, 854 hits, and a ..250 batting average.",
+        "summary": "Byron Buxton has produced  career WAR with 193 home runs, 855 hits, and a ..250 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "854",
+          "H": "855",
           "HR": "193",
           "BA": "..250",
           "R": "580",
@@ -13419,26 +13310,26 @@
         "summary": "Josh Bell is currently 16th in RBI this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "367",
+          "AB": "372",
           "H": "92",
           "HR": "13",
-          "BA": "..251",
+          "BA": "..247",
           "R": "50",
           "RBI": "62",
           "SB": "1",
-          "OBP": "..308",
-          "SLG": "..425",
-          "OPS": "..733",
+          "OBP": "..304",
+          "SLG": "..419",
+          "OPS": "..723",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Josh Bell has produced  career WAR with 206 home runs, 1245 hits, and a ..256 batting average.",
+        "summary": "Josh Bell has produced  career WAR with 206 home runs, 1245 hits, and a ..255 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "1245",
           "HR": "206",
-          "BA": "..256",
+          "BA": "..255",
           "R": "654",
           "RBI": "738",
           "SB": "5",
@@ -13449,6 +13340,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2025,
           "label": "2025",
@@ -13523,35 +13419,35 @@
       "team": "MIN",
       "current_season": {
         "season": 2026,
-        "summary": "Kody Clemens is having a season highlighted by 18 home runs, ..240 batting average, and  WAR.",
+        "summary": "Kody Clemens is having a season highlighted by 18 home runs, ..239 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "325",
-          "H": "78",
+          "AB": "330",
+          "H": "79",
           "HR": "18",
-          "BA": "..240",
+          "BA": "..239",
           "R": "47",
           "RBI": "48",
-          "SB": "6",
-          "OBP": "..297",
-          "SLG": "..483",
-          "OPS": "..780",
+          "SB": "7",
+          "OBP": "..295",
+          "SLG": "..479",
+          "OPS": "..774",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Kody Clemens has produced  career WAR with 51 home runs, 226 hits, and a ..217 batting average.",
+        "summary": "Kody Clemens has produced  career WAR with 51 home runs, 227 hits, and a ..217 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "226",
+          "H": "227",
           "HR": "51",
           "BA": "..217",
           "R": "138",
           "RBI": "148",
-          "SB": "12",
-          "OBP": "..274",
-          "SLG": "..428",
-          "OPS": "..702",
+          "SB": "13",
+          "OBP": "..273",
+          "SLG": "..427",
+          "OPS": "..700",
           "OPS+": ""
         }
       },
@@ -13628,32 +13524,32 @@
         "summary": "Luke Keaschall is having a season highlighted by 4 home runs, ..261 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "322",
-          "H": "84",
+          "AB": "326",
+          "H": "85",
           "HR": "4",
           "BA": "..261",
           "R": "51",
-          "RBI": "28",
+          "RBI": "29",
           "SB": "12",
-          "OBP": "..352",
-          "SLG": "..348",
+          "OBP": "..353",
+          "SLG": "..347",
           "OPS": "..700",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Luke Keaschall has produced  career WAR with 8 home runs, 139 hits, and a ..276 batting average.",
+        "summary": "Luke Keaschall has produced  career WAR with 8 home runs, 140 hits, and a ..276 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "139",
+          "H": "140",
           "HR": "8",
           "BA": "..276",
           "R": "76",
-          "RBI": "56",
+          "RBI": "57",
           "SB": "26",
           "OBP": "..363",
-          "SLG": "..383",
-          "OPS": "..746",
+          "SLG": "..382",
+          "OPS": "..745",
           "OPS+": ""
         }
       },
@@ -13696,35 +13592,35 @@
       "team": "MIN",
       "current_season": {
         "season": 2026,
-        "summary": "Royce Lewis is having a season highlighted by 10 home runs, ..215 batting average, and  WAR.",
+        "summary": "Royce Lewis is having a season highlighted by 10 home runs, ..213 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "246",
+          "AB": "249",
           "H": "53",
           "HR": "10",
-          "BA": "..215",
-          "R": "31",
+          "BA": "..213",
+          "R": "33",
           "RBI": "30",
-          "SB": "6",
-          "OBP": "..292",
-          "SLG": "..386",
-          "OPS": "..678",
+          "SB": "7",
+          "OBP": "..294",
+          "SLG": "..382",
+          "OPS": "..676",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Royce Lewis has produced  career WAR with 56 home runs, 289 hits, and a ..247 batting average.",
+        "summary": "Royce Lewis has produced  career WAR with 56 home runs, 289 hits, and a ..246 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "289",
           "HR": "56",
-          "BA": "..247",
-          "R": "148",
+          "BA": "..246",
+          "R": "150",
           "RBI": "186",
-          "SB": "24",
+          "SB": "25",
           "OBP": "..306",
-          "SLG": "..439",
-          "OPS": "..745",
+          "SLG": "..438",
+          "OPS": "..744",
           "OPS+": ""
         }
       },
@@ -13788,35 +13684,35 @@
       "team": "MIN",
       "current_season": {
         "season": 2026,
-        "summary": "Ryan Jeffers is currently 12th in OPS this season.",
+        "summary": "Ryan Jeffers is currently 16th in OPS this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "143",
-          "H": "41",
+          "AB": "148",
+          "H": "42",
           "HR": "9",
-          "BA": "..287",
-          "R": "28",
+          "BA": "..284",
+          "R": "29",
           "RBI": "32",
           "SB": "1",
-          "OBP": "..398",
-          "SLG": "..552",
-          "OPS": "..950",
+          "OBP": "..392",
+          "SLG": "..541",
+          "OPS": "..933",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Ryan Jeffers has produced  career WAR with 77 home runs, 433 hits, and a ..243 batting average.",
+        "summary": "Ryan Jeffers has produced  career WAR with 77 home runs, 434 hits, and a ..243 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "433",
+          "H": "434",
           "HR": "77",
           "BA": "..243",
-          "R": "235",
+          "R": "236",
           "RBI": "255",
           "SB": "8",
-          "OBP": "..328",
-          "SLG": "..430",
-          "OPS": "..758",
+          "OBP": "..327",
+          "SLG": "..429",
+          "OPS": "..756",
           "OPS+": ""
         }
       },
@@ -13875,35 +13771,35 @@
       "team": "MIN",
       "current_season": {
         "season": 2026,
-        "summary": "Ryan Kreidler is having a season highlighted by 5 home runs, ..236 batting average, and  WAR.",
+        "summary": "Ryan Kreidler is having a season highlighted by 5 home runs, ..233 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "148",
+          "AB": "150",
           "H": "35",
           "HR": "5",
-          "BA": "..236",
+          "BA": "..233",
           "R": "21",
           "RBI": "24",
           "SB": "0",
-          "OBP": "..298",
-          "SLG": "..392",
-          "OPS": "..690",
+          "OBP": "..294",
+          "SLG": "..387",
+          "OPS": "..681",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Ryan Kreidler has produced  career WAR with 7 home runs, 61 hits, and a ..182 batting average.",
+        "summary": "Ryan Kreidler has produced  career WAR with 7 home runs, 61 hits, and a ..180 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "61",
           "HR": "7",
-          "BA": "..182",
+          "BA": "..180",
           "R": "45",
           "RBI": "32",
           "SB": "7",
-          "OBP": "..247",
-          "SLG": "..271",
-          "OPS": "..518",
+          "OBP": "..246",
+          "SLG": "..269",
+          "OPS": "..515",
           "OPS+": ""
         }
       },
@@ -14090,28 +13986,28 @@
         "summary": "Trevor Larnach is having a season highlighted by 8 home runs, ..294 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "269",
-          "H": "79",
+          "AB": "272",
+          "H": "80",
           "HR": "8",
           "BA": "..294",
           "R": "47",
-          "RBI": "37",
+          "RBI": "38",
           "SB": "2",
           "OBP": "..383",
-          "SLG": "..461",
-          "OPS": "..844",
+          "SLG": "..460",
+          "OPS": "..843",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Trevor Larnach has produced  career WAR with 60 home runs, 431 hits, and a ..249 batting average.",
+        "summary": "Trevor Larnach has produced  career WAR with 60 home runs, 432 hits, and a ..249 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "431",
+          "H": "432",
           "HR": "60",
           "BA": "..249",
           "R": "245",
-          "RBI": "235",
+          "RBI": "236",
           "SB": "12",
           "OBP": "..332",
           "SLG": "..412",
@@ -14468,7 +14364,7 @@
       "team": "PHI",
       "current_season": {
         "season": 2026,
-        "summary": "Brandon Marsh is currently 20th in hits this season.",
+        "summary": "Brandon Marsh is having a season highlighted by 16 home runs, ..292 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
           "AB": "360",
@@ -15435,7 +15331,7 @@
       "team": "PHI",
       "current_season": {
         "season": 2026,
-        "summary": "Kyle Schwarber is currently 2nd in home runs, 19th in OPS, and 19th in RBI this season.",
+        "summary": "Kyle Schwarber is currently 2nd in home runs, 20th in OPS, and 19th in RBI this season.",
         "stat_card": {
           "WAR": "",
           "AB": "371",
@@ -15901,24 +15797,24 @@
         "summary": "Austin Riley is having a season highlighted by 12 home runs, ..216 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "366",
-          "H": "79",
+          "AB": "370",
+          "H": "80",
           "HR": "12",
           "BA": "..216",
           "R": "43",
           "RBI": "48",
           "SB": "6",
           "OBP": "..295",
-          "SLG": "..355",
-          "OPS": "..650",
+          "SLG": "..354",
+          "OPS": "..649",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Austin Riley has produced  career WAR with 181 home runs, 929 hits, and a ..265 batting average.",
+        "summary": "Austin Riley has produced  career WAR with 181 home runs, 930 hits, and a ..265 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "929",
+          "H": "930",
           "HR": "181",
           "BA": "..265",
           "R": "523",
@@ -15995,7 +15891,7 @@
       "team": "ATL",
       "current_season": {
         "season": 2026,
-        "summary": "Brewer Hicklen is currently 3rd in batting average and 7th in OPS this season.",
+        "summary": "Brewer Hicklen is currently 3rd in batting average and 8th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "18",
@@ -16234,35 +16130,35 @@
       "team": "ATL",
       "current_season": {
         "season": 2026,
-        "summary": "Dominic Smith is having a season highlighted by 6 home runs, ..263 batting average, and  WAR.",
+        "summary": "Dominic Smith is having a season highlighted by 7 home runs, ..264 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "217",
-          "H": "57",
-          "HR": "6",
-          "BA": "..263",
-          "R": "34",
-          "RBI": "36",
+          "AB": "220",
+          "H": "58",
+          "HR": "7",
+          "BA": "..264",
+          "R": "35",
+          "RBI": "39",
           "SB": "0",
           "OBP": "..318",
-          "SLG": "..382",
-          "OPS": "..700",
+          "SLG": "..395",
+          "OPS": "..713",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Dominic Smith has produced  career WAR with 75 home runs, 619 hits, and a ..251 batting average.",
+        "summary": "Dominic Smith has produced  career WAR with 76 home runs, 620 hits, and a ..251 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "619",
-          "HR": "75",
+          "H": "620",
+          "HR": "76",
           "BA": "..251",
-          "R": "297",
-          "RBI": "328",
+          "R": "298",
+          "RBI": "331",
           "SB": "7",
           "OBP": "..315",
-          "SLG": "..403",
-          "OPS": "..718",
+          "SLG": "..404",
+          "OPS": "..719",
           "OPS+": ""
         }
       },
@@ -16326,35 +16222,35 @@
       "team": "ATL",
       "current_season": {
         "season": 2026,
-        "summary": "Drake Baldwin is having a season highlighted by 18 home runs, ..275 batting average, and  WAR.",
+        "summary": "Drake Baldwin is having a season highlighted by 19 home runs, ..275 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "302",
-          "H": "83",
-          "HR": "18",
+          "AB": "306",
+          "H": "84",
+          "HR": "19",
           "BA": "..275",
-          "R": "56",
-          "RBI": "54",
+          "R": "57",
+          "RBI": "55",
           "SB": "2",
-          "OBP": "..368",
-          "SLG": "..474",
-          "OPS": "..842",
+          "OBP": "..366",
+          "SLG": "..480",
+          "OPS": "..846",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Drake Baldwin has produced  career WAR with 37 home runs, 194 hits, and a ..274 batting average.",
+        "summary": "Drake Baldwin has produced  career WAR with 38 home runs, 195 hits, and a ..274 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "194",
-          "HR": "37",
+          "H": "195",
+          "HR": "38",
           "BA": "..274",
-          "R": "112",
-          "RBI": "134",
+          "R": "113",
+          "RBI": "135",
           "SB": "2",
-          "OBP": "..353",
-          "SLG": "..471",
-          "OPS": "..824",
+          "OBP": "..352",
+          "SLG": "..474",
+          "OPS": "..826",
           "OPS+": ""
         }
       },
@@ -16574,35 +16470,35 @@
       "team": "ATL",
       "current_season": {
         "season": 2026,
-        "summary": "Jim Jarvis is currently 17th in batting average this season.",
+        "summary": "Jim Jarvis is having a season highlighted by 1 home runs, ..291 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "52",
+          "AB": "55",
           "H": "16",
           "HR": "1",
-          "BA": "..308",
+          "BA": "..291",
           "R": "7",
           "RBI": "7",
           "SB": "0",
-          "OBP": "..345",
-          "SLG": "..481",
-          "OPS": "..826",
+          "OBP": "..328",
+          "SLG": "..455",
+          "OPS": "..783",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Jim Jarvis has produced  career WAR with 1 home runs, 16 hits, and a ..308 batting average.",
+        "summary": "Jim Jarvis has produced  career WAR with 1 home runs, 16 hits, and a ..291 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "16",
           "HR": "1",
-          "BA": "..308",
+          "BA": "..291",
           "R": "7",
           "RBI": "7",
           "SB": "0",
-          "OBP": "..345",
-          "SLG": "..481",
-          "OPS": "..826",
+          "OBP": "..328",
+          "SLG": "..455",
+          "OPS": "..783",
           "OPS+": ""
         }
       },
@@ -16837,16 +16733,16 @@
         "summary": "Matt Olson is currently 7th in home runs, 17th in hits, and 6th in runs this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "393",
+          "AB": "397",
           "H": "106",
           "HR": "26",
-          "BA": "..270",
+          "BA": "..267",
           "R": "68",
           "RBI": "60",
           "SB": "2",
-          "OBP": "..347",
-          "SLG": "..532",
-          "OPS": "..879",
+          "OBP": "..344",
+          "SLG": "..526",
+          "OPS": "..870",
           "OPS+": ""
         }
       },
@@ -16860,9 +16756,9 @@
           "R": "780",
           "RBI": "868",
           "SB": "11",
-          "OBP": "..351",
-          "SLG": "..510",
-          "OPS": "..861",
+          "OBP": "..350",
+          "SLG": "..509",
+          "OPS": "..859",
           "OPS+": ""
         }
       },
@@ -16931,30 +16827,30 @@
       "team": "ATL",
       "current_season": {
         "season": 2026,
-        "summary": "Mauricio Dubón is having a season highlighted by 10 home runs, ..264 batting average, and  WAR.",
+        "summary": "Mauricio Dubón is having a season highlighted by 10 home runs, ..265 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "367",
-          "H": "97",
+          "AB": "370",
+          "H": "98",
           "HR": "10",
-          "BA": "..264",
-          "R": "47",
+          "BA": "..265",
+          "R": "48",
           "RBI": "53",
           "SB": "3",
-          "OBP": "..316",
+          "OBP": "..317",
           "SLG": "..414",
-          "OPS": "..730",
+          "OPS": "..731",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Mauricio Dubón has produced  career WAR with 49 home runs, 590 hits, and a ..258 batting average.",
+        "summary": "Mauricio Dubón has produced  career WAR with 49 home runs, 591 hits, and a ..258 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "590",
+          "H": "591",
           "HR": "49",
           "BA": "..258",
-          "R": "295",
+          "R": "296",
           "RBI": "253",
           "SB": "25",
           "OBP": "..298",
@@ -16993,35 +16889,35 @@
       "team": "ATL",
       "current_season": {
         "season": 2026,
-        "summary": "Michael Harris II is currently 12th in hits this season.",
+        "summary": "Michael Harris II is currently 11th in hits and 19th in RBI this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "361",
-          "H": "107",
-          "HR": "18",
-          "BA": "..296",
-          "R": "49",
-          "RBI": "60",
+          "AB": "365",
+          "H": "109",
+          "HR": "19",
+          "BA": "..299",
+          "R": "51",
+          "RBI": "61",
           "SB": "6",
-          "OBP": "..325",
-          "SLG": "..499",
-          "OPS": "..824",
+          "OBP": "..327",
+          "SLG": "..507",
+          "OPS": "..834",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Michael Harris II has produced  career WAR with 91 home runs, 646 hits, and a ..277 batting average.",
+        "summary": "Michael Harris II has produced  career WAR with 92 home runs, 648 hits, and a ..278 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "646",
-          "HR": "91",
-          "BA": "..277",
-          "R": "313",
-          "RBI": "315",
+          "H": "648",
+          "HR": "92",
+          "BA": "..278",
+          "R": "315",
+          "RBI": "316",
           "SB": "76",
-          "OBP": "..310",
-          "SLG": "..458",
-          "OPS": "..768",
+          "OBP": "..311",
+          "SLG": "..460",
+          "OPS": "..771",
           "OPS+": ""
         }
       },
@@ -17055,13 +16951,13 @@
       "team": "ATL",
       "current_season": {
         "season": 2026,
-        "summary": "Mike Yastrzemski is having a season highlighted by 6 home runs, ..226 batting average, and  WAR.",
+        "summary": "Mike Yastrzemski is having a season highlighted by 6 home runs, ..227 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "235",
-          "H": "53",
+          "AB": "238",
+          "H": "54",
           "HR": "6",
-          "BA": "..226",
+          "BA": "..227",
           "R": "34",
           "RBI": "28",
           "SB": "1",
@@ -17072,10 +16968,10 @@
         }
       },
       "career": {
-        "summary": "Mike Yastrzemski has produced  career WAR with 129 home runs, 707 hits, and a ..237 batting average.",
+        "summary": "Mike Yastrzemski has produced  career WAR with 129 home runs, 708 hits, and a ..237 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "707",
+          "H": "708",
           "HR": "129",
           "BA": "..237",
           "R": "467",
@@ -17137,35 +17033,35 @@
       "team": "ATL",
       "current_season": {
         "season": 2026,
-        "summary": "Ozzie Albies is currently 13th in runs this season.",
+        "summary": "Ozzie Albies is currently 12th in runs this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "393",
-          "H": "103",
-          "HR": "15",
-          "BA": "..262",
-          "R": "64",
-          "RBI": "55",
+          "AB": "397",
+          "H": "105",
+          "HR": "16",
+          "BA": "..264",
+          "R": "65",
+          "RBI": "56",
           "SB": "1",
-          "OBP": "..314",
-          "SLG": "..430",
-          "OPS": "..744",
+          "OBP": "..316",
+          "SLG": "..438",
+          "OPS": "..754",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Ozzie Albies has produced  career WAR with 172 home runs, 1189 hits, and a ..265 batting average.",
+        "summary": "Ozzie Albies has produced  career WAR with 173 home runs, 1191 hits, and a ..266 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "1189",
-          "HR": "172",
-          "BA": "..265",
-          "R": "687",
-          "RBI": "637",
+          "H": "1191",
+          "HR": "173",
+          "BA": "..266",
+          "R": "688",
+          "RBI": "638",
           "SB": "99",
           "OBP": "..319",
-          "SLG": "..452",
-          "OPS": "..771",
+          "SLG": "..453",
+          "OPS": "..772",
           "OPS+": ""
         }
       },
@@ -18530,8 +18426,8 @@
       "checklist_years": [
         {
           "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
+          "label": "2026 (RC)",
+          "is_rc_year": true
         },
         {
           "year": 2025,
@@ -18554,7 +18450,7 @@
           "is_rc_year": false
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "545341",
@@ -19532,6 +19428,36 @@
       "rc_year": null
     },
     {
+      "player_id": "667463",
+      "player_name": "John King",
+      "team": "MIA",
+      "current_season": null,
+      "career": {
+        "summary": "John King has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "669065",
       "player_name": "Kyle Stowers",
       "team": "MIA",
@@ -20012,7 +19938,7 @@
       "team": "MIA",
       "current_season": {
         "season": 2026,
-        "summary": "Xavier Edwards is currently 10th in hits this season.",
+        "summary": "Xavier Edwards is currently 11th in hits this season.",
         "stat_card": {
           "WAR": "",
           "AB": "376",
@@ -20082,21 +20008,6 @@
         }
       ],
       "rc_year": 2023
-    },
-    {
-      "player_id": "694350",
-      "player_name": "Zach Brzykcy",
-      "team": "MIA",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025 (RC)",
-          "is_rc_year": true
-        }
-      ],
-      "rc_year": 2025
     },
     {
       "player_id": "645305",
@@ -20441,7 +20352,7 @@
       "team": "NYY",
       "current_season": {
         "season": 2026,
-        "summary": "Ben Rice is currently 4th in home runs, 10th in OPS, and 5th in RBI this season.",
+        "summary": "Ben Rice is currently 4th in home runs, 11th in OPS, and 5th in RBI this season.",
         "stat_card": {
           "WAR": "",
           "AB": "361",
@@ -21845,7 +21756,7 @@
       "team": "MIL",
       "current_season": {
         "season": 2026,
-        "summary": "Andrew Vaughn is currently 19th in batting average this season.",
+        "summary": "Andrew Vaughn is currently 18th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "163",
@@ -24579,35 +24490,35 @@
       "team": "AZ",
       "current_season": {
         "season": 2026,
-        "summary": "Adrian Del Castillo is having a season highlighted by 5 home runs, ..195 batting average, and  WAR.",
+        "summary": "Adrian Del Castillo is having a season highlighted by 5 home runs, ..208 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "154",
-          "H": "30",
+          "AB": "159",
+          "H": "33",
           "HR": "5",
-          "BA": "..195",
-          "R": "14",
-          "RBI": "23",
-          "SB": "0",
-          "OBP": "..256",
-          "SLG": "..325",
-          "OPS": "..581",
+          "BA": "..208",
+          "R": "17",
+          "RBI": "24",
+          "SB": "1",
+          "OBP": "..266",
+          "SLG": "..340",
+          "OPS": "..606",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Adrian Del Castillo has produced  career WAR with 13 home runs, 84 hits, and a ..237 batting average.",
+        "summary": "Adrian Del Castillo has produced  career WAR with 13 home runs, 87 hits, and a ..242 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "84",
+          "H": "87",
           "HR": "13",
-          "BA": "..237",
-          "R": "35",
-          "RBI": "59",
-          "SB": "1",
-          "OBP": "..293",
-          "SLG": "..393",
-          "OPS": "..686",
+          "BA": "..242",
+          "R": "38",
+          "RBI": "60",
+          "SB": "2",
+          "OBP": "..297",
+          "SLG": "..398",
+          "OPS": "..695",
           "OPS+": ""
         }
       },
@@ -24711,31 +24622,31 @@
       "team": "AZ",
       "current_season": {
         "season": 2026,
-        "summary": "Corbin Carroll is having a season highlighted by 15 home runs, ..252 batting average, and  WAR.",
+        "summary": "Corbin Carroll is having a season highlighted by 15 home runs, ..251 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "365",
-          "H": "92",
+          "AB": "370",
+          "H": "93",
           "HR": "15",
-          "BA": "..252",
-          "R": "58",
-          "RBI": "48",
+          "BA": "..251",
+          "R": "59",
+          "RBI": "49",
           "SB": "11",
-          "OBP": "..344",
-          "SLG": "..490",
-          "OPS": "..834",
+          "OBP": "..341",
+          "SLG": "..492",
+          "OPS": "..833",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Corbin Carroll has produced  career WAR with 97 home runs, 562 hits, and a ..257 batting average.",
+        "summary": "Corbin Carroll has produced  career WAR with 97 home runs, 563 hits, and a ..257 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "562",
+          "H": "563",
           "HR": "97",
           "BA": "..257",
-          "R": "415",
-          "RBI": "296",
+          "R": "416",
+          "RBI": "297",
           "SB": "134",
           "OBP": "..341",
           "SLG": "..491",
@@ -24878,35 +24789,35 @@
       "team": "AZ",
       "current_season": {
         "season": 2026,
-        "summary": "Gabriel Moreno is having a season highlighted by 7 home runs, ..302 batting average, and  WAR.",
+        "summary": "Gabriel Moreno is currently 17th in batting average this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "258",
-          "H": "78",
+          "AB": "262",
+          "H": "81",
           "HR": "7",
-          "BA": "..302",
-          "R": "41",
-          "RBI": "34",
+          "BA": "..309",
+          "R": "42",
+          "RBI": "36",
           "SB": "4",
-          "OBP": "..391",
-          "SLG": "..442",
-          "OPS": "..833",
+          "OBP": "..394",
+          "SLG": "..450",
+          "OPS": "..844",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Gabriel Moreno has produced  career WAR with 29 home runs, 357 hits, and a ..286 batting average.",
+        "summary": "Gabriel Moreno has produced  career WAR with 29 home runs, 360 hits, and a ..287 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "357",
+          "H": "360",
           "HR": "29",
-          "BA": "..286",
-          "R": "167",
-          "RBI": "176",
+          "BA": "..287",
+          "R": "168",
+          "RBI": "178",
           "SB": "15",
           "OBP": "..358",
-          "SLG": "..412",
-          "OPS": "..770",
+          "SLG": "..414",
+          "OPS": "..772",
           "OPS+": ""
         }
       },
@@ -24963,16 +24874,16 @@
         "summary": "Geraldo Perdomo is currently 18th in stolen bases this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "346",
+          "AB": "348",
           "H": "82",
           "HR": "7",
-          "BA": "..237",
+          "BA": "..236",
           "R": "48",
           "RBI": "36",
           "SB": "16",
-          "OBP": "..352",
-          "SLG": "..355",
-          "OPS": "..707",
+          "OBP": "..355",
+          "SLG": "..353",
+          "OPS": "..708",
           "OPS+": ""
         }
       },
@@ -25051,35 +24962,35 @@
       "team": "AZ",
       "current_season": {
         "season": 2026,
-        "summary": "Ildemaro Vargas is having a season highlighted by 7 home runs, ..264 batting average, and  WAR.",
+        "summary": "Ildemaro Vargas is having a season highlighted by 7 home runs, ..270 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "295",
-          "H": "78",
+          "AB": "300",
+          "H": "81",
           "HR": "7",
-          "BA": "..264",
-          "R": "44",
+          "BA": "..270",
+          "R": "45",
           "RBI": "49",
           "SB": "2",
-          "OBP": "..310",
-          "SLG": "..403",
-          "OPS": "..713",
+          "OBP": "..315",
+          "SLG": "..407",
+          "OPS": "..722",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Ildemaro Vargas has produced  career WAR with 27 home runs, 381 hits, and a ..252 batting average.",
+        "summary": "Ildemaro Vargas has produced  career WAR with 27 home runs, 384 hits, and a ..253 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "381",
+          "H": "384",
           "HR": "27",
-          "BA": "..252",
-          "R": "172",
+          "BA": "..253",
+          "R": "173",
           "RBI": "194",
           "SB": "18",
-          "OBP": "..293",
-          "SLG": "..366",
-          "OPS": "..659",
+          "OBP": "..294",
+          "SLG": "..367",
+          "OPS": "..661",
           "OPS+": ""
         }
       },
@@ -25480,19 +25391,19 @@
       "team": "AZ",
       "current_season": {
         "season": 2026,
-        "summary": "Max Kepler is having a season highlighted by 2 home runs, ..235 batting average, and  WAR.",
+        "summary": "Max Kepler is having a season highlighted by 2 home runs, ..218 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "51",
+          "AB": "55",
           "H": "12",
           "HR": "2",
-          "BA": "..235",
-          "R": "5",
+          "BA": "..218",
+          "R": "6",
           "RBI": "12",
           "SB": "0",
-          "OBP": "..281",
-          "SLG": "..412",
-          "OPS": "..693",
+          "OBP": "..274",
+          "SLG": "..382",
+          "OPS": "..656",
           "OPS+": ""
         }
       },
@@ -25503,7 +25414,7 @@
           "H": "995",
           "HR": "181",
           "BA": "..235",
-          "R": "617",
+          "R": "618",
           "RBI": "572",
           "SB": "38",
           "OBP": "..315",
@@ -25652,31 +25563,31 @@
       "team": "AZ",
       "current_season": {
         "season": 2026,
-        "summary": "Nolan Arenado is having a season highlighted by 14 home runs, ..245 batting average, and  WAR.",
+        "summary": "Nolan Arenado is having a season highlighted by 14 home runs, ..250 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "330",
-          "H": "81",
+          "AB": "332",
+          "H": "83",
           "HR": "14",
-          "BA": "..245",
+          "BA": "..250",
           "R": "49",
-          "RBI": "46",
+          "RBI": "48",
           "SB": "3",
-          "OBP": "..323",
-          "SLG": "..430",
-          "OPS": "..753",
+          "OBP": "..326",
+          "SLG": "..434",
+          "OPS": "..760",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Nolan Arenado has produced  career WAR with 367 home runs, 2002 hits, and a ..281 batting average.",
+        "summary": "Nolan Arenado has produced  career WAR with 367 home runs, 2004 hits, and a ..281 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "2002",
+          "H": "2004",
           "HR": "367",
           "BA": "..281",
           "R": "1041",
-          "RBI": "1230",
+          "RBI": "1232",
           "SB": "34",
           "OBP": "..338",
           "SLG": "..504",
@@ -25829,35 +25740,35 @@
       "team": "AZ",
       "current_season": {
         "season": 2026,
-        "summary": "Ryan Waldschmidt is having a season highlighted by 1 home runs, ..260 batting average, and  WAR.",
+        "summary": "Ryan Waldschmidt is having a season highlighted by 1 home runs, ..254 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "131",
+          "AB": "134",
           "H": "34",
           "HR": "1",
-          "BA": "..260",
+          "BA": "..254",
           "R": "14",
           "RBI": "12",
           "SB": "6",
-          "OBP": "..308",
-          "SLG": "..374",
-          "OPS": "..682",
+          "OBP": "..301",
+          "SLG": "..366",
+          "OPS": "..667",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Ryan Waldschmidt has produced  career WAR with 1 home runs, 34 hits, and a ..260 batting average.",
+        "summary": "Ryan Waldschmidt has produced  career WAR with 1 home runs, 34 hits, and a ..254 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "34",
           "HR": "1",
-          "BA": "..260",
+          "BA": "..254",
           "R": "14",
           "RBI": "12",
           "SB": "6",
-          "OBP": "..308",
-          "SLG": "..374",
-          "OPS": "..682",
+          "OBP": "..301",
+          "SLG": "..366",
+          "OPS": "..667",
           "OPS+": ""
         }
       },
@@ -25941,35 +25852,35 @@
       "team": "AZ",
       "current_season": {
         "season": 2026,
-        "summary": "Tim Tawa is having a season highlighted by 4 home runs, ..217 batting average, and  WAR.",
+        "summary": "Tim Tawa is having a season highlighted by 4 home runs, ..220 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "106",
-          "H": "23",
+          "AB": "109",
+          "H": "24",
           "HR": "4",
-          "BA": "..217",
-          "R": "11",
-          "RBI": "18",
+          "BA": "..220",
+          "R": "12",
+          "RBI": "19",
           "SB": "2",
-          "OBP": "..282",
-          "SLG": "..396",
-          "OPS": "..678",
+          "OBP": "..287",
+          "SLG": "..394",
+          "OPS": "..681",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Tim Tawa has produced  career WAR with 11 home runs, 63 hits, and a ..207 batting average.",
+        "summary": "Tim Tawa has produced  career WAR with 11 home runs, 64 hits, and a ..208 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "63",
+          "H": "64",
           "HR": "11",
-          "BA": "..207",
-          "R": "40",
-          "RBI": "36",
+          "BA": "..208",
+          "R": "41",
+          "RBI": "37",
           "SB": "10",
-          "OBP": "..276",
+          "OBP": "..278",
           "SLG": "..364",
-          "OPS": "..640",
+          "OPS": "..642",
           "OPS+": ""
         }
       },
@@ -25993,35 +25904,35 @@
       "team": "AZ",
       "current_season": {
         "season": 2026,
-        "summary": "Tyler Locklear is having a season highlighted by 0 home runs, ..250 batting average, and  WAR.",
+        "summary": "Tyler Locklear is currently 4th in batting average and 4th in OPS this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "8",
-          "H": "2",
-          "HR": "0",
-          "BA": "..250",
-          "R": "1",
-          "RBI": "2",
+          "AB": "13",
+          "H": "5",
+          "HR": "1",
+          "BA": "..385",
+          "R": "3",
+          "RBI": "5",
           "SB": "0",
-          "OBP": "..400",
-          "SLG": "..250",
-          "OPS": "..650",
+          "OBP": "..467",
+          "SLG": "..692",
+          "OPS": "1.159",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Tyler Locklear has produced  career WAR with 5 home runs, 27 hits, and a ..173 batting average.",
+        "summary": "Tyler Locklear has produced  career WAR with 6 home runs, 30 hits, and a ..186 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "27",
-          "HR": "5",
-          "BA": "..173",
-          "R": "15",
-          "RBI": "11",
+          "H": "30",
+          "HR": "6",
+          "BA": "..186",
+          "R": "17",
+          "RBI": "14",
           "SB": "4",
-          "OBP": "..263",
-          "SLG": "..276",
-          "OPS": "..539",
+          "OBP": "..272",
+          "SLG": "..311",
+          "OPS": "..583",
           "OPS+": ""
         }
       },
@@ -26180,7 +26091,7 @@
       "team": "BAL",
       "current_season": {
         "season": 2026,
-        "summary": "Christian Encarnacion-Strand is currently 4th in batting average and 4th in OPS this season.",
+        "summary": "Christian Encarnacion-Strand is currently 5th in batting average and 5th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "16",
@@ -26754,58 +26665,6 @@
       "rc_year": 2026
     },
     {
-      "player_id": "671286",
-      "player_name": "Johnathan Rodríguez",
-      "team": "BAL",
-      "current_season": {
-        "season": 2026,
-        "summary": "Johnathan Rodríguez is having a season highlighted by 0 home runs, ..182 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "11",
-          "H": "2",
-          "HR": "0",
-          "BA": "..182",
-          "R": "0",
-          "RBI": "2",
-          "SB": "0",
-          "OBP": "..333",
-          "SLG": "..273",
-          "OPS": "..606",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Johnathan Rodríguez has produced  career WAR with 2 home runs, 20 hits, and a ..177 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "20",
-          "HR": "2",
-          "BA": "..177",
-          "R": "12",
-          "RBI": "17",
-          "SB": "1",
-          "OBP": "..288",
-          "SLG": "..301",
-          "OPS": "..589",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2024,
-          "label": "2024 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2024
-    },
-    {
       "player_id": "680694",
       "player_name": "Kyle Bradish",
       "team": "BAL",
@@ -26975,7 +26834,7 @@
       "team": "BAL",
       "current_season": {
         "season": 2026,
-        "summary": "Pete Alonso is currently 18th in home runs, 10th in RBI, and 16th in runs this season.",
+        "summary": "Pete Alonso is currently 18th in home runs, 10th in RBI, and 17th in runs this season.",
         "stat_card": {
           "WAR": "",
           "AB": "384",
@@ -29292,7 +29151,7 @@
       "team": "CHC",
       "current_season": {
         "season": 2026,
-        "summary": "Dansby Swanson is currently 16th in runs this season.",
+        "summary": "Dansby Swanson is currently 17th in runs this season.",
         "stat_card": {
           "WAR": "",
           "AB": "334",
@@ -29469,7 +29328,7 @@
       "team": "CHC",
       "current_season": {
         "season": 2026,
-        "summary": "Ian Happ is currently 16th in runs this season.",
+        "summary": "Ian Happ is currently 17th in runs this season.",
         "stat_card": {
           "WAR": "",
           "AB": "360",
@@ -29700,7 +29559,7 @@
       "team": "CHC",
       "current_season": {
         "season": 2026,
-        "summary": "Justin Dean is currently 7th in batting average and 3rd in OPS this season.",
+        "summary": "Justin Dean is currently 8th in batting average and 3rd in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "6",
@@ -29745,68 +29604,6 @@
         }
       ],
       "rc_year": 2026
-    },
-    {
-      "player_id": "682634",
-      "player_name": "Kevin Alcántara",
-      "team": "CHC",
-      "current_season": {
-        "season": 2026,
-        "summary": "Kevin Alcántara is having a season highlighted by 0 home runs, ..200 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "20",
-          "H": "4",
-          "HR": "0",
-          "BA": "..200",
-          "R": "3",
-          "RBI": "3",
-          "SB": "0",
-          "OBP": "..238",
-          "SLG": "..200",
-          "OPS": "..438",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Kevin Alcántara has produced  career WAR with 0 home runs, 9 hits, and a ..220 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "9",
-          "HR": "0",
-          "BA": "..220",
-          "R": "6",
-          "RBI": "4",
-          "SB": "1",
-          "OBP": "..256",
-          "SLG": "..220",
-          "OPS": "..476",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2025
     },
     {
       "player_id": "571510",
@@ -30269,7 +30066,7 @@
       "team": "CHC",
       "current_season": {
         "season": 2026,
-        "summary": "Pete Crow-Armstrong is currently 18th in home runs, 12th in hits, and 4th in stolen bases this season.",
+        "summary": "Pete Crow-Armstrong is currently 18th in home runs, 14th in hits, and 4th in stolen bases this season.",
         "stat_card": {
           "WAR": "",
           "AB": "379",
@@ -32133,35 +31930,35 @@
       "team": "CLE",
       "current_season": {
         "season": 2026,
-        "summary": "Brayan Rocchio is having a season highlighted by 9 home runs, ..275 batting average, and  WAR.",
+        "summary": "Brayan Rocchio is having a season highlighted by 9 home runs, ..271 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "345",
+          "AB": "350",
           "H": "95",
           "HR": "9",
-          "BA": "..275",
+          "BA": "..271",
           "R": "43",
           "RBI": "48",
           "SB": "15",
-          "OBP": "..338",
-          "SLG": "..409",
-          "OPS": "..747",
+          "OBP": "..333",
+          "SLG": "..403",
+          "OPS": "..736",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Brayan Rocchio has produced  career WAR with 22 home runs, 274 hits, and a ..238 batting average.",
+        "summary": "Brayan Rocchio has produced  career WAR with 22 home runs, 274 hits, and a ..237 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "274",
           "HR": "22",
-          "BA": "..238",
+          "BA": "..237",
           "R": "136",
           "RBI": "136",
           "SB": "33",
-          "OBP": "..306",
-          "SLG": "..351",
-          "OPS": "..657",
+          "OBP": "..305",
+          "SLG": "..350",
+          "OPS": "..655",
           "OPS+": ""
         }
       },
@@ -32272,35 +32069,35 @@
       "team": "CLE",
       "current_season": {
         "season": 2026,
-        "summary": "Chase DeLauter is having a season highlighted by 11 home runs, ..287 batting average, and  WAR.",
+        "summary": "Chase DeLauter is having a season highlighted by 11 home runs, ..284 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "324",
+          "AB": "328",
           "H": "93",
           "HR": "11",
-          "BA": "..287",
+          "BA": "..284",
           "R": "34",
           "RBI": "50",
-          "SB": "4",
-          "OBP": "..351",
-          "SLG": "..454",
-          "OPS": "..805",
+          "SB": "5",
+          "OBP": "..349",
+          "SLG": "..448",
+          "OPS": "..797",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Chase DeLauter has produced  career WAR with 11 home runs, 93 hits, and a ..287 batting average.",
+        "summary": "Chase DeLauter has produced  career WAR with 11 home runs, 93 hits, and a ..284 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "93",
           "HR": "11",
-          "BA": "..287",
+          "BA": "..284",
           "R": "34",
           "RBI": "50",
-          "SB": "4",
-          "OBP": "..351",
-          "SLG": "..454",
-          "OPS": "..805",
+          "SB": "5",
+          "OBP": "..349",
+          "SLG": "..448",
+          "OPS": "..797",
           "OPS+": ""
         }
       },
@@ -32359,19 +32156,19 @@
       "team": "CLE",
       "current_season": {
         "season": 2026,
-        "summary": "Daniel Schneemann is having a season highlighted by 6 home runs, ..207 batting average, and  WAR.",
+        "summary": "Daniel Schneemann is having a season highlighted by 6 home runs, ..206 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "251",
+          "AB": "252",
           "H": "52",
           "HR": "6",
-          "BA": "..207",
+          "BA": "..206",
           "R": "28",
           "RBI": "28",
           "SB": "6",
-          "OBP": "..276",
-          "SLG": "..323",
-          "OPS": "..599",
+          "OBP": "..275",
+          "SLG": "..321",
+          "OPS": "..596",
           "OPS+": ""
         }
       },
@@ -32385,9 +32182,9 @@
           "R": "93",
           "RBI": "91",
           "SB": "18",
-          "OBP": "..286",
-          "SLG": "..348",
-          "OPS": "..634",
+          "OBP": "..285",
+          "SLG": "..347",
+          "OPS": "..632",
           "OPS+": ""
         }
       },
@@ -32498,19 +32295,19 @@
       "team": "CLE",
       "current_season": {
         "season": 2026,
-        "summary": "Gabriel Arias is having a season highlighted by 5 home runs, ..243 batting average, and  WAR.",
+        "summary": "Gabriel Arias is having a season highlighted by 5 home runs, ..240 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "103",
+          "AB": "104",
           "H": "25",
           "HR": "5",
-          "BA": "..243",
+          "BA": "..240",
           "R": "11",
           "RBI": "10",
           "SB": "4",
-          "OBP": "..284",
-          "SLG": "..408",
-          "OPS": "..692",
+          "OBP": "..282",
+          "SLG": "..404",
+          "OPS": "..686",
           "OPS+": ""
         }
       },
@@ -32688,16 +32485,16 @@
         "summary": "José Ramírez is currently 6th in stolen bases this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "273",
+          "AB": "276",
           "H": "66",
           "HR": "10",
-          "BA": "..242",
+          "BA": "..239",
           "R": "43",
           "RBI": "35",
           "SB": "24",
-          "OBP": "..340",
-          "SLG": "..418",
-          "OPS": "..758",
+          "OBP": "..341",
+          "SLG": "..413",
+          "OPS": "..754",
           "OPS+": ""
         }
       },
@@ -32752,35 +32549,35 @@
       "team": "CLE",
       "current_season": {
         "season": 2026,
-        "summary": "Kyle Manzardo is having a season highlighted by 11 home runs, ..216 batting average, and  WAR.",
+        "summary": "Kyle Manzardo is having a season highlighted by 11 home runs, ..213 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "287",
+          "AB": "291",
           "H": "62",
           "HR": "11",
-          "BA": "..216",
+          "BA": "..213",
           "R": "36",
           "RBI": "32",
           "SB": "0",
-          "OBP": "..306",
-          "SLG": "..369",
-          "OPS": "..675",
+          "OBP": "..302",
+          "SLG": "..364",
+          "OPS": "..666",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Kyle Manzardo has produced  career WAR with 43 home runs, 206 hits, and a ..228 batting average.",
+        "summary": "Kyle Manzardo has produced  career WAR with 43 home runs, 206 hits, and a ..227 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "206",
           "HR": "43",
-          "BA": "..228",
+          "BA": "..227",
           "R": "94",
           "RBI": "117",
           "SB": "2",
-          "OBP": "..306",
-          "SLG": "..422",
-          "OPS": "..728",
+          "OBP": "..305",
+          "SLG": "..421",
+          "OPS": "..726",
           "OPS+": ""
         }
       },
@@ -32894,35 +32691,35 @@
       "team": "CLE",
       "current_season": {
         "season": 2026,
-        "summary": "Patrick Bailey is having a season highlighted by 4 home runs, ..201 batting average, and  WAR.",
+        "summary": "Patrick Bailey is having a season highlighted by 5 home runs, ..202 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "194",
-          "H": "39",
-          "HR": "4",
-          "BA": "..201",
-          "R": "19",
-          "RBI": "18",
+          "AB": "198",
+          "H": "40",
+          "HR": "5",
+          "BA": "..202",
+          "R": "20",
+          "RBI": "19",
           "SB": "2",
-          "OBP": "..254",
-          "SLG": "..299",
-          "OPS": "..553",
+          "OBP": "..257",
+          "SLG": "..313",
+          "OPS": "..570",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Patrick Bailey has produced  career WAR with 25 home runs, 300 hits, and a ..226 batting average.",
+        "summary": "Patrick Bailey has produced  career WAR with 26 home runs, 301 hits, and a ..226 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "300",
-          "HR": "25",
+          "H": "301",
+          "HR": "26",
           "BA": "..226",
-          "R": "141",
-          "RBI": "167",
+          "R": "142",
+          "RBI": "168",
           "SB": "8",
           "OBP": "..282",
-          "SLG": "..334",
-          "OPS": "..616",
+          "SLG": "..336",
+          "OPS": "..618",
           "OPS+": ""
         }
       },
@@ -32981,43 +32778,43 @@
       "team": "CLE",
       "current_season": {
         "season": 2026,
-        "summary": "Petey Halpin is having a season highlighted by 2 home runs, ..218 batting average, and  WAR.",
+        "summary": "Petey Halpin is having a season highlighted by 2 home runs, ..207 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "78",
+          "AB": "82",
           "H": "17",
           "HR": "2",
-          "BA": "..218",
+          "BA": "..207",
           "R": "13",
           "RBI": "5",
           "SB": "5",
-          "OBP": "..235",
-          "SLG": "..359",
-          "OPS": "..594",
+          "OBP": "..224",
+          "SLG": "..341",
+          "OPS": "..565",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Petey Halpin has produced  career WAR with 2 home runs, 19 hits, and a ..226 batting average.",
+        "summary": "Petey Halpin has produced  career WAR with 2 home runs, 19 hits, and a ..216 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "19",
           "HR": "2",
-          "BA": "..226",
+          "BA": "..216",
           "R": "18",
           "RBI": "5",
           "SB": "5",
-          "OBP": "..258",
-          "SLG": "..357",
-          "OPS": "..615",
+          "OBP": "..247",
+          "SLG": "..341",
+          "OPS": "..588",
           "OPS+": ""
         }
       },
       "checklist_years": [
         {
           "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
+          "label": "2026 (RC)",
+          "is_rc_year": true
         },
         {
           "year": 2021,
@@ -33045,7 +32842,7 @@
           "is_rc_year": false
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "656555",
@@ -33053,19 +32850,19 @@
       "team": "CLE",
       "current_season": {
         "season": 2026,
-        "summary": "Rhys Hoskins is having a season highlighted by 11 home runs, ..181 batting average, and  WAR.",
+        "summary": "Rhys Hoskins is having a season highlighted by 11 home runs, ..177 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "227",
+          "AB": "231",
           "H": "41",
           "HR": "11",
-          "BA": "..181",
+          "BA": "..177",
           "R": "30",
           "RBI": "33",
           "SB": "1",
-          "OBP": "..312",
-          "SLG": "..383",
-          "OPS": "..695",
+          "OBP": "..310",
+          "SLG": "..377",
+          "OPS": "..687",
           "OPS+": ""
         }
       },
@@ -33080,8 +32877,8 @@
           "RBI": "563",
           "SB": "21",
           "OBP": "..342",
-          "SLG": "..469",
-          "OPS": "..811",
+          "SLG": "..468",
+          "OPS": "..810",
           "OPS+": ""
         }
       },
@@ -33220,35 +33017,35 @@
       "team": "CLE",
       "current_season": {
         "season": 2026,
-        "summary": "Steven Kwan is having a season highlighted by 1 home runs, ..245 batting average, and  WAR.",
+        "summary": "Steven Kwan is having a season highlighted by 1 home runs, ..248 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "319",
-          "H": "78",
+          "AB": "323",
+          "H": "80",
           "HR": "1",
-          "BA": "..245",
+          "BA": "..248",
           "R": "42",
           "RBI": "18",
-          "SB": "6",
-          "OBP": "..350",
-          "SLG": "..304",
-          "OPS": "..654",
+          "SB": "7",
+          "OBP": "..354",
+          "SLG": "..307",
+          "OPS": "..661",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Steven Kwan has produced  career WAR with 37 home runs, 727 hits, and a ..277 batting average.",
+        "summary": "Steven Kwan has produced  career WAR with 37 home runs, 729 hits, and a ..277 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "727",
+          "H": "729",
           "HR": "37",
           "BA": "..277",
           "R": "388",
           "RBI": "224",
-          "SB": "79",
-          "OBP": "..351",
-          "SLG": "..379",
-          "OPS": "..730",
+          "SB": "80",
+          "OBP": "..352",
+          "SLG": "..380",
+          "OPS": "..732",
           "OPS+": ""
         }
       },
@@ -33327,35 +33124,35 @@
       "team": "CLE",
       "current_season": {
         "season": 2026,
-        "summary": "Travis Bazzana is having a season highlighted by 9 home runs, ..245 batting average, and  WAR.",
+        "summary": "Travis Bazzana is having a season highlighted by 9 home runs, ..242 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "265",
+          "AB": "269",
           "H": "65",
           "HR": "9",
-          "BA": "..245",
+          "BA": "..242",
           "R": "34",
           "RBI": "33",
           "SB": "15",
-          "OBP": "..343",
-          "SLG": "..415",
-          "OPS": "..758",
+          "OBP": "..341",
+          "SLG": "..409",
+          "OPS": "..750",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Travis Bazzana has produced  career WAR with 9 home runs, 65 hits, and a ..245 batting average.",
+        "summary": "Travis Bazzana has produced  career WAR with 9 home runs, 65 hits, and a ..242 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "65",
           "HR": "9",
-          "BA": "..245",
+          "BA": "..242",
           "R": "34",
           "RBI": "33",
           "SB": "15",
-          "OBP": "..343",
-          "SLG": "..415",
-          "OPS": "..758",
+          "OBP": "..341",
+          "SLG": "..409",
+          "OPS": "..750",
           "OPS+": ""
         }
       },
@@ -33834,7 +33631,7 @@
       "team": "COL",
       "current_season": {
         "season": 2026,
-        "summary": "Hunter Goodman is currently 3rd in home runs and 13th in runs this season.",
+        "summary": "Hunter Goodman is currently 3rd in home runs and 15th in runs this season.",
         "stat_card": {
           "WAR": "",
           "AB": "357",
@@ -35031,35 +34828,35 @@
       "team": "DET",
       "current_season": {
         "season": 2026,
-        "summary": "Colt Keith is having a season highlighted by 8 home runs, ..252 batting average, and  WAR.",
+        "summary": "Colt Keith is having a season highlighted by 8 home runs, ..250 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "266",
+          "AB": "268",
           "H": "67",
           "HR": "8",
-          "BA": "..252",
+          "BA": "..250",
           "R": "37",
           "RBI": "24",
           "SB": "4",
-          "OBP": "..297",
-          "SLG": "..395",
-          "OPS": "..692",
+          "OBP": "..295",
+          "SLG": "..392",
+          "OPS": "..687",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Colt Keith has produced  career WAR with 34 home runs, 307 hits, and a ..257 batting average.",
+        "summary": "Colt Keith has produced  career WAR with 34 home runs, 307 hits, and a ..256 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "307",
           "HR": "34",
-          "BA": "..257",
+          "BA": "..256",
           "R": "156",
           "RBI": "130",
           "SB": "12",
           "OBP": "..315",
-          "SLG": "..395",
-          "OPS": "..710",
+          "SLG": "..394",
+          "OPS": "..709",
           "OPS+": ""
         }
       },
@@ -35103,35 +34900,35 @@
       "team": "DET",
       "current_season": {
         "season": 2026,
-        "summary": "Dillon Dingler is currently 12th in home runs and 12th in RBI this season.",
+        "summary": "Dillon Dingler is currently 12th in home runs and 10th in RBI this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "347",
-          "H": "94",
+          "AB": "350",
+          "H": "96",
           "HR": "22",
-          "BA": "..271",
-          "R": "53",
-          "RBI": "65",
+          "BA": "..274",
+          "R": "54",
+          "RBI": "66",
           "SB": "0",
-          "OBP": "..335",
-          "SLG": "..533",
-          "OPS": "..868",
+          "OBP": "..339",
+          "SLG": "..537",
+          "OPS": "..876",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Dillon Dingler has produced  career WAR with 36 home runs, 229 hits, and a ..264 batting average.",
+        "summary": "Dillon Dingler has produced  career WAR with 36 home runs, 231 hits, and a ..266 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "229",
+          "H": "231",
           "HR": "36",
-          "BA": "..264",
-          "R": "109",
-          "RBI": "133",
+          "BA": "..266",
+          "R": "110",
+          "RBI": "134",
           "SB": "0",
-          "OBP": "..318",
-          "SLG": "..457",
-          "OPS": "..775",
+          "OBP": "..320",
+          "SLG": "..459",
+          "OPS": "..779",
           "OPS+": ""
         }
       },
@@ -35192,11 +34989,11 @@
       "checklist_years": [
         {
           "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
+          "label": "2026 (RC)",
+          "is_rc_year": true
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "664285",
@@ -35272,24 +35069,24 @@
         "summary": "Gleyber Torres is having a season highlighted by 4 home runs, ..280 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "164",
-          "H": "46",
+          "AB": "168",
+          "H": "47",
           "HR": "4",
           "BA": "..280",
           "R": "27",
           "RBI": "18",
           "SB": "0",
-          "OBP": "..397",
-          "SLG": "..390",
-          "OPS": "..787",
+          "OBP": "..394",
+          "SLG": "..387",
+          "OPS": "..781",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Gleyber Torres has produced  career WAR with 158 home runs, 1052 hits, and a ..265 batting average.",
+        "summary": "Gleyber Torres has produced  career WAR with 158 home runs, 1053 hits, and a ..265 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "1052",
+          "H": "1053",
           "HR": "158",
           "BA": "..265",
           "R": "566",
@@ -35366,35 +35163,35 @@
       "team": "DET",
       "current_season": {
         "season": 2026,
-        "summary": "Hao-Yu Lee is having a season highlighted by 5 home runs, ..256 batting average, and  WAR.",
+        "summary": "Hao-Yu Lee is having a season highlighted by 5 home runs, ..260 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "168",
-          "H": "43",
+          "AB": "169",
+          "H": "44",
           "HR": "5",
-          "BA": "..256",
-          "R": "14",
+          "BA": "..260",
+          "R": "15",
           "RBI": "20",
           "SB": "1",
-          "OBP": "..286",
-          "SLG": "..399",
-          "OPS": "..685",
+          "OBP": "..294",
+          "SLG": "..402",
+          "OPS": "..696",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Hao-Yu Lee has produced  career WAR with 5 home runs, 43 hits, and a ..256 batting average.",
+        "summary": "Hao-Yu Lee has produced  career WAR with 5 home runs, 44 hits, and a ..260 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "43",
+          "H": "44",
           "HR": "5",
-          "BA": "..256",
-          "R": "14",
+          "BA": "..260",
+          "R": "15",
           "RBI": "20",
           "SB": "1",
-          "OBP": "..286",
-          "SLG": "..399",
-          "OPS": "..685",
+          "OBP": "..294",
+          "SLG": "..402",
+          "OPS": "..696",
           "OPS+": ""
         }
       },
@@ -35562,35 +35359,35 @@
       "team": "DET",
       "current_season": {
         "season": 2026,
-        "summary": "James Outman is having a season highlighted by 3 home runs, ..155 batting average, and  WAR.",
+        "summary": "James Outman is having a season highlighted by 4 home runs, ..159 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "142",
-          "H": "22",
-          "HR": "3",
-          "BA": "..155",
-          "R": "19",
-          "RBI": "13",
+          "AB": "145",
+          "H": "23",
+          "HR": "4",
+          "BA": "..159",
+          "R": "20",
+          "RBI": "16",
           "SB": "6",
-          "OBP": "..216",
-          "SLG": "..275",
-          "OPS": "..491",
+          "OBP": "..218",
+          "SLG": "..297",
+          "OPS": "..515",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "James Outman has produced  career WAR with 37 home runs, 186 hits, and a ..205 batting average.",
+        "summary": "James Outman has produced  career WAR with 38 home runs, 187 hits, and a ..205 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "186",
-          "HR": "37",
+          "H": "187",
+          "HR": "38",
           "BA": "..205",
-          "R": "142",
-          "RBI": "108",
+          "R": "143",
+          "RBI": "111",
           "SB": "25",
           "OBP": "..302",
-          "SLG": "..374",
-          "OPS": "..676",
+          "SLG": "..378",
+          "OPS": "..680",
           "OPS+": ""
         }
       },
@@ -35746,35 +35543,35 @@
       "team": "DET",
       "current_season": {
         "season": 2026,
-        "summary": "Kerry Carpenter is having a season highlighted by 13 home runs, ..207 batting average, and  WAR.",
+        "summary": "Kerry Carpenter is having a season highlighted by 13 home runs, ..208 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "222",
-          "H": "46",
+          "AB": "226",
+          "H": "47",
           "HR": "13",
-          "BA": "..207",
-          "R": "26",
+          "BA": "..208",
+          "R": "27",
           "RBI": "36",
           "SB": "0",
           "OBP": "..278",
-          "SLG": "..423",
-          "OPS": "..701",
+          "SLG": "..420",
+          "OPS": "..698",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Kerry Carpenter has produced  career WAR with 83 home runs, 372 hits, and a ..258 batting average.",
+        "summary": "Kerry Carpenter has produced  career WAR with 83 home runs, 373 hits, and a ..258 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "372",
+          "H": "373",
           "HR": "83",
           "BA": "..258",
-          "R": "202",
+          "R": "203",
           "RBI": "229",
           "SB": "7",
           "OBP": "..315",
-          "SLG": "..494",
-          "OPS": "..809",
+          "SLG": "..493",
+          "OPS": "..808",
           "OPS+": ""
         }
       },
@@ -35808,35 +35605,35 @@
       "team": "DET",
       "current_season": {
         "season": 2026,
-        "summary": "Kevin McGonigle is currently 20th in hits this season.",
+        "summary": "Kevin McGonigle is currently 17th in hits this season.",
         "stat_card": {
           "WAR": "",
-          "AB": "373",
-          "H": "105",
+          "AB": "377",
+          "H": "106",
           "HR": "9",
-          "BA": "..282",
+          "BA": "..281",
           "R": "61",
           "RBI": "35",
           "SB": "11",
-          "OBP": "..390",
-          "SLG": "..424",
-          "OPS": "..814",
+          "OBP": "..388",
+          "SLG": "..422",
+          "OPS": "..810",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Kevin McGonigle has produced  career WAR with 9 home runs, 105 hits, and a ..282 batting average.",
+        "summary": "Kevin McGonigle has produced  career WAR with 9 home runs, 106 hits, and a ..281 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "105",
+          "H": "106",
           "HR": "9",
-          "BA": "..282",
+          "BA": "..281",
           "R": "61",
           "RBI": "35",
           "SB": "11",
-          "OBP": "..390",
-          "SLG": "..424",
-          "OPS": "..814",
+          "OBP": "..388",
+          "SLG": "..422",
+          "OPS": "..810",
           "OPS+": ""
         }
       },
@@ -35990,24 +35787,24 @@
         "summary": "Riley Greene is having a season highlighted by 15 home runs, ..285 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "365",
-          "H": "104",
+          "AB": "369",
+          "H": "105",
           "HR": "15",
           "BA": "..285",
           "R": "53",
           "RBI": "50",
           "SB": "2",
-          "OBP": "..375",
-          "SLG": "..471",
-          "OPS": "..846",
+          "OBP": "..374",
+          "SLG": "..469",
+          "OPS": "..843",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Riley Greene has produced  career WAR with 91 home runs, 597 hits, and a ..268 batting average.",
+        "summary": "Riley Greene has produced  career WAR with 91 home runs, 598 hits, and a ..268 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "597",
+          "H": "598",
           "HR": "91",
           "BA": "..268",
           "R": "316",
@@ -36079,35 +35876,35 @@
       "team": "DET",
       "current_season": {
         "season": 2026,
-        "summary": "Spencer Torkelson is having a season highlighted by 19 home runs, ..209 batting average, and  WAR.",
+        "summary": "Spencer Torkelson is having a season highlighted by 19 home runs, ..206 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "345",
+          "AB": "349",
           "H": "72",
           "HR": "19",
-          "BA": "..209",
+          "BA": "..206",
           "R": "43",
           "RBI": "50",
           "SB": "0",
-          "OBP": "..304",
-          "SLG": "..426",
-          "OPS": "..730",
+          "OBP": "..301",
+          "SLG": "..421",
+          "OPS": "..722",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Spencer Torkelson has produced  career WAR with 99 home runs, 496 hits, and a ..224 batting average.",
+        "summary": "Spencer Torkelson has produced  career WAR with 99 home runs, 496 hits, and a ..223 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "496",
           "HR": "99",
-          "BA": "..224",
+          "BA": "..223",
           "R": "296",
           "RBI": "287",
           "SB": "5",
           "OBP": "..309",
-          "SLG": "..414",
-          "OPS": "..723",
+          "SLG": "..413",
+          "OPS": "..722",
           "OPS+": ""
         }
       },
@@ -36316,35 +36113,35 @@
       "team": "DET",
       "current_season": {
         "season": 2026,
-        "summary": "Zach McKinstry is having a season highlighted by 4 home runs, ..191 batting average, and  WAR.",
+        "summary": "Zach McKinstry is having a season highlighted by 4 home runs, ..197 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "235",
-          "H": "45",
+          "AB": "238",
+          "H": "47",
           "HR": "4",
-          "BA": "..191",
+          "BA": "..197",
           "R": "21",
           "RBI": "20",
           "SB": "1",
-          "OBP": "..270",
-          "SLG": "..294",
-          "OPS": "..564",
+          "OBP": "..274",
+          "SLG": "..298",
+          "OPS": "..572",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Zach McKinstry has produced  career WAR with 41 home runs, 402 hits, and a ..226 batting average.",
+        "summary": "Zach McKinstry has produced  career WAR with 41 home runs, 404 hits, and a ..227 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "402",
+          "H": "404",
           "HR": "41",
-          "BA": "..226",
+          "BA": "..227",
           "R": "222",
           "RBI": "170",
           "SB": "60",
           "OBP": "..296",
-          "SLG": "..369",
-          "OPS": "..665",
+          "SLG": "..370",
+          "OPS": "..666",
           "OPS+": ""
         }
       },
@@ -37919,35 +37716,35 @@
       "team": "KC",
       "current_season": {
         "season": 2026,
-        "summary": "Andrew Velazquez is currently 7th in batting average this season.",
+        "summary": "Andrew Velazquez is having a season highlighted by 0 home runs, ..143 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "3",
+          "AB": "7",
           "H": "1",
           "HR": "0",
-          "BA": "..333",
+          "BA": "..143",
           "R": "0",
           "RBI": "0",
           "SB": "1",
-          "OBP": "..333",
-          "SLG": "..333",
-          "OPS": "..666",
+          "OBP": "..143",
+          "SLG": "..143",
+          "OPS": "..286",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Andrew Velazquez has produced  career WAR with 12 home runs, 108 hits, and a ..190 batting average.",
+        "summary": "Andrew Velazquez has produced  career WAR with 12 home runs, 108 hits, and a ..188 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "108",
           "HR": "12",
-          "BA": "..190",
+          "BA": "..188",
           "R": "77",
           "RBI": "40",
           "SB": "41",
-          "OBP": "..244",
-          "SLG": "..293",
-          "OPS": "..537",
+          "OBP": "..243",
+          "SLG": "..291",
+          "OPS": "..534",
           "OPS+": ""
         }
       },
@@ -37999,32 +37796,32 @@
         "summary": "Carter Jensen is having a season highlighted by 14 home runs, ..240 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "333",
-          "H": "80",
+          "AB": "337",
+          "H": "81",
           "HR": "14",
           "BA": "..240",
           "R": "44",
           "RBI": "52",
           "SB": "1",
-          "OBP": "..308",
-          "SLG": "..432",
-          "OPS": "..740",
+          "OBP": "..310",
+          "SLG": "..433",
+          "OPS": "..743",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Carter Jensen has produced  career WAR with 17 home runs, 98 hits, and a ..249 batting average.",
+        "summary": "Carter Jensen has produced  career WAR with 17 home runs, 99 hits, and a ..249 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "98",
+          "H": "99",
           "HR": "17",
           "BA": "..249",
           "R": "56",
           "RBI": "65",
           "SB": "1",
-          "OBP": "..321",
-          "SLG": "..450",
-          "OPS": "..771",
+          "OBP": "..322",
+          "SLG": "..451",
+          "OPS": "..773",
           "OPS+": ""
         }
       },
@@ -38122,35 +37919,35 @@
       "team": "KC",
       "current_season": {
         "season": 2026,
-        "summary": "Isaac Collins is having a season highlighted by 5 home runs, ..244 batting average, and  WAR.",
+        "summary": "Isaac Collins is having a season highlighted by 6 home runs, ..245 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "287",
-          "H": "70",
-          "HR": "5",
-          "BA": "..244",
-          "R": "36",
-          "RBI": "32",
+          "AB": "290",
+          "H": "71",
+          "HR": "6",
+          "BA": "..245",
+          "R": "37",
+          "RBI": "34",
           "SB": "6",
-          "OBP": "..344",
-          "SLG": "..362",
-          "OPS": "..706",
+          "OBP": "..346",
+          "SLG": "..372",
+          "OPS": "..718",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Isaac Collins has produced  career WAR with 14 home runs, 170 hits, and a ..251 batting average.",
+        "summary": "Isaac Collins has produced  career WAR with 15 home runs, 171 hits, and a ..252 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "170",
-          "HR": "14",
-          "BA": "..251",
-          "R": "92",
-          "RBI": "86",
+          "H": "171",
+          "HR": "15",
+          "BA": "..252",
+          "R": "93",
+          "RBI": "88",
           "SB": "23",
-          "OBP": "..354",
-          "SLG": "..383",
-          "OPS": "..737",
+          "OBP": "..355",
+          "SLG": "..387",
+          "OPS": "..742",
           "OPS+": ""
         }
       },
@@ -38261,31 +38058,31 @@
       "team": "KC",
       "current_season": {
         "season": 2026,
-        "summary": "Josh Rojas is having a season highlighted by 1 home runs, ..244 batting average, and  WAR.",
+        "summary": "Josh Rojas is having a season highlighted by 1 home runs, ..265 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "45",
-          "H": "11",
+          "AB": "49",
+          "H": "13",
           "HR": "1",
-          "BA": "..244",
+          "BA": "..265",
           "R": "5",
-          "RBI": "5",
+          "RBI": "6",
           "SB": "0",
-          "OBP": "..261",
-          "SLG": "..356",
-          "OPS": "..617",
+          "OBP": "..280",
+          "SLG": "..388",
+          "OPS": "..668",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Josh Rojas has produced  career WAR with 37 home runs, 505 hits, and a ..241 batting average.",
+        "summary": "Josh Rojas has produced  career WAR with 37 home runs, 507 hits, and a ..241 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "505",
+          "H": "507",
           "HR": "37",
           "BA": "..241",
           "R": "275",
-          "RBI": "205",
+          "RBI": "206",
           "SB": "63",
           "OBP": "..316",
           "SLG": "..353",
@@ -38333,35 +38130,35 @@
       "team": "KC",
       "current_season": {
         "season": 2026,
-        "summary": "Lane Thomas is having a season highlighted by 9 home runs, ..240 batting average, and  WAR.",
+        "summary": "Lane Thomas is having a season highlighted by 9 home runs, ..236 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "254",
+          "AB": "258",
           "H": "61",
           "HR": "9",
-          "BA": "..240",
+          "BA": "..236",
           "R": "29",
           "RBI": "36",
           "SB": "6",
-          "OBP": "..337",
-          "SLG": "..409",
-          "OPS": "..746",
+          "OBP": "..334",
+          "SLG": "..403",
+          "OPS": "..737",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Lane Thomas has produced  career WAR with 85 home runs, 550 hits, and a ..242 batting average.",
+        "summary": "Lane Thomas has produced  career WAR with 85 home runs, 550 hits, and a ..241 batting average.",
         "stat_card": {
           "WAR": "",
           "H": "550",
           "HR": "85",
-          "BA": "..242",
+          "BA": "..241",
           "R": "313",
           "RBI": "290",
           "SB": "77",
           "OBP": "..312",
-          "SLG": "..417",
-          "OPS": "..729",
+          "SLG": "..416",
+          "OPS": "..728",
           "OPS+": ""
         }
       },
@@ -38664,35 +38461,35 @@
       "team": "KC",
       "current_season": {
         "season": 2026,
-        "summary": "Michael Massey is having a season highlighted by 7 home runs, ..270 batting average, and  WAR.",
+        "summary": "Michael Massey is having a season highlighted by 7 home runs, ..274 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "248",
-          "H": "67",
+          "AB": "252",
+          "H": "69",
           "HR": "7",
-          "BA": "..270",
-          "R": "34",
+          "BA": "..274",
+          "R": "35",
           "RBI": "33",
           "SB": "2",
-          "OBP": "..308",
-          "SLG": "..427",
-          "OPS": "..735",
+          "OBP": "..311",
+          "SLG": "..429",
+          "OPS": "..740",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Michael Massey has produced  career WAR with 43 home runs, 357 hits, and a ..247 batting average.",
+        "summary": "Michael Massey has produced  career WAR with 43 home runs, 359 hits, and a ..248 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "357",
+          "H": "359",
           "HR": "43",
-          "BA": "..247",
-          "R": "157",
+          "BA": "..248",
+          "R": "158",
           "RBI": "170",
           "SB": "14",
-          "OBP": "..287",
+          "OBP": "..288",
           "SLG": "..392",
-          "OPS": "..679",
+          "OPS": "..680",
           "OPS+": ""
         }
       },
@@ -38819,32 +38616,32 @@
         "summary": "Nick Loftin is having a season highlighted by 4 home runs, ..247 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "194",
-          "H": "48",
+          "AB": "198",
+          "H": "49",
           "HR": "4",
           "BA": "..247",
           "R": "28",
           "RBI": "32",
           "SB": "1",
-          "OBP": "..332",
-          "SLG": "..397",
-          "OPS": "..729",
+          "OBP": "..330",
+          "SLG": "..394",
+          "OPS": "..724",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Nick Loftin has produced  career WAR with 9 home runs, 131 hits, and a ..229 batting average.",
+        "summary": "Nick Loftin has produced  career WAR with 9 home runs, 132 hits, and a ..229 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "131",
+          "H": "132",
           "HR": "9",
           "BA": "..229",
           "R": "70",
           "RBI": "76",
           "SB": "5",
           "OBP": "..307",
-          "SLG": "..348",
-          "OPS": "..655",
+          "SLG": "..347",
+          "OPS": "..654",
           "OPS+": ""
         }
       },
@@ -38958,19 +38755,19 @@
       "team": "KC",
       "current_season": {
         "season": 2026,
-        "summary": "Salvador Perez is having a season highlighted by 14 home runs, ..211 batting average, and  WAR.",
+        "summary": "Salvador Perez is having a season highlighted by 14 home runs, ..209 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "369",
+          "AB": "373",
           "H": "78",
           "HR": "14",
-          "BA": "..211",
+          "BA": "..209",
           "R": "36",
           "RBI": "43",
           "SB": "0",
-          "OBP": "..258",
-          "SLG": "..363",
-          "OPS": "..621",
+          "OBP": "..257",
+          "SLG": "..359",
+          "OPS": "..616",
           "OPS+": ""
         }
       },
@@ -39264,9 +39061,9 @@
           "H": "20",
           "HR": "2",
           "BA": "..328",
-          "R": "17",
+          "R": "18",
           "RBI": "5",
-          "SB": "11",
+          "SB": "12",
           "OBP": "..364",
           "SLG": "..443",
           "OPS": "..807",
@@ -39280,9 +39077,9 @@
           "H": "34",
           "HR": "3",
           "BA": "..306",
-          "R": "36",
+          "R": "37",
           "RBI": "11",
-          "SB": "32",
+          "SB": "33",
           "OBP": "..344",
           "SLG": "..414",
           "OPS": "..758",
@@ -39304,35 +39101,35 @@
       "team": "KC",
       "current_season": {
         "season": 2026,
-        "summary": "Vinnie Pasquantino is having a season highlighted by 6 home runs, ..227 batting average, and  WAR.",
+        "summary": "Vinnie Pasquantino is having a season highlighted by 6 home runs, ..230 batting average, and  WAR.",
         "stat_card": {
           "WAR": "",
-          "AB": "278",
-          "H": "63",
+          "AB": "282",
+          "H": "65",
           "HR": "6",
-          "BA": "..227",
+          "BA": "..230",
           "R": "33",
           "RBI": "33",
           "SB": "4",
-          "OBP": "..316",
-          "SLG": "..345",
-          "OPS": "..661",
+          "OBP": "..320",
+          "SLG": "..348",
+          "OPS": "..668",
           "OPS+": ""
         }
       },
       "career": {
-        "summary": "Vinnie Pasquantino has produced  career WAR with 76 home runs, 490 hits, and a ..260 batting average.",
+        "summary": "Vinnie Pasquantino has produced  career WAR with 76 home runs, 492 hits, and a ..261 batting average.",
         "stat_card": {
           "WAR": "",
-          "H": "490",
+          "H": "492",
           "HR": "76",
-          "BA": "..260",
+          "BA": "..261",
           "R": "218",
           "RBI": "295",
           "SB": "7",
-          "OBP": "..328",
+          "OBP": "..329",
           "SLG": "..440",
-          "OPS": "..768",
+          "OPS": "..769",
           "OPS+": ""
         }
       },
@@ -39567,7 +39364,7 @@
       "team": "LAD",
       "current_season": {
         "season": 2026,
-        "summary": "Andy Pages is currently 20th in hits and 9th in RBI this season.",
+        "summary": "Andy Pages is currently 9th in RBI this season.",
         "stat_card": {
           "WAR": "",
           "AB": "392",
@@ -40004,7 +39801,7 @@
       "team": "LAD",
       "current_season": {
         "season": 2026,
-        "summary": "Freddie Freeman is currently 10th in hits this season.",
+        "summary": "Freddie Freeman is currently 11th in hits this season.",
         "stat_card": {
           "WAR": "",
           "AB": "377",
@@ -40586,7 +40383,7 @@
       "team": "LAD",
       "current_season": {
         "season": 2026,
-        "summary": "Shohei Ohtani is currently 12th in home runs, 17th in OPS, and 9th in runs this season.",
+        "summary": "Shohei Ohtani is currently 12th in home runs, 18th in OPS, and 9th in runs this season.",
         "stat_card": {
           "WAR": "",
           "AB": "360",
@@ -40795,7 +40592,7 @@
       "team": "LAD",
       "current_season": {
         "season": 2026,
-        "summary": "Tommy Edman is currently 6th in batting average and 9th in OPS this season.",
+        "summary": "Tommy Edman is currently 7th in batting average and 10th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "86",
@@ -41002,11 +40799,11 @@
       "checklist_years": [
         {
           "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
+          "label": "2026 (RC)",
+          "is_rc_year": true
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "682928",
@@ -41014,7 +40811,7 @@
       "team": "WSH",
       "current_season": {
         "season": 2026,
-        "summary": "CJ Abrams is currently 9th in home runs, 17th in hits, and 20th in OPS this season.",
+        "summary": "CJ Abrams is currently 9th in home runs, 17th in hits, and 3rd in RBI this season.",
         "stat_card": {
           "WAR": "",
           "AB": "371",
@@ -41494,7 +41291,7 @@
       "team": "WSH",
       "current_season": {
         "season": 2026,
-        "summary": "Harry Ford is currently 8th in OPS this season.",
+        "summary": "Harry Ford is currently 9th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "11",
@@ -41623,7 +41420,7 @@
       "team": "WSH",
       "current_season": {
         "season": 2026,
-        "summary": "James Wood is currently 6th in home runs, 12th in hits, and 13th in OPS this season.",
+        "summary": "James Wood is currently 6th in home runs, 14th in hits, and 13th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "396",
