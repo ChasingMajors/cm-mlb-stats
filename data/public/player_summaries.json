@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T16:01:13.472Z",
+  "updated_at": "2026-10-07T16:33:44.512Z",
   "season": 2026,
   "players": [
     {
@@ -4572,46 +4572,6 @@
       "rc_year": 2025
     },
     {
-      "player_id": "695243",
-      "player_name": "Mason Miller",
-      "team": "SD",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2023,
-          "label": "2023 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2023
-    },
-    {
       "player_id": "650633",
       "player_name": "Michael King",
       "team": "SD",
@@ -4829,63 +4789,6 @@
       "rc_year": null
     },
     {
-      "player_id": "681190",
-      "player_name": "Randy Vásquez",
-      "team": "SD",
-      "current_season": {
-        "season": 2026,
-        "summary": "Randy Vásquez is having a season highlighted by 0 home runs, ..000 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "1",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..000",
-          "SLG": "..000",
-          "OPS": "..000",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Randy Vásquez has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..000",
-          "SLG": "..000",
-          "OPS": "..000",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2023,
-          "label": "2023 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2023
-    },
-    {
       "player_id": "592662",
       "player_name": "Robbie Ray",
       "team": "SD",
@@ -5094,6 +4997,143 @@
         {
           "year": 2019,
           "label": "2019",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
+      "player_id": "621111",
+      "player_name": "Walker Buehler",
+      "team": "SD",
+      "current_season": null,
+      "career": {
+        "summary": "Walker Buehler has produced  career WAR with 1 home runs, 19 hits, and a ..111 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "19",
+          "HR": "1",
+          "BA": "..111",
+          "R": "11",
+          "RBI": "6",
+          "SB": "0",
+          "OBP": "..165",
+          "SLG": "..140",
+          "OPS": "..305",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2018,
+          "label": "2018 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        },
+        {
+          "year": 2016,
+          "label": "2016",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2018
+    },
+    {
+      "player_id": "593974",
+      "player_name": "Wandy Peralta",
+      "team": "SD",
+      "current_season": {
+        "season": 2026,
+        "summary": "Wandy Peralta is having a season highlighted by 0 home runs, ..000 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "0",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Wandy Peralta has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
           "is_rc_year": false
         }
       ],
@@ -14773,21 +14813,6 @@
         }
       ],
       "rc_year": 2024
-    },
-    {
-      "player_id": "687288",
-      "player_name": "Devereaux Harrison",
-      "team": "TOR",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "656302",
