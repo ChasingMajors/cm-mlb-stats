@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T16:18:27.495Z",
+  "updated_at": "2026-10-10T15:25:03.068Z",
   "season": 2026,
   "players": [
     {
@@ -1024,7 +1024,7 @@
       "team": "ATH",
       "current_season": {
         "season": 2026,
-        "summary": "Joshua Kuroda-Grauer is currently 4th in batting average and 13th in OPS this season.",
+        "summary": "Joshua Kuroda-Grauer is currently 4th in batting average and 12th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "71",
@@ -7137,7 +7137,7 @@
       "team": "SEA",
       "current_season": {
         "season": 2026,
-        "summary": "Michael Arroyo is currently 3rd in batting average and 9th in OPS this season.",
+        "summary": "Michael Arroyo is currently 3rd in batting average and 8th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "35",
@@ -12117,7 +12117,7 @@
       "team": "TB",
       "current_season": {
         "season": 2026,
-        "summary": "Junior Caminero is currently 4th in home runs, 9th in hits, and 19th in OPS this season.",
+        "summary": "Junior Caminero is currently 4th in home runs, 9th in hits, and 18th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "616",
@@ -21447,6 +21447,21 @@
       "rc_year": null
     },
     {
+      "player_id": "664849",
+      "player_name": "Danny Young",
+      "team": "ATL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2022,
+          "label": "2022 (RC)",
+          "is_rc_year": true
+        }
+      ],
+      "rc_year": 2022
+    },
+    {
       "player_id": "800311",
       "player_name": "Didier Fuentes",
       "team": "ATL",
@@ -22130,53 +22145,6 @@
         }
       ],
       "rc_year": null
-    },
-    {
-      "player_id": "663897",
-      "player_name": "Luke Williams",
-      "team": "ATL",
-      "current_season": {
-        "season": 2026,
-        "summary": "Luke Williams is currently 6th in OPS this season.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "0",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "1.000",
-          "SLG": "..000",
-          "OPS": "1.000",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Luke Williams has produced  career WAR with 2 home runs, 68 hits, and a ..212 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "68",
-          "HR": "2",
-          "BA": "..212",
-          "R": "43",
-          "RBI": "21",
-          "SB": "25",
-          "OBP": "..272",
-          "SLG": "..280",
-          "OPS": "..552",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2022,
-          "label": "2022 (RC)",
-          "is_rc_year": true
-        }
-      ],
-      "rc_year": 2022
     },
     {
       "player_id": "527048",
@@ -24484,7 +24452,7 @@
       "team": "CWS",
       "current_season": {
         "season": 2026,
-        "summary": "Randal Grichuk is currently 20th in OPS this season.",
+        "summary": "Randal Grichuk is currently 19th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "265",
@@ -26912,7 +26880,7 @@
       "team": "NYY",
       "current_season": {
         "season": 2026,
-        "summary": "Ben Rice is currently 6th in home runs, 14th in OPS, and 10th in RBI this season.",
+        "summary": "Ben Rice is currently 6th in home runs, 13th in OPS, and 10th in RBI this season.",
         "stat_card": {
           "WAR": "",
           "AB": "573",
@@ -35706,7 +35674,7 @@
       "team": "BAL",
       "current_season": {
         "season": 2026,
-        "summary": "Pete Alonso is currently 3rd in home runs, 20th in hits, and 17th in OPS this season.",
+        "summary": "Pete Alonso is currently 3rd in home runs, 20th in hits, and 16th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "602",
@@ -38241,7 +38209,7 @@
       "team": "BOS",
       "current_season": {
         "season": 2026,
-        "summary": "Willson Contreras is currently 12th in OPS this season.",
+        "summary": "Willson Contreras is currently 11th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "448",
@@ -40410,7 +40378,7 @@
       "team": "CHC",
       "current_season": {
         "season": 2026,
-        "summary": "Pete Crow-Armstrong is currently 1st in home runs, 6th in hits, and 10th in OPS this season.",
+        "summary": "Pete Crow-Armstrong is currently 1st in home runs, 6th in hits, and 9th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "626",
@@ -41345,7 +41313,7 @@
       "team": "CIN",
       "current_season": {
         "season": 2026,
-        "summary": "Elly De La Cruz is currently 16th in home runs, 20th in OPS, and 13th in stolen bases this season.",
+        "summary": "Elly De La Cruz is currently 16th in home runs, 19th in OPS, and 13th in stolen bases this season.",
         "stat_card": {
           "WAR": "",
           "AB": "559",
@@ -53049,7 +53017,7 @@
       "team": "LAD",
       "current_season": {
         "season": 2026,
-        "summary": "Shohei Ohtani is currently 16th in home runs and 16th in OPS this season.",
+        "summary": "Shohei Ohtani is currently 16th in home runs and 15th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "523",
@@ -53669,7 +53637,7 @@
       "team": "WSH",
       "current_season": {
         "season": 2026,
-        "summary": "Andrés Chaparro is currently 17th in OPS this season.",
+        "summary": "Andrés Chaparro is currently 16th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "198",
@@ -54666,7 +54634,7 @@
       "team": "WSH",
       "current_season": {
         "season": 2026,
-        "summary": "James Wood is currently 16th in home runs, 15th in OPS, and 3rd in runs this season.",
+        "summary": "James Wood is currently 16th in home runs, 14th in OPS, and 3rd in runs this season.",
         "stat_card": {
           "WAR": "",
           "AB": "513",
@@ -56558,7 +56526,7 @@
       "team": "NYM",
       "current_season": {
         "season": 2026,
-        "summary": "Juan Soto is currently 11th in OPS this season.",
+        "summary": "Juan Soto is currently 10th in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "400",
