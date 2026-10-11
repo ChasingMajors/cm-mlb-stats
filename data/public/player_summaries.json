@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T15:25:03.068Z",
+  "updated_at": "2026-10-11T15:45:25.074Z",
   "season": 2026,
   "players": [
     {
@@ -52420,58 +52420,6 @@
       "rc_year": 2025
     },
     {
-      "player_id": "808975",
-      "player_name": "Hyeseong Kim",
-      "team": "LAD",
-      "current_season": {
-        "season": 2026,
-        "summary": "Hyeseong Kim is having a season highlighted by 1 home runs, ..259 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "116",
-          "H": "30",
-          "HR": "1",
-          "BA": "..259",
-          "R": "16",
-          "RBI": "11",
-          "SB": "5",
-          "OBP": "..323",
-          "SLG": "..328",
-          "OPS": "..651",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Hyeseong Kim has produced  career WAR with 4 home runs, 75 hits, and a ..271 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "75",
-          "HR": "4",
-          "BA": "..271",
-          "R": "35",
-          "RBI": "28",
-          "SB": "18",
-          "OBP": "..318",
-          "SLG": "..361",
-          "OPS": "..679",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2025
-    },
-    {
       "player_id": "800543",
       "player_name": "Josue De Paula",
       "team": "LAD",
@@ -52532,6 +52480,31 @@
         }
       ],
       "rc_year": null
+    },
+    {
+      "player_id": "680736",
+      "player_name": "Justin Wrobleski",
+      "team": "LAD",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2025
     },
     {
       "player_id": "663460",
