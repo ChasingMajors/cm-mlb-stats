@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T14:33:55.427Z",
+  "updated_at": "2026-10-15T14:12:48.139Z",
   "season": 2026,
   "players": [
     {
@@ -597,6 +597,11 @@
       "current_season": null,
       "career": null,
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2023,
           "label": "2023",
@@ -2011,6 +2016,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2021,
           "label": "2021",
           "is_rc_year": false
@@ -2117,6 +2127,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2024,
           "label": "2024",
@@ -2648,6 +2663,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2025,
           "label": "2025",
@@ -3512,7 +3532,13 @@
       "team": "PIT",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -4067,6 +4093,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -4254,6 +4285,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2025,
           "label": "2025",
@@ -4786,6 +4822,11 @@
           "year": 2021,
           "label": "2021 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2024,
@@ -5489,6 +5530,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2025,
           "label": "2025",
@@ -6429,6 +6475,11 @@
           "year": 2024,
           "label": "2024 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2023,
@@ -7844,6 +7895,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -8403,7 +8459,13 @@
       "team": "SF",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -8632,6 +8694,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2020,
           "label": "2020",
@@ -9984,6 +10051,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2023,
           "label": "2023",
           "is_rc_year": false
@@ -11089,7 +11161,13 @@
           "OPS+": ""
         }
       },
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -11478,7 +11556,13 @@
           "OPS+": ""
         }
       },
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -12345,6 +12429,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -12417,6 +12506,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -12479,6 +12573,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2022,
           "label": "2022",
           "is_rc_year": false
@@ -12528,6 +12627,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2025,
           "label": "2025",
@@ -13594,7 +13698,13 @@
       "team": "TEX",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -13635,7 +13745,13 @@
           "OPS+": ""
         }
       },
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -13982,6 +14098,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2024,
           "label": "2024",
           "is_rc_year": false
@@ -14154,6 +14275,11 @@
           "year": 2024,
           "label": "2024 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2023,
@@ -14623,6 +14749,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -14676,7 +14807,13 @@
       "team": "TEX",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -15104,12 +15241,17 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026 (RC)",
+          "is_rc_year": true
+        },
+        {
           "year": 2022,
           "label": "2022",
           "is_rc_year": false
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "680755",
@@ -15716,7 +15858,13 @@
       "team": "TOR",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -15899,7 +16047,13 @@
       "team": "TOR",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -16109,6 +16263,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -16240,6 +16399,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2024,
           "label": "2024",
@@ -16525,6 +16689,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -16549,6 +16718,11 @@
       "current_season": null,
       "career": null,
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2023,
           "label": "2023",
@@ -16609,6 +16783,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2025,
           "label": "2025",
@@ -16767,7 +16946,13 @@
           "OPS+": ""
         }
       },
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -17329,6 +17514,11 @@
       "career": null,
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026 (RC)",
+          "is_rc_year": true
+        },
+        {
           "year": 2023,
           "label": "2023",
           "is_rc_year": false
@@ -17339,7 +17529,7 @@
           "is_rc_year": false
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "665152",
@@ -17601,7 +17791,13 @@
       "team": "MIN",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -17626,6 +17822,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2025,
           "label": "2025",
@@ -17890,6 +18091,11 @@
       "current_season": null,
       "career": null,
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2024,
           "label": "2024",
@@ -18675,6 +18881,11 @@
           "year": 2024,
           "label": "2024 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         }
       ],
       "rc_year": 2024
@@ -18722,6 +18933,11 @@
           "year": 2018,
           "label": "2018 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2025,
@@ -19873,6 +20089,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2024,
           "label": "2024",
           "is_rc_year": false
@@ -20786,6 +21007,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -21190,6 +21416,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2024,
           "label": "2024",
           "is_rc_year": false
@@ -21285,6 +21516,11 @@
           "year": 2022,
           "label": "2022 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2024,
@@ -21715,6 +21951,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2024,
           "label": "2024",
           "is_rc_year": false
@@ -21870,8 +22111,8 @@
       "checklist_years": [
         {
           "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
+          "label": "2026 (RC)",
+          "is_rc_year": true
         },
         {
           "year": 2025,
@@ -21894,7 +22135,7 @@
           "is_rc_year": false
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "675916",
@@ -21979,7 +22220,13 @@
           "OPS+": ""
         }
       },
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -22163,6 +22410,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2025,
           "label": "2025",
@@ -23213,6 +23465,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -23261,7 +23518,13 @@
       "team": "ATL",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -23633,6 +23896,11 @@
           "year": 2024,
           "label": "2024 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         }
       ],
       "rc_year": 2024
@@ -23839,6 +24107,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -24000,6 +24273,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2025,
           "label": "2025",
@@ -24574,8 +24852,8 @@
       "checklist_years": [
         {
           "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
+          "label": "2026 (RC)",
+          "is_rc_year": true
         },
         {
           "year": 2025,
@@ -24588,7 +24866,7 @@
           "is_rc_year": false
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "680732",
@@ -24830,7 +25108,13 @@
       "team": "CWS",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -25055,6 +25339,11 @@
       "career": null,
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2021,
           "label": "2021",
           "is_rc_year": false
@@ -25113,8 +25402,8 @@
       "checklist_years": [
         {
           "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
+          "label": "2026 (RC)",
+          "is_rc_year": true
         },
         {
           "year": 2025,
@@ -25137,7 +25426,7 @@
           "is_rc_year": false
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "665923",
@@ -25182,6 +25471,11 @@
           "year": 2023,
           "label": "2023 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2025,
@@ -25484,6 +25778,11 @@
           "year": 2022,
           "label": "2022 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         }
       ],
       "rc_year": 2022
@@ -25638,8 +25937,8 @@
       "checklist_years": [
         {
           "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
+          "label": "2026 (RC)",
+          "is_rc_year": true
         },
         {
           "year": 2022,
@@ -25652,7 +25951,7 @@
           "is_rc_year": false
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "694795",
@@ -25660,7 +25959,13 @@
       "team": "MIA",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -25816,6 +26121,11 @@
           "year": 2023,
           "label": "2023 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2025,
@@ -26113,6 +26423,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2025,
           "label": "2025",
@@ -26618,6 +26933,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -26943,6 +27263,11 @@
       "career": null,
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2022,
           "label": "2022",
           "is_rc_year": false
@@ -26966,6 +27291,11 @@
           "year": 2023,
           "label": "2023 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         }
       ],
       "rc_year": 2023
@@ -27061,6 +27391,11 @@
           "year": 2021,
           "label": "2021 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2025,
@@ -27273,11 +27608,11 @@
       "checklist_years": [
         {
           "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
+          "label": "2026 (RC)",
+          "is_rc_year": true
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "806146",
@@ -29103,6 +29438,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -29635,6 +29975,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -29727,6 +30072,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -29798,6 +30148,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2025,
           "label": "2025",
@@ -30036,6 +30391,11 @@
           "year": 2021,
           "label": "2021 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2025,
@@ -30358,6 +30718,11 @@
       "current_season": null,
       "career": null,
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2021,
           "label": "2021",
@@ -30709,6 +31074,11 @@
           "year": 2025,
           "label": "2025 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         }
       ],
       "rc_year": 2025
@@ -30870,6 +31240,11 @@
       "career": null,
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026 (RC)",
+          "is_rc_year": true
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -30880,7 +31255,7 @@
           "is_rc_year": false
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "680570",
@@ -31593,6 +31968,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -31721,7 +32101,13 @@
       "team": "LAA",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -31905,6 +32291,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -31944,6 +32335,11 @@
       "current_season": null,
       "career": null,
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2023,
           "label": "2023",
@@ -31996,6 +32392,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2025,
           "label": "2025",
@@ -32052,6 +32453,11 @@
           "year": 2023,
           "label": "2023 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2025,
@@ -32134,8 +32540,14 @@
       "team": "LAA",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
-      "rc_year": null
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026 (RC)",
+          "is_rc_year": true
+        }
+      ],
+      "rc_year": 2026
     },
     {
       "player_id": "579328",
@@ -32638,6 +33050,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2022,
           "label": "2022",
           "is_rc_year": false
@@ -33018,6 +33435,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2024,
           "label": "2024",
           "is_rc_year": false
@@ -33079,6 +33501,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2024,
           "label": "2024",
@@ -33306,8 +33733,8 @@
       "checklist_years": [
         {
           "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
+          "label": "2026 (RC)",
+          "is_rc_year": true
         },
         {
           "year": 2025,
@@ -33335,7 +33762,7 @@
           "is_rc_year": false
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "686228",
@@ -33556,6 +33983,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2024,
           "label": "2024",
@@ -33794,6 +34226,11 @@
           "year": 2018,
           "label": "2018 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2025,
@@ -34411,7 +34848,13 @@
       "team": "BAL",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -34444,7 +34887,13 @@
       "team": "BAL",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -34530,6 +34979,11 @@
           "year": 2025,
           "label": "2025 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         }
       ],
       "rc_year": 2025
@@ -34585,7 +35039,13 @@
       "team": "BAL",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -35539,6 +35999,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -35877,6 +36342,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2021,
           "label": "2021",
           "is_rc_year": false
@@ -36144,6 +36614,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2024,
           "label": "2024",
           "is_rc_year": false
@@ -36194,6 +36669,11 @@
           "year": 2022,
           "label": "2022 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2025,
@@ -36321,7 +36801,13 @@
       "team": "BOS",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -36749,6 +37235,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -36983,6 +37474,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -37187,6 +37683,11 @@
       "career": null,
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026 (RC)",
+          "is_rc_year": true
+        },
+        {
           "year": 2024,
           "label": "2024",
           "is_rc_year": false
@@ -37202,7 +37703,7 @@
           "is_rc_year": false
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "680776",
@@ -37292,7 +37793,13 @@
       "team": "BOS",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -38171,7 +38678,13 @@
       "team": "BOS",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -38620,6 +39133,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2024,
           "label": "2024",
           "is_rc_year": false
@@ -38877,6 +39395,11 @@
           "year": 2016,
           "label": "2016 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2025,
@@ -40104,6 +40627,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -40194,6 +40722,11 @@
           "year": 2023,
           "label": "2023 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2025,
@@ -40537,6 +41070,11 @@
           "year": 2025,
           "label": "2025 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2020,
@@ -41397,6 +41935,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2023,
           "label": "2023",
           "is_rc_year": false
@@ -41477,6 +42020,11 @@
           "year": 2023,
           "label": "2023 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2025,
@@ -41631,7 +42179,13 @@
       "team": "CIN",
       "current_season": null,
       "career": null,
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -41673,6 +42227,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2025,
           "label": "2025",
@@ -41761,12 +42320,17 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026 (RC)",
+          "is_rc_year": true
+        },
+        {
           "year": 2023,
           "label": "2023",
           "is_rc_year": false
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "670062",
@@ -42363,6 +42927,11 @@
           "year": 2022,
           "label": "2022 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2020,
@@ -43078,6 +43647,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -43149,6 +43723,11 @@
       "current_season": null,
       "career": null,
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2020,
           "label": "2020",
@@ -43500,6 +44079,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2025,
           "label": "2025",
@@ -44738,6 +45322,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -45006,6 +45595,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2025,
           "label": "2025",
@@ -46622,6 +47216,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026 (RC)",
+          "is_rc_year": true
+        },
+        {
           "year": 2024,
           "label": "2024",
           "is_rc_year": false
@@ -46642,7 +47241,7 @@
           "is_rc_year": false
         }
       ],
-      "rc_year": null
+      "rc_year": 2026
     },
     {
       "player_id": "690291",
@@ -47097,6 +47696,11 @@
           "year": 2025,
           "label": "2025 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         }
       ],
       "rc_year": 2025
@@ -47286,6 +47890,11 @@
           "year": 2021,
           "label": "2021 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2025,
@@ -48027,6 +48636,11 @@
           "year": 2025,
           "label": "2025 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         }
       ],
       "rc_year": 2025
@@ -48127,6 +48741,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2025,
           "label": "2025",
@@ -48847,6 +49466,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2023,
           "label": "2023",
           "is_rc_year": false
@@ -49396,6 +50020,11 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2020,
           "label": "2020",
@@ -50239,6 +50868,11 @@
       },
       "checklist_years": [
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2024,
           "label": "2024",
           "is_rc_year": false
@@ -50307,7 +50941,13 @@
           "OPS+": ""
         }
       },
-      "checklist_years": [],
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -51850,6 +52490,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2025,
           "label": "2025",
           "is_rc_year": false
@@ -52388,6 +53033,11 @@
           "year": 2025,
           "label": "2025 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         }
       ],
       "rc_year": 2025
@@ -53070,6 +53720,11 @@
           "year": 2018,
           "label": "2018 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2025,
@@ -54327,6 +54982,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2020,
           "label": "2020",
           "is_rc_year": false
@@ -54700,6 +55360,11 @@
           "is_rc_year": true
         },
         {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
           "year": 2024,
           "label": "2024",
           "is_rc_year": false
@@ -54765,6 +55430,11 @@
           "year": 2024,
           "label": "2024 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2025,
@@ -55154,6 +55824,11 @@
       "current_season": null,
       "career": null,
       "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
         {
           "year": 2023,
           "label": "2023",
@@ -55724,6 +56399,11 @@
           "year": 2024,
           "label": "2024 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2025,
@@ -57255,6 +57935,11 @@
           "year": 2024,
           "label": "2024 (RC)",
           "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
         },
         {
           "year": 2025,
