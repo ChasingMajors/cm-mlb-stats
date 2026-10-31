@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T15:58:50.900Z",
+  "updated_at": "2026-10-31T15:22:17.034Z",
   "season": 2026,
   "players": [
     {
@@ -4300,66 +4300,6 @@
       "rc_year": 2023
     },
     {
-      "player_id": "650633",
-      "player_name": "Michael King",
-      "team": "SD",
-      "current_season": null,
-      "career": {
-        "summary": "Michael King has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..000",
-          "SLG": "..000",
-          "OPS": "..000",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
-    {
       "player_id": "609280",
       "player_name": "Miguel Andujar",
       "team": "SD",
@@ -6619,73 +6559,6 @@
         }
       ],
       "rc_year": 2025
-    },
-    {
-      "player_id": "668800",
-      "player_name": "Andrew Knizner",
-      "team": "SF",
-      "current_season": {
-        "season": 2026,
-        "summary": "Andrew Knizner is having a season highlighted by 2 home runs, ..219 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "73",
-          "H": "16",
-          "HR": "2",
-          "BA": "..219",
-          "R": "8",
-          "RBI": "4",
-          "SB": "0",
-          "OBP": "..288",
-          "SLG": "..356",
-          "OPS": "..644",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Andrew Knizner has produced  career WAR with 21 home runs, 202 hits, and a ..212 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "202",
-          "HR": "21",
-          "BA": "..212",
-          "R": "109",
-          "RBI": "94",
-          "SB": "4",
-          "OBP": "..281",
-          "SLG": "..319",
-          "OPS": "..600",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "683627",
@@ -10360,7 +10233,7 @@
       "team": "TB",
       "current_season": {
         "season": 2026,
-        "summary": "Jonathan Aranda is currently 19th in RBI this season.",
+        "summary": "Jonathan Aranda is currently 18th in RBI this season.",
         "stat_card": {
           "WAR": "",
           "AB": "580",
@@ -13730,7 +13603,7 @@
       "team": "TOR",
       "current_season": {
         "season": 2026,
-        "summary": "Kazuma Okamoto is currently 10th in home runs and 19th in RBI this season.",
+        "summary": "Kazuma Okamoto is currently 10th in home runs and 18th in RBI this season.",
         "stat_card": {
           "WAR": "",
           "AB": "568",
@@ -15294,103 +15167,6 @@
         }
       ],
       "rc_year": 2022
-    },
-    {
-      "player_id": "605137",
-      "player_name": "Josh Bell",
-      "team": "MIN",
-      "current_season": {
-        "season": 2026,
-        "summary": "Josh Bell is currently 12th in RBI this season.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "568",
-          "H": "145",
-          "HR": "21",
-          "BA": "..255",
-          "R": "78",
-          "RBI": "96",
-          "SB": "2",
-          "OBP": "..319",
-          "SLG": "..419",
-          "OPS": "..738",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Josh Bell has produced  career WAR with 214 home runs, 1298 hits, and a ..256 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "1298",
-          "HR": "214",
-          "BA": "..256",
-          "R": "682",
-          "RBI": "772",
-          "SB": "6",
-          "OBP": "..339",
-          "SLG": "..441",
-          "OPS": "..780",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
-        },
-        {
-          "year": 2017,
-          "label": "2017",
-          "is_rc_year": false
-        },
-        {
-          "year": 2016,
-          "label": "2016",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "701785",
@@ -18849,7 +18625,7 @@
       "team": "ATL",
       "current_season": {
         "season": 2026,
-        "summary": "Matt Olson is currently 6th in home runs, 16th in RBI, and 12th in runs this season.",
+        "summary": "Matt Olson is currently 6th in home runs, 15th in RBI, and 12th in runs this season.",
         "stat_card": {
           "WAR": "",
           "AB": "625",
@@ -21055,7 +20831,7 @@
       "team": "CWS",
       "current_season": {
         "season": 2026,
-        "summary": "Miguel Vargas is currently 10th in home runs, 16th in RBI, and 2nd in runs this season.",
+        "summary": "Miguel Vargas is currently 10th in home runs, 15th in RBI, and 2nd in runs this season.",
         "stat_card": {
           "WAR": "",
           "AB": "588",
@@ -24244,7 +24020,7 @@
       "team": "NYY",
       "current_season": {
         "season": 2026,
-        "summary": "Luis García Jr. is currently 15th in home runs and 19th in RBI this season.",
+        "summary": "Luis García Jr. is currently 15th in home runs and 18th in RBI this season.",
         "stat_card": {
           "WAR": "",
           "AB": "516",
@@ -25485,81 +25261,6 @@
       "rc_year": 2024
     },
     {
-      "player_id": "669160",
-      "player_name": "Dustin May",
-      "team": "MIL",
-      "current_season": null,
-      "career": {
-        "summary": "Dustin May has produced  career WAR with 0 home runs, 1 hits, and a ..071 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "1",
-          "HR": "0",
-          "BA": "..071",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..071",
-          "SLG": "..071",
-          "OPS": "..142",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
-        },
-        {
-          "year": 2017,
-          "label": "2017",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
-    {
       "player_id": "669003",
       "player_name": "Garrett Mitchell",
       "team": "MIL",
@@ -26179,7 +25880,7 @@
       "team": "MIL",
       "current_season": {
         "season": 2026,
-        "summary": "William Contreras is currently 13th in RBI this season.",
+        "summary": "William Contreras is currently 12th in RBI this season.",
         "stat_card": {
           "WAR": "",
           "AB": "566",
@@ -26658,6 +26359,36 @@
       "rc_year": 2025
     },
     {
+      "player_id": "686799",
+      "player_name": "Jack Kochanowicz",
+      "team": "LAA",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2025
+    },
+    {
       "player_id": "820862",
       "player_name": "José Fermin",
       "team": "LAA",
@@ -27081,6 +26812,15 @@
         }
       ],
       "rc_year": 2025
+    },
+    {
+      "player_id": "695950",
+      "player_name": "Nicolo Pinazzi",
+      "team": "LAA",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
     },
     {
       "player_id": "694384",
@@ -32676,86 +32416,6 @@
       "rc_year": 2022
     },
     {
-      "player_id": "543243",
-      "player_name": "Sonny Gray",
-      "team": "BOS",
-      "current_season": null,
-      "career": {
-        "summary": "Sonny Gray has produced  career WAR with 0 home runs, 14 hits, and a ..141 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "14",
-          "HR": "0",
-          "BA": "..141",
-          "R": "8",
-          "RBI": "3",
-          "SB": "0",
-          "OBP": "..167",
-          "SLG": "..162",
-          "OPS": "..329",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
-        },
-        {
-          "year": 2017,
-          "label": "2017",
-          "is_rc_year": false
-        },
-        {
-          "year": 2016,
-          "label": "2016",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
-    {
       "player_id": "656557",
       "player_name": "Tanner Houck",
       "team": "BOS",
@@ -33140,7 +32800,7 @@
       "team": "CHC",
       "current_season": {
         "season": 2026,
-        "summary": "Alex Bregman is currently 19th in hits and 16th in RBI this season.",
+        "summary": "Alex Bregman is currently 19th in hits and 15th in RBI this season.",
         "stat_card": {
           "WAR": "",
           "AB": "608",
@@ -33395,98 +33055,6 @@
         {
           "year": 2022,
           "label": "2022",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
-    {
-      "player_id": "608348",
-      "player_name": "Carson Kelly",
-      "team": "CHC",
-      "current_season": {
-        "season": 2026,
-        "summary": "Carson Kelly is having a season highlighted by 10 home runs, ..258 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "380",
-          "H": "98",
-          "HR": "10",
-          "BA": "..258",
-          "R": "57",
-          "RBI": "58",
-          "SB": "0",
-          "OBP": "..336",
-          "SLG": "..376",
-          "OPS": "..712",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Carson Kelly has produced  career WAR with 81 home runs, 547 hits, and a ..234 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "547",
-          "HR": "81",
-          "BA": "..234",
-          "R": "295",
-          "RBI": "315",
-          "SB": "5",
-          "OBP": "..316",
-          "SLG": "..382",
-          "OPS": "..698",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
-        },
-        {
-          "year": 2017,
-          "label": "2017",
           "is_rc_year": false
         }
       ],
@@ -34365,71 +33933,6 @@
         }
       ],
       "rc_year": 2025
-    },
-    {
-      "player_id": "571510",
-      "player_name": "Matthew Boyd",
-      "team": "CHC",
-      "current_season": null,
-      "career": {
-        "summary": "Matthew Boyd has produced  career WAR with 0 home runs, 3 hits, and a ..300 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "3",
-          "HR": "0",
-          "BA": "..300",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..364",
-          "SLG": "..300",
-          "OPS": "..664",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "683737",
@@ -37592,7 +37095,7 @@
       "team": "CLE",
       "current_season": {
         "season": 2026,
-        "summary": "Jo Adell is currently 13th in RBI this season.",
+        "summary": "Jo Adell is currently 12th in RBI this season.",
         "stat_card": {
           "WAR": "",
           "AB": "603",
@@ -38005,6 +37508,31 @@
       "rc_year": null
     },
     {
+      "player_id": "675455",
+      "player_name": "Milan Tolentino",
+      "team": "CLE",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "800048",
       "player_name": "Parker Messick",
       "team": "CLE",
@@ -38197,46 +37725,6 @@
         }
       ],
       "rc_year": 2026
-    },
-    {
-      "player_id": "542888",
-      "player_name": "Shawn Armstrong",
-      "team": "CLE",
-      "current_season": null,
-      "career": {
-        "summary": "Shawn Armstrong has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..000",
-          "SLG": "..000",
-          "OPS": "..000",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2016,
-          "label": "2016 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2016
     },
     {
       "player_id": "677944",
@@ -42277,7 +41765,7 @@
       "team": "HOU",
       "current_season": {
         "season": 2026,
-        "summary": "Isaac Paredes is currently 13th in RBI this season.",
+        "summary": "Isaac Paredes is currently 12th in RBI this season.",
         "stat_card": {
           "WAR": "",
           "AB": "562",
