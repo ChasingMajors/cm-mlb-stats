@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T15:22:17.034Z",
+  "updated_at": "2026-11-01T16:05:23.781Z",
   "season": 2026,
   "players": [
     {
@@ -29208,36 +29208,6 @@
       "rc_year": null
     },
     {
-      "player_id": "544150",
-      "player_name": "Albert Suárez",
-      "team": "BAL",
-      "current_season": null,
-      "career": {
-        "summary": "Albert Suárez has produced  career WAR with 0 home runs, 4 hits, and a ..174 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "4",
-          "HR": "0",
-          "BA": "..174",
-          "R": "1",
-          "RBI": "2",
-          "SB": "0",
-          "OBP": "..174",
-          "SLG": "..261",
-          "OPS": "..435",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
-    {
       "player_id": "695380",
       "player_name": "Alex Hoppe",
       "team": "BAL",
@@ -29661,41 +29631,6 @@
         }
       ],
       "rc_year": 2025
-    },
-    {
-      "player_id": "676051",
-      "player_name": "Codi Heuer",
-      "team": "BAL",
-      "current_season": null,
-      "career": {
-        "summary": "Codi Heuer has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..000",
-          "SLG": "..000",
-          "OPS": "..000",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2021,
-          "label": "2021 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2021
     },
     {
       "player_id": "681297",
@@ -30205,53 +30140,6 @@
       "rc_year": 2026
     },
     {
-      "player_id": "676480",
-      "player_name": "José Barrero",
-      "team": "BAL",
-      "current_season": {
-        "season": 2026,
-        "summary": "José Barrero is having a season highlighted by 0 home runs, ..167 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "6",
-          "H": "1",
-          "HR": "0",
-          "BA": "..167",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..167",
-          "SLG": "..167",
-          "OPS": "..334",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "José Barrero has produced  career WAR with 5 home runs, 82 hits, and a ..182 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "82",
-          "HR": "5",
-          "BA": "..182",
-          "R": "40",
-          "RBI": "35",
-          "SB": "9",
-          "OBP": "..238",
-          "SLG": "..256",
-          "OPS": "..494",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
-    {
       "player_id": "677020",
       "player_name": "Josh Walker",
       "team": "BAL",
@@ -30367,68 +30255,6 @@
         {
           "year": 2024,
           "label": "2024",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
-    {
-      "player_id": "673357",
-      "player_name": "Luis Robert Jr.",
-      "team": "BAL",
-      "current_season": {
-        "season": 2026,
-        "summary": "Luis Robert Jr. is having a season highlighted by 11 home runs, ..221 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "204",
-          "H": "45",
-          "HR": "11",
-          "BA": "..221",
-          "R": "26",
-          "RBI": "26",
-          "SB": "2",
-          "OBP": "..300",
-          "SLG": "..407",
-          "OPS": "..707",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Luis Robert Jr. has produced  career WAR with 113 home runs, 610 hits, and a ..256 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "610",
-          "HR": "113",
-          "BA": "..256",
-          "R": "344",
-          "RBI": "324",
-          "SB": "104",
-          "OBP": "..312",
-          "SLG": "..450",
-          "OPS": "..762",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
           "is_rc_year": false
         }
       ],
@@ -34966,103 +34792,6 @@
       "rc_year": 2024
     },
     {
-      "player_id": "641941",
-      "player_name": "Emilio Pagán",
-      "team": "CIN",
-      "current_season": null,
-      "career": {
-        "summary": "Emilio Pagán has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..000",
-          "SLG": "..000",
-          "OPS": "..000",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
-    {
-      "player_id": "553993",
-      "player_name": "Eugenio Suárez",
-      "team": "CIN",
-      "current_season": {
-        "season": 2026,
-        "summary": "Eugenio Suárez is having a season highlighted by 26 home runs, ..212 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "434",
-          "H": "92",
-          "HR": "26",
-          "BA": "..212",
-          "R": "50",
-          "RBI": "74",
-          "SB": "1",
-          "OBP": "..307",
-          "SLG": "..433",
-          "OPS": "..740",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Eugenio Suárez has produced  career WAR with 351 home runs, 1526 hits, and a ..244 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "1526",
-          "HR": "351",
-          "BA": "..244",
-          "R": "881",
-          "RBI": "1023",
-          "SB": "37",
-          "OBP": "..326",
-          "SLG": "..462",
-          "OPS": "..788",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
-    {
       "player_id": "668933",
       "player_name": "Graham Ashcraft",
       "team": "CIN",
@@ -35846,46 +35575,6 @@
         }
       ],
       "rc_year": 2023
-    },
-    {
-      "player_id": "572955",
-      "player_name": "Pierce Johnson",
-      "team": "CIN",
-      "current_season": null,
-      "career": {
-        "summary": "Pierce Johnson has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..000",
-          "SLG": "..000",
-          "OPS": "..000",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2017,
-          "label": "2017",
-          "is_rc_year": false
-        },
-        {
-          "year": 2016,
-          "label": "2016",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "695076",
