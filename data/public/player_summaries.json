@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T16:05:23.781Z",
+  "updated_at": "2026-11-02T19:32:03.453Z",
   "season": 2026,
   "players": [
     {
@@ -7414,63 +7414,6 @@
       "rc_year": null
     },
     {
-      "player_id": "801501",
-      "player_name": "Nate Furman",
-      "team": "SF",
-      "current_season": {
-        "season": 2026,
-        "summary": "Nate Furman is having a season highlighted by 0 home runs, ..125 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "32",
-          "H": "4",
-          "HR": "0",
-          "BA": "..125",
-          "R": "2",
-          "RBI": "3",
-          "SB": "0",
-          "OBP": "..243",
-          "SLG": "..125",
-          "OPS": "..368",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Nate Furman has produced  career WAR with 0 home runs, 4 hits, and a ..125 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "4",
-          "HR": "0",
-          "BA": "..125",
-          "R": "2",
-          "RBI": "3",
-          "SB": "0",
-          "OBP": "..243",
-          "SLG": "..125",
-          "OPS": "..368",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
-    {
       "player_id": "665665",
       "player_name": "Reiver Sanmartin",
       "team": "SF",
@@ -11115,6 +11058,15 @@
           "is_rc_year": false
         }
       ],
+      "rc_year": null
+    },
+    {
+      "player_id": "695778",
+      "player_name": "Aidan Curry",
+      "team": "TEX",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
       "rc_year": null
     },
     {
@@ -47611,6 +47563,63 @@
       "rc_year": 2024
     },
     {
+      "player_id": "801501",
+      "player_name": "Nate Furman",
+      "team": "WSH",
+      "current_season": {
+        "season": 2026,
+        "summary": "Nate Furman is having a season highlighted by 0 home runs, ..125 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "32",
+          "H": "4",
+          "HR": "0",
+          "BA": "..125",
+          "R": "2",
+          "RBI": "3",
+          "SB": "0",
+          "OBP": "..243",
+          "SLG": "..125",
+          "OPS": "..368",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Nate Furman has produced  career WAR with 0 home runs, 4 hits, and a ..125 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "4",
+          "HR": "0",
+          "BA": "..125",
+          "R": "2",
+          "RBI": "3",
+          "SB": "0",
+          "OBP": "..243",
+          "SLG": "..125",
+          "OPS": "..368",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "687377",
       "player_name": "Orlando Ribalta",
       "team": "WSH",
@@ -47703,36 +47712,6 @@
         }
       ],
       "rc_year": 2025
-    },
-    {
-      "player_id": "663992",
-      "player_name": "Richard Lovelady",
-      "team": "WSH",
-      "current_season": null,
-      "career": {
-        "summary": "Richard Lovelady has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..000",
-          "SLG": "..000",
-          "OPS": "..000",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "683000",
