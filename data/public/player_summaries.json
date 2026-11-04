@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T17:07:27.845Z",
+  "updated_at": "2026-11-04T17:19:16.973Z",
   "season": 2026,
   "players": [
     {
@@ -9303,6 +9303,21 @@
       "rc_year": null
     },
     {
+      "player_id": "700842",
+      "player_name": "Eduardo Rivera",
+      "team": "STL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "677592",
       "player_name": "Everson Pereira",
       "team": "STL",
@@ -13901,53 +13916,6 @@
         }
       ],
       "rc_year": 2018
-    },
-    {
-      "player_id": "680737",
-      "player_name": "Michael Helman",
-      "team": "TEX",
-      "current_season": {
-        "season": 2026,
-        "summary": "Michael Helman is having a season highlighted by 1 home runs, ..167 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "30",
-          "H": "5",
-          "HR": "1",
-          "BA": "..167",
-          "R": "2",
-          "RBI": "2",
-          "SB": "0",
-          "OBP": "..235",
-          "SLG": "..300",
-          "OPS": "..535",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Michael Helman has produced  career WAR with 6 home runs, 31 hits, and a ..223 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "31",
-          "HR": "6",
-          "BA": "..223",
-          "R": "22",
-          "RBI": "22",
-          "SB": "4",
-          "OBP": "..278",
-          "SLG": "..424",
-          "OPS": "..702",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025 (RC)",
-          "is_rc_year": true
-        }
-      ],
-      "rc_year": 2025
     },
     {
       "player_id": "671305",
@@ -23426,26 +23394,6 @@
         }
       ],
       "rc_year": 2022
-    },
-    {
-      "player_id": "687134",
-      "player_name": "Bradley Blalock",
-      "team": "MIA",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2025
     },
     {
       "player_id": "684049",
