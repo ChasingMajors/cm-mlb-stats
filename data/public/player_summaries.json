@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T16:49:10.081Z",
+  "updated_at": "2026-11-07T15:43:13.549Z",
   "season": 2026,
   "players": [
     {
@@ -39440,6 +39440,63 @@
       "rc_year": null
     },
     {
+      "player_id": "677588",
+      "player_name": "José Tena",
+      "team": "CLE",
+      "current_season": {
+        "season": 2026,
+        "summary": "José Tena is having a season highlighted by 7 home runs, ..222 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "257",
+          "H": "57",
+          "HR": "7",
+          "BA": "..222",
+          "R": "36",
+          "RBI": "25",
+          "SB": "6",
+          "OBP": "..302",
+          "SLG": "..370",
+          "OPS": "..672",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "José Tena has produced  career WAR with 10 home runs, 144 hits, and a ..240 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "144",
+          "HR": "10",
+          "BA": "..240",
+          "R": "71",
+          "RBI": "59",
+          "SB": "15",
+          "OBP": "..303",
+          "SLG": "..358",
+          "OPS": "..661",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2024,
+          "label": "2024 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2024
+    },
+    {
       "player_id": "696135",
       "player_name": "Kahlil Watson",
       "team": "CLE",
@@ -50643,31 +50700,6 @@
       "rc_year": 2018
     },
     {
-      "player_id": "693312",
-      "player_name": "Kyle Nicolas",
-      "team": "WSH",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2024,
-          "label": "2024 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2024
-    },
-    {
       "player_id": "691384",
       "player_name": "Luis Perales",
       "team": "WSH",
@@ -50862,6 +50894,36 @@
         }
       ],
       "rc_year": 2025
+    },
+    {
+      "player_id": "665665",
+      "player_name": "Reiver Sanmartin",
+      "team": "WSH",
+      "current_season": null,
+      "career": {
+        "summary": "Reiver Sanmartin has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2022,
+          "label": "2022 (RC)",
+          "is_rc_year": true
+        }
+      ],
+      "rc_year": 2022
     },
     {
       "player_id": "683000",
