@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T19:54:54.668Z",
+  "updated_at": "2026-11-10T17:05:31.838Z",
   "season": 2026,
   "players": [
     {
@@ -47658,6 +47658,31 @@
         }
       },
       "checklist_years": [
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
+      "player_id": "686551",
+      "player_name": "Christian Cairo",
+      "team": "LAD",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        },
         {
           "year": 2017,
           "label": "2017",
