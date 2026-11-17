@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T19:40:42.214Z",
+  "updated_at": "2026-11-17T18:38:08.537Z",
   "season": 2026,
   "players": [
     {
@@ -32347,68 +32347,6 @@
         }
       ],
       "rc_year": null
-    },
-    {
-      "player_id": "677956",
-      "player_name": "Rece Hinds",
-      "team": "BAL",
-      "current_season": {
-        "season": 2026,
-        "summary": "Rece Hinds is having a season highlighted by 0 home runs, ..143 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "63",
-          "H": "9",
-          "HR": "0",
-          "BA": "..143",
-          "R": "2",
-          "RBI": "6",
-          "SB": "0",
-          "OBP": "..211",
-          "SLG": "..222",
-          "OPS": "..433",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Rece Hinds has produced  career WAR with 7 home runs, 26 hits, and a ..171 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "26",
-          "HR": "7",
-          "BA": "..171",
-          "R": "17",
-          "RBI": "20",
-          "SB": "2",
-          "OBP": "..229",
-          "SLG": "..388",
-          "OPS": "..617",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2025
     },
     {
       "player_id": "701655",
