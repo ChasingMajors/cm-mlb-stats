@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T18:38:08.537Z",
+  "updated_at": "2026-11-18T18:08:45.167Z",
   "season": 2026,
   "players": [
     {
@@ -63,21 +63,6 @@
         }
       ],
       "rc_year": 2024
-    },
-    {
-      "player_id": "804556",
-      "player_name": "Braden Nett",
-      "team": "ATH",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "669620",
@@ -261,6 +246,15 @@
           "is_rc_year": false
         }
       ],
+      "rc_year": null
+    },
+    {
+      "player_id": "813833",
+      "player_name": "Cole Conn",
+      "team": "ATH",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
       "rc_year": null
     },
     {
@@ -533,26 +527,6 @@
         }
       ],
       "rc_year": 2025
-    },
-    {
-      "player_id": "696522",
-      "player_name": "Hayden Juenger",
-      "team": "ATH",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "703607",
@@ -1388,6 +1362,21 @@
       "rc_year": 2025
     },
     {
+      "player_id": "670103",
+      "player_name": "Raymond Burgos",
+      "team": "ATH",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025 (RC)",
+          "is_rc_year": true
+        }
+      ],
+      "rc_year": 2025
+    },
+    {
       "player_id": "656240",
       "player_name": "Scott Blewett",
       "team": "ATH",
@@ -1659,8 +1648,8 @@
       "rc_year": 2024
     },
     {
-      "player_id": "814305",
-      "player_name": "Yunior Tur",
+      "player_id": "700072",
+      "player_name": "Yaqui Rivera",
       "team": "ATH",
       "current_season": null,
       "career": null,
@@ -1806,6 +1795,21 @@
       "current_season": null,
       "career": null,
       "checklist_years": [],
+      "rc_year": null
+    },
+    {
+      "player_id": "800208",
+      "player_name": "Axiel Plaz",
+      "team": "PIT",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -2893,6 +2897,36 @@
         }
       ],
       "rc_year": 2025
+    },
+    {
+      "player_id": "694991",
+      "player_name": "Mitch Jebb",
+      "team": "PIT",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
     },
     {
       "player_id": "656605",
@@ -4130,6 +4164,15 @@
       "rc_year": 2024
     },
     {
+      "player_id": "701617",
+      "player_name": "Ian Koenig",
+      "team": "SD",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
       "player_id": "676664",
       "player_name": "JP Sears",
       "team": "SD",
@@ -5007,6 +5050,15 @@
       "rc_year": 2026
     },
     {
+      "player_id": "814491",
+      "player_name": "Tucker Musgrove",
+      "team": "SD",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
       "player_id": "593974",
       "player_name": "Wandy Peralta",
       "team": "SD",
@@ -5500,46 +5552,6 @@
         }
       ],
       "rc_year": 2024
-    },
-    {
-      "player_id": "682243",
-      "player_name": "Bryce Miller",
-      "team": "SEA",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2023,
-          "label": "2023 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2023
     },
     {
       "player_id": "663728",
@@ -6153,6 +6165,36 @@
       "rc_year": null
     },
     {
+      "player_id": "663704",
+      "player_name": "James McArthur",
+      "team": "SEA",
+      "current_season": null,
+      "career": {
+        "summary": "James McArthur has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2024,
+          "label": "2024 (RC)",
+          "is_rc_year": true
+        }
+      ],
+      "rc_year": 2024
+    },
+    {
       "player_id": "640902",
       "player_name": "Jhonny Pereda",
       "team": "SEA",
@@ -6198,30 +6240,6 @@
         }
       ],
       "rc_year": 2024
-    },
-    {
-      "player_id": "678606",
-      "player_name": "José A. Ferrer",
-      "team": "SEA",
-      "current_season": null,
-      "career": {
-        "summary": "José A. Ferrer has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..000",
-          "SLG": "..000",
-          "OPS": "..000",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [],
-      "rc_year": null
     },
     {
       "player_id": "647304",
@@ -6527,21 +6545,6 @@
       "rc_year": 2024
     },
     {
-      "player_id": "688138",
-      "player_name": "Logan Evans",
-      "team": "SEA",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025 (RC)",
-          "is_rc_year": true
-        }
-      ],
-      "rc_year": 2025
-    },
-    {
       "player_id": "669302",
       "player_name": "Logan Gilbert",
       "team": "SEA",
@@ -6662,6 +6665,73 @@
         }
       ],
       "rc_year": 2021
+    },
+    {
+      "player_id": "672580",
+      "player_name": "Maikel Garcia",
+      "team": "SEA",
+      "current_season": {
+        "season": 2026,
+        "summary": "Maikel Garcia is having a season highlighted by 3 home runs, ..268 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "310",
+          "H": "83",
+          "HR": "3",
+          "BA": "..268",
+          "R": "40",
+          "RBI": "38",
+          "SB": "5",
+          "OBP": "..334",
+          "SLG": "..381",
+          "OPS": "..715",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Maikel Garcia has produced  career WAR with 30 home runs, 519 hits, and a ..264 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "519",
+          "HR": "30",
+          "BA": "..264",
+          "R": "265",
+          "RBI": "222",
+          "SB": "88",
+          "OBP": "..322",
+          "SLG": "..381",
+          "OPS": "..703",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2023
     },
     {
       "player_id": "666374",
@@ -7475,63 +7545,6 @@
       "rc_year": null
     },
     {
-      "player_id": "683766",
-      "player_name": "Christian Koss",
-      "team": "SF",
-      "current_season": {
-        "season": 2026,
-        "summary": "Christian Koss is having a season highlighted by 4 home runs, ..217 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "203",
-          "H": "44",
-          "HR": "4",
-          "BA": "..217",
-          "R": "27",
-          "RBI": "12",
-          "SB": "5",
-          "OBP": "..257",
-          "SLG": "..305",
-          "OPS": "..562",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Christian Koss has produced  career WAR with 7 home runs, 90 hits, and a ..239 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "90",
-          "HR": "7",
-          "BA": "..239",
-          "R": "52",
-          "RBI": "35",
-          "SB": "9",
-          "OBP": "..281",
-          "SLG": "..334",
-          "OPS": "..615",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2025
-    },
-    {
       "player_id": "691740",
       "player_name": "Daniel Susac",
       "team": "SF",
@@ -7906,6 +7919,21 @@
       "rc_year": 2025
     },
     {
+      "player_id": "700649",
+      "player_name": "Henry Lalane",
+      "team": "SF",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "683679",
       "player_name": "Jesus Rodriguez",
       "team": "SF",
@@ -8027,6 +8055,15 @@
           "is_rc_year": false
         }
       ],
+      "rc_year": null
+    },
+    {
+      "player_id": "701241",
+      "player_name": "Josh Bostick",
+      "team": "SF",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
       "rc_year": null
     },
     {
@@ -8311,6 +8348,15 @@
       "rc_year": 2025
     },
     {
+      "player_id": "700248",
+      "player_name": "Marty Gair",
+      "team": "SF",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
       "player_id": "656305",
       "player_name": "Matt Chapman",
       "team": "SF",
@@ -8558,41 +8604,6 @@
         }
       ],
       "rc_year": 2024
-    },
-    {
-      "player_id": "592858",
-      "player_name": "Rowan Wick",
-      "team": "SF",
-      "current_season": null,
-      "career": {
-        "summary": "Rowan Wick has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..000",
-          "SLG": "..000",
-          "OPS": "..000",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "656529",
@@ -9600,6 +9611,24 @@
       "rc_year": 2026
     },
     {
+      "player_id": "813838",
+      "player_name": "Jacob Odle",
+      "team": "STL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
+      "player_id": "800305",
+      "player_name": "Jesús  Báez",
+      "team": "STL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
       "player_id": "699625",
       "player_name": "Jimmy Crooks",
       "team": "STL",
@@ -10127,41 +10156,6 @@
         }
       ],
       "rc_year": 2018
-    },
-    {
-      "player_id": "691008",
-      "player_name": "Max Rajcic",
-      "team": "STL",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "700241",
@@ -12424,6 +12418,36 @@
       "rc_year": 2025
     },
     {
+      "player_id": "800060",
+      "player_name": "Xavier Isaac",
+      "team": "TB",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "650490",
       "player_name": "Yandy Díaz",
       "team": "TB",
@@ -13635,6 +13659,31 @@
       "rc_year": 2023
     },
     {
+      "player_id": "687985",
+      "player_name": "Josh White",
+      "team": "TEX",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "679822",
       "player_name": "Justin Foscue",
       "team": "TEX",
@@ -14700,6 +14749,15 @@
       "rc_year": null
     },
     {
+      "player_id": "806413",
+      "player_name": "Daniel Guerra",
+      "team": "TOR",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
       "player_id": "676914",
       "player_name": "Davis Schneider",
       "team": "TOR",
@@ -15335,6 +15393,30 @@
         }
       ],
       "rc_year": 2023
+    },
+    {
+      "player_id": "804526",
+      "player_name": "Nolan Perry",
+      "team": "TOR",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
+      "player_id": "702302",
+      "player_name": "RJ Schreck",
+      "team": "TOR",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
     },
     {
       "player_id": "694357",
@@ -17211,6 +17293,93 @@
       "rc_year": 2018
     },
     {
+      "player_id": "680777",
+      "player_name": "Ryan Jeffers",
+      "team": "MIN",
+      "current_season": {
+        "season": 2026,
+        "summary": "Ryan Jeffers is having a season highlighted by 14 home runs, ..256 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "317",
+          "H": "81",
+          "HR": "14",
+          "BA": "..256",
+          "R": "49",
+          "RBI": "56",
+          "SB": "1",
+          "OBP": "..353",
+          "SLG": "..461",
+          "OPS": "..814",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Ryan Jeffers has produced  career WAR with 82 home runs, 473 hits, and a ..242 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "473",
+          "HR": "82",
+          "BA": "..242",
+          "R": "256",
+          "RBI": "279",
+          "SB": "8",
+          "OBP": "..327",
+          "SLG": "..426",
+          "OPS": "..753",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2021,
+          "label": "2021 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2021
+    },
+    {
       "player_id": "668952",
       "player_name": "Ryan Kreidler",
       "team": "MIN",
@@ -18073,6 +18242,21 @@
         }
       ],
       "rc_year": 2022
+    },
+    {
+      "player_id": "804858",
+      "player_name": "Bryan Rincon",
+      "team": "PHI",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
     },
     {
       "player_id": "547180",
@@ -19938,6 +20122,30 @@
       "rc_year": 2022
     },
     {
+      "player_id": "671382",
+      "player_name": "Cameron Foster",
+      "team": "ATL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
+      "player_id": "678142",
+      "player_name": "Cedric De Grandpre",
+      "team": "ATL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
       "player_id": "519242",
       "player_name": "Chris Sale",
       "team": "ATL",
@@ -20031,6 +20239,15 @@
         }
       ],
       "rc_year": 2022
+    },
+    {
+      "player_id": "805175",
+      "player_name": "Davis Polo",
+      "team": "ATL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
     },
     {
       "player_id": "800311",
@@ -22276,91 +22493,19 @@
       "rc_year": null
     },
     {
-      "player_id": "663698",
-      "player_name": "Joey Bart",
+      "player_id": "692243",
+      "player_name": "Jaden Woods",
       "team": "CWS",
-      "current_season": {
-        "season": 2026,
-        "summary": "Joey Bart is having a season highlighted by 4 home runs, ..214 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "112",
-          "H": "24",
-          "HR": "4",
-          "BA": "..214",
-          "R": "13",
-          "RBI": "13",
-          "SB": "0",
-          "OBP": "..305",
-          "SLG": "..357",
-          "OPS": "..662",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Joey Bart has produced  career WAR with 32 home runs, 262 hits, and a ..237 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "262",
-          "HR": "32",
-          "BA": "..237",
-          "R": "131",
-          "RBI": "126",
-          "SB": "3",
-          "OBP": "..319",
-          "SLG": "..368",
-          "OPS": "..687",
-          "OPS+": ""
-        }
-      },
+      "current_season": null,
+      "career": null,
       "checklist_years": [
-        {
-          "year": 2021,
-          "label": "2021 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
         {
           "year": 2023,
           "label": "2023",
           "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
         }
       ],
-      "rc_year": 2021
+      "rc_year": null
     },
     {
       "player_id": "686563",
@@ -23269,6 +23414,15 @@
       "rc_year": null
     },
     {
+      "player_id": "703151",
+      "player_name": "William Bergolla Jr.",
+      "team": "CWS",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
       "player_id": "800049",
       "player_name": "Adam Mazur",
       "team": "MIA",
@@ -23408,6 +23562,15 @@
     {
       "player_id": "684049",
       "player_name": "Brandan Bidois",
+      "team": "MIA",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
+      "player_id": "681449",
+      "player_name": "Brandon White",
       "team": "MIA",
       "current_season": null,
       "career": null,
@@ -23581,6 +23744,15 @@
         }
       ],
       "rc_year": 2026
+    },
+    {
+      "player_id": "803244",
+      "player_name": "Eliazar Dishmey",
+      "team": "MIA",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
     },
     {
       "player_id": "665923",
@@ -23792,6 +23964,15 @@
         }
       ],
       "rc_year": 2026
+    },
+    {
+      "player_id": "689476",
+      "player_name": "Jace Beck",
+      "team": "MIA",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
     },
     {
       "player_id": "667652",
@@ -24063,6 +24244,15 @@
           "is_rc_year": false
         }
       ],
+      "rc_year": null
+    },
+    {
+      "player_id": "801276",
+      "player_name": "Juan Matheus",
+      "team": "MIA",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
       "rc_year": null
     },
     {
@@ -25226,6 +25416,26 @@
       "rc_year": 2026
     },
     {
+      "player_id": "801739",
+      "player_name": "Carlos Lagrange",
+      "team": "NYY",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "607074",
       "player_name": "Carlos Rodón",
       "team": "NYY",
@@ -25265,6 +25475,36 @@
         {
           "year": 2023,
           "label": "2023",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
+      "player_id": "694633",
+      "player_name": "Chase Hampton",
+      "team": "NYY",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
           "is_rc_year": false
         }
       ],
@@ -25438,6 +25678,73 @@
       "rc_year": 2018
     },
     {
+      "player_id": "670280",
+      "player_name": "David Bednar",
+      "team": "NYY",
+      "current_season": {
+        "season": 2026,
+        "summary": "David Bednar is having a season highlighted by 0 home runs, ..000 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "0",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "David Bednar has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "695684",
       "player_name": "Elmer Rodríguez",
       "team": "NYY",
@@ -25513,6 +25820,15 @@
         }
       ],
       "rc_year": 2024
+    },
+    {
+      "player_id": "682003",
+      "player_name": "Garrett Martin",
+      "team": "NYY",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
     },
     {
       "player_id": "806146",
@@ -26050,6 +26366,26 @@
         }
       ],
       "rc_year": 2022
+    },
+    {
+      "player_id": "694805",
+      "player_name": "Kyle Carr",
+      "team": "NYY",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
     },
     {
       "player_id": "671277",
@@ -26973,6 +27309,15 @@
       "rc_year": 2023
     },
     {
+      "player_id": "687726",
+      "player_name": "Cameron Wagoner",
+      "team": "MIL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
       "player_id": "592885",
       "player_name": "Christian Yelich",
       "team": "MIL",
@@ -27276,6 +27621,15 @@
       "rc_year": 2024
     },
     {
+      "player_id": "802506",
+      "player_name": "Dylan O'Rae",
+      "team": "MIL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
       "player_id": "669003",
       "player_name": "Garrett Mitchell",
       "team": "MIL",
@@ -27458,6 +27812,41 @@
         }
       ],
       "rc_year": 2026
+    },
+    {
+      "player_id": "702518",
+      "player_name": "Jett Williams",
+      "team": "MIL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
     },
     {
       "player_id": "687401",
@@ -27654,6 +28043,46 @@
       "rc_year": null
     },
     {
+      "player_id": "702726",
+      "player_name": "Luke Adams",
+      "team": "MIL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
+      "player_id": "687783",
+      "player_name": "Matthew Wood",
+      "team": "MIL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "688107",
       "player_name": "Robert Gasser",
       "team": "MIL",
@@ -27813,6 +28242,15 @@
           "is_rc_year": false
         }
       ],
+      "rc_year": null
+    },
+    {
+      "player_id": "804249",
+      "player_name": "Tate Kuehner",
+      "team": "MIL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
       "rc_year": null
     },
     {
@@ -28807,6 +29245,31 @@
       "rc_year": 2025
     },
     {
+      "player_id": "703185",
+      "player_name": "Nelson Rada",
+      "team": "LAA",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "695950",
       "player_name": "Nicolo Pinazzi",
       "team": "LAA",
@@ -28953,6 +29416,21 @@
         }
       ],
       "rc_year": 2023
+    },
+    {
+      "player_id": "804558",
+      "player_name": "Raudi Rodriguez",
+      "team": "LAA",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
     },
     {
       "player_id": "672282",
@@ -29595,6 +30073,26 @@
       "rc_year": 2024
     },
     {
+      "player_id": "802416",
+      "player_name": "Ashton Izzi",
+      "team": "AZ",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "686796",
       "player_name": "Blake Walston",
       "team": "AZ",
@@ -29899,6 +30397,51 @@
       "rc_year": 2025
     },
     {
+      "player_id": "800198",
+      "player_name": "Cristofer Torin",
+      "team": "AZ",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
+      "player_id": "702679",
+      "player_name": "Demetrio Crisantes",
+      "team": "AZ",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "686753",
       "player_name": "Drey Jameson",
       "team": "AZ",
@@ -29937,6 +30480,46 @@
         }
       ],
       "rc_year": 2023
+    },
+    {
+      "player_id": "702258",
+      "player_name": "Druw Jones",
+      "team": "AZ",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
     },
     {
       "player_id": "691009",
@@ -30990,6 +31573,21 @@
       "rc_year": 2023
     },
     {
+      "player_id": "801517",
+      "player_name": "Spencer Giesting",
+      "team": "AZ",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "694374",
       "player_name": "Tim Tawa",
       "team": "AZ",
@@ -31171,6 +31769,21 @@
       "rc_year": 2025
     },
     {
+      "player_id": "800286",
+      "player_name": "Wellington Aracena",
+      "team": "AZ",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "695380",
       "player_name": "Alex Hoppe",
       "team": "BAL",
@@ -31195,6 +31808,21 @@
         {
           "year": 2026,
           "label": "2026",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
+      "player_id": "800406",
+      "player_name": "Aron Estrada",
+      "team": "BAL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025",
           "is_rc_year": false
         }
       ],
@@ -31293,6 +31921,15 @@
       "rc_year": 2025
     },
     {
+      "player_id": "688867",
+      "player_name": "Braxton Bragg",
+      "team": "BAL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
       "player_id": "700249",
       "player_name": "Cade Povich",
       "team": "BAL",
@@ -31336,21 +31973,6 @@
         }
       ],
       "rc_year": 2026
-    },
-    {
-      "player_id": "671382",
-      "player_name": "Cameron Foster",
-      "team": "BAL",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "665966",
@@ -31403,36 +32025,6 @@
         }
       ],
       "rc_year": 2025
-    },
-    {
-      "player_id": "694633",
-      "player_name": "Chase Hampton",
-      "team": "BAL",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "687952",
@@ -31775,6 +32367,36 @@
       "rc_year": 2026
     },
     {
+      "player_id": "690961",
+      "player_name": "Enrique Bradfield Jr.",
+      "team": "BAL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "642585",
       "player_name": "Félix Bautista",
       "team": "BAL",
@@ -32115,31 +32737,6 @@
       "rc_year": null
     },
     {
-      "player_id": "687985",
-      "player_name": "Josh White",
-      "team": "BAL",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
-    {
       "player_id": "680694",
       "player_name": "Kyle Bradish",
       "team": "BAL",
@@ -32212,6 +32809,21 @@
       "rc_year": 2022
     },
     {
+      "player_id": "694370",
+      "player_name": "Levi Wells",
+      "team": "BAL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "801725",
       "player_name": "Luis De León",
       "team": "BAL",
@@ -32221,6 +32833,39 @@
         {
           "year": 2024,
           "label": "2024",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
+      "player_id": "702650",
+      "player_name": "Michael Forret",
+      "team": "BAL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
+      "player_id": "815148",
+      "player_name": "Nestor German",
+      "team": "BAL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
+      "player_id": "694345",
+      "player_name": "Patrick Reilly",
+      "team": "BAL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023",
           "is_rc_year": false
         }
       ],
@@ -32317,36 +32962,6 @@
         }
       ],
       "rc_year": 2019
-    },
-    {
-      "player_id": "691769",
-      "player_name": "Philip Abner",
-      "team": "BAL",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "701655",
@@ -32773,15 +33388,6 @@
         }
       ],
       "rc_year": 2023
-    },
-    {
-      "player_id": "681439",
-      "player_name": "Zach Morgan",
-      "team": "BAL",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [],
-      "rc_year": null
     },
     {
       "player_id": "668939",
@@ -33741,6 +34347,98 @@
       "rc_year": 2021
     },
     {
+      "player_id": "641343",
+      "player_name": "Jake Bauers",
+      "team": "BOS",
+      "current_season": {
+        "season": 2026,
+        "summary": "Jake Bauers is having a season highlighted by 26 home runs, ..266 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "477",
+          "H": "127",
+          "HR": "26",
+          "BA": "..266",
+          "R": "93",
+          "RBI": "86",
+          "SB": "11",
+          "OBP": "..389",
+          "SLG": "..484",
+          "OPS": "..873",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Jake Bauers has produced  career WAR with 84 home runs, 487 hits, and a ..223 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "487",
+          "HR": "84",
+          "BA": "..223",
+          "R": "315",
+          "RBI": "297",
+          "SB": "50",
+          "OBP": "..326",
+          "SLG": "..391",
+          "OPS": "..717",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2019,
+          "label": "2019 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        },
+        {
+          "year": 2016,
+          "label": "2016",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2019
+    },
+    {
       "player_id": "687562",
       "player_name": "Jake Bennett",
       "team": "BOS",
@@ -34301,21 +34999,6 @@
         }
       ],
       "rc_year": null
-    },
-    {
-      "player_id": "670103",
-      "player_name": "Raymond Burgos",
-      "team": "BOS",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025 (RC)",
-          "is_rc_year": true
-        }
-      ],
-      "rc_year": 2025
     },
     {
       "player_id": "701350",
@@ -35145,6 +35828,15 @@
       "rc_year": 2021
     },
     {
+      "player_id": "805664",
+      "player_name": "Brody McCullough",
+      "team": "CHC",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
       "player_id": "690990",
       "player_name": "Cade Horton",
       "team": "CHC",
@@ -35709,6 +36401,41 @@
         }
       ],
       "rc_year": 2023
+    },
+    {
+      "player_id": "694393",
+      "player_name": "Jaxon Wiggins",
+      "team": "CHC",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
     },
     {
       "player_id": "681151",
@@ -36898,6 +37625,15 @@
         }
       ],
       "rc_year": 2024
+    },
+    {
+      "player_id": "807728",
+      "player_name": "Carter Graham",
+      "team": "CIN",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
     },
     {
       "player_id": "695505",
@@ -39239,6 +39975,36 @@
       "rc_year": null
     },
     {
+      "player_id": "702693",
+      "player_name": "Jaison Chourio",
+      "team": "CLE",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "666176",
       "player_name": "Jo Adell",
       "team": "CLE",
@@ -39485,6 +40251,36 @@
       "rc_year": 2024
     },
     {
+      "player_id": "683235",
+      "player_name": "Justin Campbell",
+      "team": "CLE",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "696135",
       "player_name": "Kahlil Watson",
       "team": "CLE",
@@ -39536,6 +40332,21 @@
         {
           "year": 2021,
           "label": "2021",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
+      "player_id": "687627",
+      "player_name": "Kody Huff",
+      "team": "CLE",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2022,
+          "label": "2022",
           "is_rc_year": false
         }
       ],
@@ -40423,6 +41234,21 @@
       "rc_year": 2023
     },
     {
+      "player_id": "700164",
+      "player_name": "Bryant Betancourt",
+      "team": "COL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "801403",
       "player_name": "Chase Dollander",
       "team": "COL",
@@ -40764,6 +41590,46 @@
         }
       ],
       "rc_year": 2024
+    },
+    {
+      "player_id": "694968",
+      "player_name": "Jack Mahoney",
+      "team": "COL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
+      "player_id": "702484",
+      "player_name": "Jackson Cox",
+      "team": "COL",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
     },
     {
       "player_id": "677955",
@@ -42336,6 +43202,41 @@
       "rc_year": null
     },
     {
+      "player_id": "641941",
+      "player_name": "Emilio Pagán",
+      "team": "DET",
+      "current_season": null,
+      "career": {
+        "summary": "Emilio Pagán has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "646241",
       "player_name": "Enmanuel De Jesus",
       "team": "DET",
@@ -42483,78 +43384,6 @@
       "rc_year": 2026
     },
     {
-      "player_id": "690291",
-      "player_name": "Jace Jung",
-      "team": "DET",
-      "current_season": {
-        "season": 2026,
-        "summary": "Jace Jung is having a season highlighted by 0 home runs, ..222 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "9",
-          "H": "2",
-          "HR": "0",
-          "BA": "..222",
-          "R": "2",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..364",
-          "SLG": "..222",
-          "OPS": "..586",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Jace Jung has produced  career WAR with 0 home runs, 26 hits, and a ..193 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "26",
-          "HR": "0",
-          "BA": "..193",
-          "R": "24",
-          "RBI": "6",
-          "SB": "0",
-          "OBP": "..319",
-          "SLG": "..230",
-          "OPS": "..549",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2025
-    },
-    {
       "player_id": "695549",
       "player_name": "Jackson Jobe",
       "team": "DET",
@@ -42636,21 +43465,6 @@
         {
           "year": 2020,
           "label": "2020",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
-    },
-    {
-      "player_id": "805725",
-      "player_name": "Jake Miller",
-      "team": "DET",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2021,
-          "label": "2021",
           "is_rc_year": false
         }
       ],
@@ -42762,6 +43576,26 @@
         }
       },
       "checklist_years": [],
+      "rc_year": null
+    },
+    {
+      "player_id": "800522",
+      "player_name": "Josue Briceño",
+      "team": "DET",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        }
+      ],
       "rc_year": null
     },
     {
@@ -42959,49 +43793,12 @@
       "rc_year": 2021
     },
     {
-      "player_id": "663837",
-      "player_name": "Matt Vierling",
+      "player_id": "801194",
+      "player_name": "Max Anderson",
       "team": "DET",
-      "current_season": {
-        "season": 2026,
-        "summary": "Matt Vierling is having a season highlighted by 5 home runs, ..207 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "266",
-          "H": "55",
-          "HR": "5",
-          "BA": "..207",
-          "R": "24",
-          "RBI": "31",
-          "SB": "4",
-          "OBP": "..255",
-          "SLG": "..335",
-          "OPS": "..590",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Matt Vierling has produced  career WAR with 40 home runs, 437 hits, and a ..250 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "437",
-          "HR": "40",
-          "BA": "..250",
-          "R": "225",
-          "RBI": "181",
-          "SB": "27",
-          "OBP": "..307",
-          "SLG": "..383",
-          "OPS": "..690",
-          "OPS+": ""
-        }
-      },
+      "current_season": null,
+      "career": null,
       "checklist_years": [
-        {
-          "year": 2022,
-          "label": "2022 (RC)",
-          "is_rc_year": true
-        },
         {
           "year": 2026,
           "label": "2026",
@@ -43021,19 +43818,9 @@
           "year": 2023,
           "label": "2023",
           "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
         }
       ],
-      "rc_year": 2022
+      "rc_year": null
     },
     {
       "player_id": "703601",
@@ -43168,6 +43955,31 @@
         }
       ],
       "rc_year": 2024
+    },
+    {
+      "player_id": "689931",
+      "player_name": "Peyton Graham",
+      "team": "DET",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
     },
     {
       "player_id": "681857",
@@ -43412,56 +44224,6 @@
         }
       ],
       "rc_year": null
-    },
-    {
-      "player_id": "700242",
-      "player_name": "Trey Sweeney",
-      "team": "DET",
-      "current_season": null,
-      "career": {
-        "summary": "Trey Sweeney has produced  career WAR with 10 home runs, 82 hits, and a ..202 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "82",
-          "HR": "10",
-          "BA": "..202",
-          "R": "47",
-          "RBI": "49",
-          "SB": "5",
-          "OBP": "..261",
-          "SLG": "..313",
-          "OPS": "..574",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2025
     },
     {
       "player_id": "675512",
@@ -44570,6 +45332,15 @@
       "rc_year": 2021
     },
     {
+      "player_id": "694545",
+      "player_name": "Jackson Nezuh",
+      "team": "HOU",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
       "player_id": "665161",
       "player_name": "Jeremy Peña",
       "team": "HOU",
@@ -44635,63 +45406,6 @@
         }
       ],
       "rc_year": 2022
-    },
-    {
-      "player_id": "694388",
-      "player_name": "Joey Loperfido",
-      "team": "HOU",
-      "current_season": {
-        "season": 2026,
-        "summary": "Joey Loperfido is having a season highlighted by 1 home runs, ..214 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "103",
-          "H": "22",
-          "HR": "1",
-          "BA": "..214",
-          "R": "13",
-          "RBI": "12",
-          "SB": "1",
-          "OBP": "..311",
-          "SLG": "..330",
-          "OPS": "..641",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Joey Loperfido has produced  career WAR with 9 home runs, 106 hits, and a ..240 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "106",
-          "HR": "9",
-          "BA": "..240",
-          "R": "49",
-          "RBI": "51",
-          "SB": "6",
-          "OBP": "..300",
-          "SLG": "..378",
-          "OPS": "..678",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2024,
-          "label": "2024 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2024
     },
     {
       "player_id": "678489",
@@ -45679,6 +46393,15 @@
       "rc_year": 2025
     },
     {
+      "player_id": "682785",
+      "player_name": "Angel Bastardo",
+      "team": "KC",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
       "player_id": "543238",
       "player_name": "Anthony Gose",
       "team": "KC",
@@ -45851,6 +46574,46 @@
       "rc_year": 2022
     },
     {
+      "player_id": "682243",
+      "player_name": "Bryce Miller",
+      "team": "KC",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2023
+    },
+    {
       "player_id": "679922",
       "player_name": "Carlos Duran",
       "team": "KC",
@@ -45864,6 +46627,26 @@
         }
       ],
       "rc_year": 2025
+    },
+    {
+      "player_id": "811287",
+      "player_name": "Carson Roccaforte",
+      "team": "KC",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
     },
     {
       "player_id": "695600",
@@ -46077,36 +46860,6 @@
       "rc_year": 2026
     },
     {
-      "player_id": "663704",
-      "player_name": "James McArthur",
-      "team": "KC",
-      "current_season": null,
-      "career": {
-        "summary": "James McArthur has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..000",
-          "SLG": "..000",
-          "OPS": "..000",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2024,
-          "label": "2024 (RC)",
-          "is_rc_year": true
-        }
-      ],
-      "rc_year": 2024
-    },
-    {
       "player_id": "670231",
       "player_name": "John Rave",
       "team": "KC",
@@ -46162,6 +46915,30 @@
         }
       ],
       "rc_year": 2025
+    },
+    {
+      "player_id": "678606",
+      "player_name": "José A. Ferrer",
+      "team": "KC",
+      "current_season": null,
+      "career": {
+        "summary": "José A. Ferrer has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [],
+      "rc_year": null
     },
     {
       "player_id": "621016",
@@ -46271,6 +47048,30 @@
       "rc_year": 2021
     },
     {
+      "player_id": "688138",
+      "player_name": "Logan Evans",
+      "team": "KC",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025 (RC)",
+          "is_rc_year": true
+        }
+      ],
+      "rc_year": 2025
+    },
+    {
+      "player_id": "814351",
+      "player_name": "Lucas Braun",
+      "team": "KC",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
       "player_id": "668674",
       "player_name": "Lucas Erceg",
       "team": "KC",
@@ -46341,73 +47142,6 @@
         }
       ],
       "rc_year": null
-    },
-    {
-      "player_id": "672580",
-      "player_name": "Maikel Garcia",
-      "team": "KC",
-      "current_season": {
-        "season": 2026,
-        "summary": "Maikel Garcia is having a season highlighted by 3 home runs, ..268 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "310",
-          "H": "83",
-          "HR": "3",
-          "BA": "..268",
-          "R": "40",
-          "RBI": "38",
-          "SB": "5",
-          "OBP": "..334",
-          "SLG": "..381",
-          "OPS": "..715",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Maikel Garcia has produced  career WAR with 30 home runs, 519 hits, and a ..264 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "519",
-          "HR": "30",
-          "BA": "..264",
-          "R": "265",
-          "RBI": "222",
-          "SB": "88",
-          "OBP": "..322",
-          "SLG": "..381",
-          "OPS": "..703",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2023,
-          "label": "2023 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2023
     },
     {
       "player_id": "683090",
@@ -47279,6 +48013,26 @@
       "rc_year": 2023
     },
     {
+      "player_id": "703445",
+      "player_name": "Adam Serwinowski",
+      "team": "LAD",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "669743",
       "player_name": "Alex Call",
       "team": "LAD",
@@ -47655,25 +48409,15 @@
       "rc_year": null
     },
     {
-      "player_id": "686551",
-      "player_name": "Christian Cairo",
+      "player_id": "800537",
+      "player_name": "Christian Zazueta",
       "team": "LAD",
       "current_season": null,
       "career": null,
       "checklist_years": [
         {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
-        },
-        {
-          "year": 2017,
-          "label": "2017",
+          "year": 2026,
+          "label": "2026",
           "is_rc_year": false
         }
       ],
@@ -48208,34 +48952,39 @@
       "rc_year": 2025
     },
     {
-      "player_id": "664776",
-      "player_name": "Jake Cousins",
+      "player_id": "701328",
+      "player_name": "Jackson Ferris",
       "team": "LAD",
       "current_season": null,
-      "career": {
-        "summary": "Jake Cousins has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..000",
-          "SLG": "..000",
-          "OPS": "..000",
-          "OPS+": ""
-        }
-      },
+      "career": null,
       "checklist_years": [
         {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
           "year": 2022,
-          "label": "2022 (RC)",
-          "is_rc_year": true
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
         }
       ],
-      "rc_year": 2022
+      "rc_year": null
     },
     {
       "player_id": "800543",
@@ -48480,6 +49229,15 @@
         }
       ],
       "rc_year": 2024
+    },
+    {
+      "player_id": "803183",
+      "player_name": "Luke Fox",
+      "team": "LAD",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [],
+      "rc_year": null
     },
     {
       "player_id": "571970",
@@ -49345,6 +50103,46 @@
       "rc_year": null
     },
     {
+      "player_id": "691730",
+      "player_name": "Alejandro Rosario",
+      "team": "WSH",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "665953",
       "player_name": "Andrés Chaparro",
       "team": "WSH",
@@ -49598,15 +50396,6 @@
       "rc_year": 2026
     },
     {
-      "player_id": "694820",
-      "player_name": "Braxton Roxby",
-      "team": "WSH",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [],
-      "rc_year": null
-    },
-    {
       "player_id": "682928",
       "player_name": "CJ Abrams",
       "team": "WSH",
@@ -49752,36 +50541,6 @@
         }
       ],
       "rc_year": 2023
-    },
-    {
-      "player_id": "687223",
-      "player_name": "Carson Palmquist",
-      "team": "WSH",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2025
     },
     {
       "player_id": "690925",
@@ -50111,63 +50870,6 @@
       "rc_year": null
     },
     {
-      "player_id": "681402",
-      "player_name": "Gus Varland",
-      "team": "WSH",
-      "current_season": {
-        "season": 2026,
-        "summary": "Gus Varland is having a season highlighted by 0 home runs, ..000 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "0",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..000",
-          "SLG": "..000",
-          "OPS": "..000",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Gus Varland has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..000",
-          "SLG": "..000",
-          "OPS": "..000",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2023,
-          "label": "2023 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2023
-    },
-    {
       "player_id": "695670",
       "player_name": "Harry Ford",
       "team": "WSH",
@@ -50489,6 +51191,36 @@
       "rc_year": null
     },
     {
+      "player_id": "703186",
+      "player_name": "Jarlin Susana",
+      "team": "WSH",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "678391",
       "player_name": "Jorbit Vivas",
       "team": "WSH",
@@ -50559,66 +51291,6 @@
         }
       ],
       "rc_year": 2025
-    },
-    {
-      "player_id": "680686",
-      "player_name": "Josiah Gray",
-      "team": "WSH",
-      "current_season": null,
-      "career": {
-        "summary": "Josiah Gray has produced  career WAR with 0 home runs, 1 hits, and a ..045 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "1",
-          "HR": "0",
-          "BA": "..045",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..087",
-          "SLG": "..045",
-          "OPS": "..132",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2022,
-          "label": "2022 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2022
     },
     {
       "player_id": "660688",
@@ -50909,6 +51581,36 @@
       "rc_year": 2025
     },
     {
+      "player_id": "691769",
+      "player_name": "Philip Abner",
+      "team": "WSH",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "665665",
       "player_name": "Reiver Sanmartin",
       "team": "WSH",
@@ -50968,6 +51670,41 @@
         {
           "year": 2018,
           "label": "2018",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
+      "player_id": "805809",
+      "player_name": "Travis Sykora",
+      "team": "WSH",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
           "is_rc_year": false
         }
       ],
@@ -51698,15 +52435,6 @@
       "rc_year": 2021
     },
     {
-      "player_id": "697811",
-      "player_name": "Dylan Ross",
-      "team": "NYM",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [],
-      "rc_year": null
-    },
-    {
       "player_id": "682626",
       "player_name": "Francisco Alvarez",
       "team": "NYM",
@@ -51998,6 +52726,36 @@
         {
           "year": 2026,
           "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
+      "player_id": "800473",
+      "player_name": "Jefferson Rojas",
+      "team": "NYM",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
           "is_rc_year": false
         },
         {
