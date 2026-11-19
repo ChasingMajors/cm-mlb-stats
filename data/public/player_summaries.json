@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T18:08:45.167Z",
+  "updated_at": "2026-11-19T18:19:59.197Z",
   "season": 2026,
   "players": [
     {
@@ -11804,73 +11804,6 @@
       "rc_year": 2023
     },
     {
-      "player_id": "663743",
-      "player_name": "Nick Fortes",
-      "team": "TB",
-      "current_season": {
-        "season": 2026,
-        "summary": "Nick Fortes is having a season highlighted by 6 home runs, ..258 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "298",
-          "H": "77",
-          "HR": "6",
-          "BA": "..258",
-          "R": "33",
-          "RBI": "35",
-          "SB": "0",
-          "OBP": "..304",
-          "SLG": "..376",
-          "OPS": "..680",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Nick Fortes has produced  career WAR with 34 home runs, 316 hits, and a ..231 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "316",
-          "HR": "34",
-          "BA": "..231",
-          "R": "160",
-          "RBI": "142",
-          "SB": "11",
-          "OBP": "..285",
-          "SLG": "..351",
-          "OPS": "..636",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2022,
-          "label": "2022 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2022
-    },
-    {
       "player_id": "680700",
       "player_name": "Richie Palacios",
       "team": "TB",
@@ -17432,6 +17365,86 @@
       "rc_year": 2023
     },
     {
+      "player_id": "543243",
+      "player_name": "Sonny Gray",
+      "team": "MIN",
+      "current_season": null,
+      "career": {
+        "summary": "Sonny Gray has produced  career WAR with 0 home runs, 14 hits, and a ..141 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "14",
+          "HR": "0",
+          "BA": "..141",
+          "R": "8",
+          "RBI": "3",
+          "SB": "0",
+          "OBP": "..167",
+          "SLG": "..162",
+          "OPS": "..329",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        },
+        {
+          "year": 2016,
+          "label": "2016",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "671737",
       "player_name": "Taj Bradley",
       "team": "MIN",
@@ -22285,6 +22298,81 @@
       "rc_year": 2025
     },
     {
+      "player_id": "669160",
+      "player_name": "Dustin May",
+      "team": "CWS",
+      "current_season": null,
+      "career": {
+        "summary": "Dustin May has produced  career WAR with 0 home runs, 1 hits, and a ..071 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "1",
+          "HR": "0",
+          "BA": "..071",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..071",
+          "SLG": "..071",
+          "OPS": "..142",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "700337",
       "player_name": "Edgar Quero",
       "team": "CWS",
@@ -22606,36 +22694,6 @@
         }
       ],
       "rc_year": 2018
-    },
-    {
-      "player_id": "673929",
-      "player_name": "Jordan Leasure",
-      "team": "CWS",
-      "current_season": null,
-      "career": {
-        "summary": "Jordan Leasure has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "0",
-          "HR": "0",
-          "BA": "..000",
-          "R": "0",
-          "RBI": "0",
-          "SB": "0",
-          "OBP": "..000",
-          "SLG": "..000",
-          "OPS": "..000",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2024,
-          "label": "2024 (RC)",
-          "is_rc_year": true
-        }
-      ],
-      "rc_year": 2024
     },
     {
       "player_id": "691019",
@@ -28790,6 +28848,78 @@
       "rc_year": 2025
     },
     {
+      "player_id": "690291",
+      "player_name": "Jace Jung",
+      "team": "LAA",
+      "current_season": {
+        "season": 2026,
+        "summary": "Jace Jung is having a season highlighted by 0 home runs, ..222 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "9",
+          "H": "2",
+          "HR": "0",
+          "BA": "..222",
+          "R": "2",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..364",
+          "SLG": "..222",
+          "OPS": "..586",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Jace Jung has produced  career WAR with 0 home runs, 26 hits, and a ..193 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "26",
+          "HR": "0",
+          "BA": "..193",
+          "R": "24",
+          "RBI": "6",
+          "SB": "0",
+          "OBP": "..319",
+          "SLG": "..230",
+          "OPS": "..549",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2025
+    },
+    {
       "player_id": "686799",
       "player_name": "Jack Kochanowicz",
       "team": "LAA",
@@ -33872,88 +34002,6 @@
       "rc_year": 2024
     },
     {
-      "player_id": "657136",
-      "player_name": "Connor Wong",
-      "team": "BOS",
-      "current_season": {
-        "season": 2026,
-        "summary": "Connor Wong is having a season highlighted by 4 home runs, ..233 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "210",
-          "H": "49",
-          "HR": "4",
-          "BA": "..233",
-          "R": "22",
-          "RBI": "25",
-          "SB": "3",
-          "OBP": "..308",
-          "SLG": "..348",
-          "OPS": "..656",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Connor Wong has produced  career WAR with 27 home runs, 306 hits, and a ..243 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "306",
-          "HR": "27",
-          "BA": "..243",
-          "R": "158",
-          "RBI": "128",
-          "SB": "21",
-          "OBP": "..304",
-          "SLG": "..372",
-          "OPS": "..676",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2022,
-          "label": "2022 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
-        },
-        {
-          "year": 2017,
-          "label": "2017",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2022
-    },
-    {
       "player_id": "678554",
       "player_name": "Curtis Mead",
       "team": "BOS",
@@ -34877,6 +34925,73 @@
         }
       ],
       "rc_year": 2025
+    },
+    {
+      "player_id": "663743",
+      "player_name": "Nick Fortes",
+      "team": "BOS",
+      "current_season": {
+        "season": 2026,
+        "summary": "Nick Fortes is having a season highlighted by 6 home runs, ..258 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "298",
+          "H": "77",
+          "HR": "6",
+          "BA": "..258",
+          "R": "33",
+          "RBI": "35",
+          "SB": "0",
+          "OBP": "..304",
+          "SLG": "..376",
+          "OPS": "..680",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Nick Fortes has produced  career WAR with 34 home runs, 316 hits, and a ..231 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "316",
+          "HR": "34",
+          "BA": "..231",
+          "R": "160",
+          "RBI": "142",
+          "SB": "11",
+          "OBP": "..285",
+          "SLG": "..351",
+          "OPS": "..636",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2022,
+          "label": "2022 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2022
     },
     {
       "player_id": "686765",
@@ -46959,93 +47074,6 @@
         }
       ],
       "rc_year": 2023
-    },
-    {
-      "player_id": "664728",
-      "player_name": "Kyle Isbel",
-      "team": "KC",
-      "current_season": {
-        "season": 2026,
-        "summary": "Kyle Isbel is having a season highlighted by 6 home runs, ..224 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "294",
-          "H": "66",
-          "HR": "6",
-          "BA": "..224",
-          "R": "32",
-          "RBI": "24",
-          "SB": "6",
-          "OBP": "..268",
-          "SLG": "..323",
-          "OPS": "..591",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Kyle Isbel has produced  career WAR with 29 home runs, 393 hits, and a ..235 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "393",
-          "HR": "29",
-          "BA": "..235",
-          "R": "229",
-          "RBI": "168",
-          "SB": "39",
-          "OBP": "..284",
-          "SLG": "..357",
-          "OPS": "..641",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2021,
-          "label": "2021 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2024,
-          "label": "2024",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        },
-        {
-          "year": 2019,
-          "label": "2019",
-          "is_rc_year": false
-        },
-        {
-          "year": 2018,
-          "label": "2018",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2021
     },
     {
       "player_id": "688138",
