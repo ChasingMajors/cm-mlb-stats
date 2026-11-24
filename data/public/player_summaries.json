@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T21:30:36.744Z",
+  "updated_at": "2026-11-24T20:12:14.812Z",
   "season": 2026,
   "players": [
     {
@@ -24514,6 +24514,61 @@
       "rc_year": 2023
     },
     {
+      "player_id": "608718",
+      "player_name": "Brent Suter",
+      "team": "NYY",
+      "current_season": null,
+      "career": {
+        "summary": "Brent Suter has produced  career WAR with 1 home runs, 8 hits, and a ..154 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "8",
+          "HR": "1",
+          "BA": "..154",
+          "R": "5",
+          "RBI": "4",
+          "SB": "0",
+          "OBP": "..241",
+          "SLG": "..231",
+          "OPS": "..472",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "693645",
       "player_name": "Cam Schlittler",
       "team": "NYY",
@@ -25941,6 +25996,46 @@
         {
           "year": 2018,
           "label": "2018",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
+      "player_id": "657612",
+      "player_name": "Tim Hill",
+      "team": "NYY",
+      "current_season": null,
+      "career": {
+        "summary": "Tim Hill has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
           "is_rc_year": false
         }
       ],
@@ -32042,6 +32137,81 @@
         }
       ],
       "rc_year": 2023
+    },
+    {
+      "player_id": "642547",
+      "player_name": "Freddy Peralta",
+      "team": "BAL",
+      "current_season": null,
+      "career": {
+        "summary": "Freddy Peralta has produced  career WAR with 0 home runs, 7 hits, and a ..083 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "7",
+          "HR": "0",
+          "BA": "..083",
+          "R": "2",
+          "RBI": "2",
+          "SB": "0",
+          "OBP": "..094",
+          "SLG": "..083",
+          "OPS": "..177",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2018,
+          "label": "2018 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2018
     },
     {
       "player_id": "664991",
@@ -46043,6 +46213,58 @@
         }
       ],
       "rc_year": 2023
+    },
+    {
+      "player_id": "573204",
+      "player_name": "Caleb Thielbar",
+      "team": "KC",
+      "current_season": {
+        "season": 2026,
+        "summary": "Caleb Thielbar is having a season highlighted by 0 home runs, ..000 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "0",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Caleb Thielbar has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
     },
     {
       "player_id": "679922",
