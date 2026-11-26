@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T19:21:11.497Z",
+  "updated_at": "2026-11-26T19:04:47.754Z",
   "season": 2026,
   "players": [
     {
@@ -3014,7 +3014,7 @@
       "team": "PIT",
       "current_season": {
         "season": 2026,
-        "summary": "Nick Gonzales is currently 12th in hits and 17th in batting average this season.",
+        "summary": "Nick Gonzales is currently 12th in hits and 16th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "551",
@@ -4892,7 +4892,7 @@
       "team": "SD",
       "current_season": {
         "season": 2026,
-        "summary": "Samad Taylor is currently 11th in batting average this season.",
+        "summary": "Samad Taylor is currently 10th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "152",
@@ -6141,7 +6141,7 @@
       "team": "SEA",
       "current_season": {
         "season": 2026,
-        "summary": "Jhonny Pereda is currently 19th in batting average this season.",
+        "summary": "Jhonny Pereda is currently 18th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "90",
@@ -10689,7 +10689,7 @@
       "team": "TB",
       "current_season": {
         "season": 2026,
-        "summary": "Chandler Simpson is currently 5th in hits, 14th in batting average, and 2nd in stolen bases this season.",
+        "summary": "Chandler Simpson is currently 5th in hits, 13th in batting average, and 2nd in stolen bases this season.",
         "stat_card": {
           "WAR": "",
           "AB": "571",
@@ -14205,7 +14205,7 @@
       "team": "TOR",
       "current_season": {
         "season": 2026,
-        "summary": "Brett Bateman is currently 9th in batting average this season.",
+        "summary": "Brett Bateman is currently 8th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "158",
@@ -23571,7 +23571,7 @@
       "team": "MIA",
       "current_season": {
         "season": 2026,
-        "summary": "Otto Lopez is currently 1st in hits, 16th in batting average, and 7th in stolen bases this season.",
+        "summary": "Otto Lopez is currently 1st in hits, 15th in batting average, and 7th in stolen bases this season.",
         "stat_card": {
           "WAR": "",
           "AB": "627",
@@ -25387,6 +25387,53 @@
       "rc_year": 2024
     },
     {
+      "player_id": "642528",
+      "player_name": "Jonathan Loáisiga",
+      "team": "NYY",
+      "current_season": {
+        "season": 2026,
+        "summary": "Jonathan Loáisiga is having a season highlighted by 0 home runs, ..000 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "0",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Jonathan Loáisiga has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "676609",
       "player_name": "José Caballero",
       "team": "NYY",
@@ -26231,7 +26278,7 @@
       "team": "MIL",
       "current_season": {
         "season": 2026,
-        "summary": "Andrew Vaughn is currently 14th in batting average this season.",
+        "summary": "Andrew Vaughn is currently 13th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "288",
@@ -26331,6 +26378,98 @@
         }
       ],
       "rc_year": 2022
+    },
+    {
+      "player_id": "622608",
+      "player_name": "Antonio Senzatela",
+      "team": "MIL",
+      "current_season": {
+        "season": 2026,
+        "summary": "Antonio Senzatela is having a season highlighted by 0 home runs, ..000 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "0",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Antonio Senzatela has produced  career WAR with 0 home runs, 9 hits, and a ..067 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "9",
+          "HR": "0",
+          "BA": "..067",
+          "R": "5",
+          "RBI": "12",
+          "SB": "0",
+          "OBP": "..074",
+          "SLG": "..081",
+          "OPS": "..155",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        },
+        {
+          "year": 2016,
+          "label": "2016",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
     },
     {
       "player_id": "666310",
@@ -27852,78 +27991,6 @@
         }
       ],
       "rc_year": null
-    },
-    {
-      "player_id": "672012",
-      "player_name": "Tyler Black",
-      "team": "MIL",
-      "current_season": {
-        "season": 2026,
-        "summary": "Tyler Black is currently 8th in batting average this season.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "27",
-          "H": "9",
-          "HR": "0",
-          "BA": "..333",
-          "R": "2",
-          "RBI": "7",
-          "SB": "0",
-          "OBP": "..357",
-          "SLG": "..481",
-          "OPS": "..838",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Tyler Black has produced  career WAR with 0 home runs, 21 hits, and a ..250 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "21",
-          "HR": "0",
-          "BA": "..250",
-          "R": "7",
-          "RBI": "10",
-          "SB": "3",
-          "OBP": "..357",
-          "SLG": "..333",
-          "OPS": "..690",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2024,
-          "label": "2024 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2024
     },
     {
       "player_id": "661388",
@@ -29479,7 +29546,7 @@
       "team": "LAA",
       "current_season": {
         "season": 2026,
-        "summary": "Wade Meckler is currently 19th in batting average this season.",
+        "summary": "Wade Meckler is currently 18th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "300",
@@ -30259,7 +30326,7 @@
       "team": "AZ",
       "current_season": {
         "season": 2026,
-        "summary": "Gabriel Moreno is currently 13th in batting average this season.",
+        "summary": "Gabriel Moreno is currently 12th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "473",
@@ -31521,7 +31588,7 @@
       "team": "BAL",
       "current_season": {
         "season": 2026,
-        "summary": "Blaze Alexander is currently 17th in batting average this season.",
+        "summary": "Blaze Alexander is currently 16th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "261",
@@ -37119,6 +37186,101 @@
       "rc_year": null
     },
     {
+      "player_id": "831664",
+      "player_name": "Teruaki Sato",
+      "team": "CHC",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2021,
+          "label": "2021 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2021
+    },
+    {
+      "player_id": "669432",
+      "player_name": "Trevor Rogers",
+      "team": "CHC",
+      "current_season": null,
+      "career": {
+        "summary": "Trevor Rogers has produced  career WAR with 0 home runs, 3 hits, and a ..067 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "3",
+          "HR": "0",
+          "BA": "..067",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..087",
+          "SLG": "..067",
+          "OPS": "..154",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2021,
+          "label": "2021 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2021
+    },
+    {
       "player_id": "621053",
       "player_name": "Tyler Ferguson",
       "team": "CHC",
@@ -38752,6 +38914,98 @@
         }
       ],
       "rc_year": 2022
+    },
+    {
+      "player_id": "663886",
+      "player_name": "Tyler Stephenson",
+      "team": "CIN",
+      "current_season": {
+        "season": 2026,
+        "summary": "Tyler Stephenson is having a season highlighted by 15 home runs, ..241 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "411",
+          "H": "99",
+          "HR": "15",
+          "BA": "..241",
+          "R": "41",
+          "RBI": "54",
+          "SB": "0",
+          "OBP": "..323",
+          "SLG": "..404",
+          "OPS": "..727",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Tyler Stephenson has produced  career WAR with 78 home runs, 557 hits, and a ..257 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "557",
+          "HR": "78",
+          "BA": "..257",
+          "R": "293",
+          "RBI": "312",
+          "SB": "2",
+          "OBP": "..335",
+          "SLG": "..422",
+          "OPS": "..757",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2021,
+          "label": "2021 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        },
+        {
+          "year": 2016,
+          "label": "2016",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2021
     },
     {
       "player_id": "677943",
@@ -42281,7 +42535,7 @@
       "team": "COL",
       "current_season": {
         "season": 2026,
-        "summary": "TJ Rumfield is currently 16th in hits and 19th in batting average this season.",
+        "summary": "TJ Rumfield is currently 16th in hits and 18th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "547",
@@ -45908,7 +46162,7 @@
       "team": "HOU",
       "current_season": {
         "season": 2026,
-        "summary": "Yordan Alvarez is currently 4th in home runs, 4th in hits, and 11th in batting average this season.",
+        "summary": "Yordan Alvarez is currently 4th in home runs, 4th in hits, and 10th in batting average this season.",
         "stat_card": {
           "WAR": "",
           "AB": "567",
@@ -48588,7 +48842,7 @@
       "team": "LAD",
       "current_season": {
         "season": 2026,
-        "summary": "Josue De Paula is currently 10th in batting average and 3rd in OPS this season.",
+        "summary": "Josue De Paula is currently 9th in batting average and 3rd in OPS this season.",
         "stat_card": {
           "WAR": "",
           "AB": "31",
@@ -49742,6 +49996,81 @@
         }
       ],
       "rc_year": 2024
+    },
+    {
+      "player_id": "640462",
+      "player_name": "A.J. Puk",
+      "team": "WSH",
+      "current_season": null,
+      "career": {
+        "summary": "A.J. Puk has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        },
+        {
+          "year": 2016,
+          "label": "2016",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
     },
     {
       "player_id": "694673",
@@ -51910,6 +52239,30 @@
       "rc_year": 2022
     },
     {
+      "player_id": "650382",
+      "player_name": "Darwinzon Hernández",
+      "team": "NYM",
+      "current_season": null,
+      "career": {
+        "summary": "Darwinzon Hernández has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [],
+      "rc_year": null
+    },
+    {
       "player_id": "673380",
       "player_name": "Dedniel Núñez",
       "team": "NYM",
@@ -52241,21 +52594,6 @@
         }
       ],
       "rc_year": 2023
-    },
-    {
-      "player_id": "681252",
-      "player_name": "Jack Anderson",
-      "team": "NYM",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": null
     },
     {
       "player_id": "674073",
@@ -53375,6 +53713,71 @@
       "rc_year": 2016
     },
     {
+      "player_id": "669373",
+      "player_name": "Tarik Skubal",
+      "team": "NYM",
+      "current_season": null,
+      "career": {
+        "summary": "Tarik Skubal has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2021,
+          "label": "2021 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2021
+    },
+    {
       "player_id": "668964",
       "player_name": "Tobias Myers",
       "team": "NYM",
@@ -53448,15 +53851,6 @@
         }
       ],
       "rc_year": 2022
-    },
-    {
-      "player_id": "814305",
-      "player_name": "Yunior Tur",
-      "team": "NYM",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [],
-      "rc_year": null
     },
     {
       "player_id": "804267",
