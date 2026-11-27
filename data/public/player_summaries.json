@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T19:04:47.754Z",
+  "updated_at": "2026-11-27T19:02:21.216Z",
   "season": 2026,
   "players": [
     {
@@ -4395,6 +4395,61 @@
       "rc_year": 2023
     },
     {
+      "player_id": "668941",
+      "player_name": "JoJo Romero",
+      "team": "SD",
+      "current_season": null,
+      "career": {
+        "summary": "JoJo Romero has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2021,
+          "label": "2021 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2021
+    },
+    {
       "player_id": "605397",
       "player_name": "Joe Musgrove",
       "team": "SD",
@@ -5143,6 +5198,86 @@
           "OBP": "..349",
           "SLG": "..438",
           "OPS": "..787",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        },
+        {
+          "year": 2016,
+          "label": "2016",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
+      "player_id": "506433",
+      "player_name": "Yu Darvish",
+      "team": "SD",
+      "current_season": null,
+      "career": {
+        "summary": "Yu Darvish has produced  career WAR with 1 home runs, 15 hits, and a ..099 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "15",
+          "HR": "1",
+          "BA": "..099",
+          "R": "4",
+          "RBI": "5",
+          "SB": "0",
+          "OBP": "..121",
+          "SLG": "..145",
+          "OPS": "..266",
           "OPS+": ""
         }
       },
@@ -19886,6 +20021,86 @@
       "rc_year": 2022
     },
     {
+      "player_id": "595777",
+      "player_name": "Jurickson Profar",
+      "team": "ATL",
+      "current_season": null,
+      "career": {
+        "summary": "Jurickson Profar has produced  career WAR with 125 home runs, 995 hits, and a ..245 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "995",
+          "HR": "125",
+          "BA": "..245",
+          "R": "584",
+          "RBI": "487",
+          "SB": "66",
+          "OBP": "..333",
+          "SLG": "..398",
+          "OPS": "..731",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        },
+        {
+          "year": 2016,
+          "label": "2016",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "621566",
       "player_name": "Matt Olson",
       "team": "ATL",
@@ -20682,6 +20897,66 @@
         }
       ],
       "rc_year": 2025
+    },
+    {
+      "player_id": "675911",
+      "player_name": "Spencer Strider",
+      "team": "ATL",
+      "current_season": null,
+      "career": {
+        "summary": "Spencer Strider has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2022,
+          "label": "2022 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2022
     },
     {
       "player_id": "700413",
@@ -46353,6 +46628,93 @@
       "rc_year": 2025
     },
     {
+      "player_id": "664761",
+      "player_name": "Alec Bohm",
+      "team": "KC",
+      "current_season": {
+        "season": 2026,
+        "summary": "Alec Bohm is having a season highlighted by 15 home runs, ..249 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "567",
+          "H": "141",
+          "HR": "15",
+          "BA": "..249",
+          "R": "58",
+          "RBI": "88",
+          "SB": "2",
+          "OBP": "..315",
+          "SLG": "..383",
+          "OPS": "..698",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Alec Bohm has produced  career WAR with 85 home runs, 894 hits, and a ..273 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "894",
+          "HR": "85",
+          "BA": "..273",
+          "R": "396",
+          "RBI": "483",
+          "SB": "20",
+          "OBP": "..325",
+          "SLG": "..410",
+          "OPS": "..735",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2018,
+          "label": "2018 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2018
+    },
+    {
       "player_id": "682785",
       "player_name": "Angel Bastardo",
       "team": "KC",
@@ -46681,6 +47043,71 @@
         }
       ],
       "rc_year": 2026
+    },
+    {
+      "player_id": "666142",
+      "player_name": "Cole Ragans",
+      "team": "KC",
+      "current_season": null,
+      "career": {
+        "summary": "Cole Ragans has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        },
+        {
+          "year": 2016,
+          "label": "2016",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2023
     },
     {
       "player_id": "671162",
@@ -47034,6 +47461,41 @@
       "rc_year": null
     },
     {
+      "player_id": "679883",
+      "player_name": "Luinder Avila",
+      "team": "KC",
+      "current_season": null,
+      "career": {
+        "summary": "Luinder Avila has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2026
+    },
+    {
       "player_id": "683090",
       "player_name": "Matthew Lugo",
       "team": "KC",
@@ -47241,26 +47703,6 @@
         }
       ],
       "rc_year": null
-    },
-    {
-      "player_id": "687765",
-      "player_name": "Mitch Spence",
-      "team": "KC",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2024,
-          "label": "2024 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2024
     },
     {
       "player_id": "663878",
@@ -47707,6 +48149,56 @@
         }
       ],
       "rc_year": 2025
+    },
+    {
+      "player_id": "663568",
+      "player_name": "Stephen Kolek",
+      "team": "KC",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2024,
+          "label": "2024 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2024
+    },
+    {
+      "player_id": "674444",
+      "player_name": "Steven Cruz",
+      "team": "KC",
+      "current_season": null,
+      "career": {
+        "summary": "Steven Cruz has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2024,
+          "label": "2024 (RC)",
+          "is_rc_year": true
+        }
+      ],
+      "rc_year": 2024
     },
     {
       "player_id": "686632",
