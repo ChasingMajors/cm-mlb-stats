@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T19:02:21.216Z",
+  "updated_at": "2026-11-28T17:36:59.326Z",
   "season": 2026,
   "players": [
     {
@@ -2228,78 +2228,6 @@
       "rc_year": 2025
     },
     {
-      "player_id": "680779",
-      "player_name": "Henry Davis",
-      "team": "PIT",
-      "current_season": {
-        "season": 2026,
-        "summary": "Henry Davis is having a season highlighted by 10 home runs, ..172 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "256",
-          "H": "44",
-          "HR": "10",
-          "BA": "..172",
-          "R": "33",
-          "RBI": "38",
-          "SB": "3",
-          "OBP": "..272",
-          "SLG": "..313",
-          "OPS": "..585",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Henry Davis has produced  career WAR with 25 home runs, 149 hits, and a ..178 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "149",
-          "HR": "25",
-          "BA": "..178",
-          "R": "94",
-          "RBI": "89",
-          "SB": "8",
-          "OBP": "..265",
-          "SLG": "..300",
-          "OPS": "..565",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2024,
-          "label": "2024 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2025,
-          "label": "2025",
-          "is_rc_year": false
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        },
-        {
-          "year": 2022,
-          "label": "2022",
-          "is_rc_year": false
-        },
-        {
-          "year": 2021,
-          "label": "2021",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2024
-    },
-    {
       "player_id": "682995",
       "player_name": "Hunter Barco",
       "team": "PIT",
@@ -3537,6 +3465,58 @@
         {
           "year": 2022,
           "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2025
+    },
+    {
+      "player_id": "694374",
+      "player_name": "Tim Tawa",
+      "team": "PIT",
+      "current_season": {
+        "season": 2026,
+        "summary": "Tim Tawa is having a season highlighted by 11 home runs, ..240 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "313",
+          "H": "75",
+          "HR": "11",
+          "BA": "..240",
+          "R": "41",
+          "RBI": "42",
+          "SB": "8",
+          "OBP": "..297",
+          "SLG": "..393",
+          "OPS": "..690",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Tim Tawa has produced  career WAR with 18 home runs, 115 hits, and a ..225 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "115",
+          "HR": "18",
+          "BA": "..225",
+          "R": "70",
+          "RBI": "60",
+          "SB": "16",
+          "OBP": "..287",
+          "SLG": "..375",
+          "OPS": "..662",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2025,
+          "label": "2025 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2023,
+          "label": "2023",
           "is_rc_year": false
         }
       ],
@@ -14934,6 +14914,31 @@
       "rc_year": 2023
     },
     {
+      "player_id": "838343",
+      "player_name": "Kaima Taira",
+      "team": "TOR",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
       "player_id": "672960",
       "player_name": "Kazuma Okamoto",
       "team": "TOR",
@@ -16448,6 +16453,46 @@
         {
           "year": 2024,
           "label": "2024",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": null
+    },
+    {
+      "player_id": "656464",
+      "player_name": "Kevin Ginkel",
+      "team": "MIN",
+      "current_season": null,
+      "career": {
+        "summary": "Kevin Ginkel has produced  career WAR with 0 home runs, 0 hits, and a ..000 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "0",
+          "HR": "0",
+          "BA": "..000",
+          "R": "0",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..000",
+          "SLG": "..000",
+          "OPS": "..000",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
           "is_rc_year": false
         }
       ],
@@ -30769,6 +30814,78 @@
       "rc_year": null
     },
     {
+      "player_id": "680779",
+      "player_name": "Henry Davis",
+      "team": "AZ",
+      "current_season": {
+        "season": 2026,
+        "summary": "Henry Davis is having a season highlighted by 10 home runs, ..172 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "256",
+          "H": "44",
+          "HR": "10",
+          "BA": "..172",
+          "R": "33",
+          "RBI": "38",
+          "SB": "3",
+          "OBP": "..272",
+          "SLG": "..313",
+          "OPS": "..585",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Henry Davis has produced  career WAR with 25 home runs, 149 hits, and a ..178 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "149",
+          "HR": "25",
+          "BA": "..178",
+          "R": "94",
+          "RBI": "89",
+          "SB": "8",
+          "OBP": "..265",
+          "SLG": "..300",
+          "OPS": "..565",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2024,
+          "label": "2024 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2021,
+          "label": "2021",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2024
+    },
+    {
       "player_id": "670912",
       "player_name": "Johan Oviedo",
       "team": "AZ",
@@ -31615,58 +31732,6 @@
         }
       ],
       "rc_year": null
-    },
-    {
-      "player_id": "694374",
-      "player_name": "Tim Tawa",
-      "team": "AZ",
-      "current_season": {
-        "season": 2026,
-        "summary": "Tim Tawa is having a season highlighted by 11 home runs, ..240 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "313",
-          "H": "75",
-          "HR": "11",
-          "BA": "..240",
-          "R": "41",
-          "RBI": "42",
-          "SB": "8",
-          "OBP": "..297",
-          "SLG": "..393",
-          "OPS": "..690",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Tim Tawa has produced  career WAR with 18 home runs, 115 hits, and a ..225 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "115",
-          "HR": "18",
-          "BA": "..225",
-          "R": "70",
-          "RBI": "60",
-          "SB": "16",
-          "OBP": "..287",
-          "SLG": "..375",
-          "OPS": "..662",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2025
     },
     {
       "player_id": "694371",
@@ -41702,6 +41767,71 @@
       "rc_year": 2025
     },
     {
+      "player_id": "656849",
+      "player_name": "David Peterson",
+      "team": "COL",
+      "current_season": null,
+      "career": {
+        "summary": "David Peterson has produced  career WAR with 0 home runs, 1 hits, and a ..063 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "1",
+          "HR": "0",
+          "BA": "..063",
+          "R": "2",
+          "RBI": "0",
+          "SB": "0",
+          "OBP": "..118",
+          "SLG": "..125",
+          "OPS": "..243",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2021,
+          "label": "2021 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2021
+    },
+    {
       "player_id": "663436",
       "player_name": "Davis Martin",
       "team": "COL",
@@ -41827,21 +41957,6 @@
         }
       ],
       "rc_year": null
-    },
-    {
-      "player_id": "802686",
-      "player_name": "Hayden Harris",
-      "team": "COL",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2026,
-          "label": "2026 (RC)",
-          "is_rc_year": true
-        }
-      ],
-      "rc_year": 2026
     },
     {
       "player_id": "696100",
@@ -43141,26 +43256,6 @@
       "rc_year": null
     },
     {
-      "player_id": "689225",
-      "player_name": "Beau Brieske",
-      "team": "DET",
-      "current_season": null,
-      "career": null,
-      "checklist_years": [
-        {
-          "year": 2022,
-          "label": "2022 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2023,
-          "label": "2023",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2022
-    },
-    {
       "player_id": "701162",
       "player_name": "Ben Malgeri",
       "team": "DET",
@@ -43639,6 +43734,78 @@
       "rc_year": null
     },
     {
+      "player_id": "673490",
+      "player_name": "Ha-Seong Kim",
+      "team": "DET",
+      "current_season": {
+        "season": 2026,
+        "summary": "Ha-Seong Kim is having a season highlighted by 0 home runs, ..116 batting average, and  WAR.",
+        "stat_card": {
+          "WAR": "",
+          "AB": "129",
+          "H": "15",
+          "HR": "0",
+          "BA": "..116",
+          "R": "11",
+          "RBI": "9",
+          "SB": "2",
+          "OBP": "..219",
+          "SLG": "..140",
+          "OPS": "..359",
+          "OPS+": ""
+        }
+      },
+      "career": {
+        "summary": "Ha-Seong Kim has produced  career WAR with 52 home runs, 473 hits, and a ..234 batting average.",
+        "stat_card": {
+          "WAR": "",
+          "H": "473",
+          "HR": "52",
+          "BA": "..234",
+          "R": "259",
+          "RBI": "226",
+          "SB": "86",
+          "OBP": "..318",
+          "SLG": "..361",
+          "OPS": "..679",
+          "OPS+": ""
+        }
+      },
+      "checklist_years": [
+        {
+          "year": 2021,
+          "label": "2021 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2022,
+          "label": "2022",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2021
+    },
+    {
       "player_id": "701678",
       "player_name": "Hao-Yu Lee",
       "team": "DET",
@@ -44115,6 +44282,56 @@
       "rc_year": 2021
     },
     {
+      "player_id": "661563",
+      "player_name": "Luis Gil",
+      "team": "DET",
+      "current_season": null,
+      "career": null,
+      "checklist_years": [
+        {
+          "year": 2022,
+          "label": "2022 (RC)",
+          "is_rc_year": true
+        },
+        {
+          "year": 2026,
+          "label": "2026",
+          "is_rc_year": false
+        },
+        {
+          "year": 2025,
+          "label": "2025",
+          "is_rc_year": false
+        },
+        {
+          "year": 2024,
+          "label": "2024",
+          "is_rc_year": false
+        },
+        {
+          "year": 2023,
+          "label": "2023",
+          "is_rc_year": false
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "is_rc_year": false
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "is_rc_year": false
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "is_rc_year": false
+        }
+      ],
+      "rc_year": 2022
+    },
+    {
       "player_id": "801194",
       "player_name": "Max Anderson",
       "team": "DET",
@@ -44571,63 +44788,6 @@
         }
       ],
       "rc_year": 2026
-    },
-    {
-      "player_id": "691907",
-      "player_name": "Tsung-Che Cheng",
-      "team": "DET",
-      "current_season": {
-        "season": 2026,
-        "summary": "Tsung-Che Cheng is having a season highlighted by 0 home runs, ..256 batting average, and  WAR.",
-        "stat_card": {
-          "WAR": "",
-          "AB": "39",
-          "H": "10",
-          "HR": "0",
-          "BA": "..256",
-          "R": "7",
-          "RBI": "5",
-          "SB": "0",
-          "OBP": "..318",
-          "SLG": "..282",
-          "OPS": "..600",
-          "OPS+": ""
-        }
-      },
-      "career": {
-        "summary": "Tsung-Che Cheng has produced  career WAR with 0 home runs, 10 hits, and a ..217 batting average.",
-        "stat_card": {
-          "WAR": "",
-          "H": "10",
-          "HR": "0",
-          "BA": "..217",
-          "R": "7",
-          "RBI": "5",
-          "SB": "0",
-          "OBP": "..275",
-          "SLG": "..239",
-          "OPS": "..514",
-          "OPS+": ""
-        }
-      },
-      "checklist_years": [
-        {
-          "year": 2025,
-          "label": "2025 (RC)",
-          "is_rc_year": true
-        },
-        {
-          "year": 2026,
-          "label": "2026",
-          "is_rc_year": false
-        },
-        {
-          "year": 2020,
-          "label": "2020",
-          "is_rc_year": false
-        }
-      ],
-      "rc_year": 2025
     },
     {
       "player_id": "680744",
